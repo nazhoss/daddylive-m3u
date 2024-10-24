@@ -1,6 +1,4 @@
-**Note:** The EPG provider, m3u4u, has temporarily disabled the EPG while they work on an issue. Once they re-enable their service, the guide will start working again.
-
-**Update:** Due to m3u4u proving to be unreliable, I am currently in the process of remapping the channels using an alternative EPG service.
+**Update:** The EPG has now been switched to a different service. If you notice any incorrect guide information for a channel, please report it.
 
 # DaddyLive Live TV & Sports Playlists
 
