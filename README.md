@@ -1,5 +1,3 @@
-**Update:** The EPG has now been switched to a different service. If you notice any incorrect guide information for a channel, please report it.
-
 # DaddyLive Live TV & Sports Playlists
 
 DaddyLive is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
