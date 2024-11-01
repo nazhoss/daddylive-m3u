@@ -3,8 +3,11 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 
+save_as_gz = True  # Set to True to save an additional .gz version
+
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
 output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml')
+output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
     response = requests.get(url)
@@ -15,19 +18,19 @@ def fetch_and_extract_xml(url):
     if url.endswith('.gz'):
         try:
             decompressed_data = gzip.decompress(response.content)
-            return ET.fromstring(decompressed_data.decode('utf-8'))
+            return ET.fromstring(decompressed_data)
         except Exception as e:
             print(f"Failed to decompress and parse XML from {url}: {e}")
             return None
     else:
         try:
-            return ET.fromstring(response.content.decode('utf-8'))
+            return ET.fromstring(response.content)
         except Exception as e:
             print(f"Failed to parse XML from {url}: {e}")
             return None
 
 def filter_and_build_epg(urls):
-    with open(tvg_ids_file, 'r', encoding='utf-8') as file:
+    with open(tvg_ids_file, 'r') as file:
         valid_tvg_ids = set(line.strip() for line in file)
 
     root = ET.Element('tv')
@@ -49,9 +52,12 @@ def filter_and_build_epg(urls):
 
     tree = ET.ElementTree(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
-
     print(f"New EPG saved to {output_file}")
 
+    if save_as_gz:
+        with gzip.open(output_file_gz, 'wb') as f:
+            tree.write(f, encoding='utf-8', xml_declaration=True)
+        print(f"New EPG saved to {output_file_gz}")
 
 urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
