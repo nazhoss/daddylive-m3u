@@ -17,8 +17,9 @@ You can view the full list of channels provided by DaddyLive [here](https://href
 - **Playlist.m3u8:**
   A standard M3U playlist. If you're using this playlist, make sure your IPTV application allows the setting of a custom `Referer`, `Origin`, and `User-Agent` header. The headers must be set in order to access the streams. Failure to set the required headers will result in a 403 error when attempting to stream.
 
-  - **Playlist URL:** `https://bit.ly/ddy-m3u1`  
-  - **EPG URL:** `https://bit.ly/ddy-epg1`  
+  - **Playlist:** `https://bit.ly/ddy-m3u1`
+  - **EPG (XML):** `https://bit.ly/ddy-epg1`
+  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
   **Headers Required:**
   - **Referer:** `https://ilovetoplay.xyz/`
@@ -33,7 +34,8 @@ You can view the full list of channels provided by DaddyLive [here](https://href
   This playlist is specifically formatted for use with TiviMate. Simply load the URL provided in this repository into TiviMate as an "M3U Playlist." No additional setup is needed, as TiviMate handles the required headers for playback.
 
   - **Playlist URL:** `https://bit.ly/ddy-m3u2`  
-  - **EPG URL:** `https://bit.ly/ddy-epg1`  
+  - **EPG (XML):** `https://bit.ly/ddy-epg1`
+  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz` 
 
   **Headers:** *(Automatically handled by TiviMate)*
   - **Referer:** `Included`
@@ -48,7 +50,8 @@ You can view the full list of channels provided by DaddyLive [here](https://href
   This playlist is designed for Kodi, utilizing `#KODIPROP` properties to handle the necessary stream settings, including the required headers. It is optimized for Kodi's PVR IPTV Simple Client, ensuring compatibility with your Kodi setup.
 
   - **Playlist URL:** `https://bit.ly/ddy-m3u3`  
-  - **EPG URL:** `https://bit.ly/ddy-epg1`  
+  - **EPG (XML):** `https://bit.ly/ddy-epg1`
+  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
   **Headers:** *(Automatically handled by Kodi)*
   - **Referer:** `Included`
@@ -63,7 +66,8 @@ You can view the full list of channels provided by DaddyLive [here](https://href
   Optimized for VLC Media Player. This playlist uses VLC-specific formatting to ensure streams play correctly, including setting the necessary headers via `#EXTVLCOPT`.
 
   - **Playlist URL:** `https://bit.ly/ddy-m3u4`  
-  - **EPG URL:** `https://bit.ly/ddy-epg1`  
+  - **EPG (XML):** `https://bit.ly/ddy-epg1`
+  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
   **Headers:** *(Automatically handled by VLC)*
   - **Referer:** `Included`
