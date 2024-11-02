@@ -301,3 +301,11 @@ MOTORSPORT.za
 FOOTBALL.za
 CRICKET.za
 MAXIMO.1.za
+Galavision.HDTV.(East).(GALAH).us
+HBO.Latino.(East).(HBOLe).us
+NewsNation.HDTV.(NEWSNTN).us
+YES.Alternate.HDTV.DirecTV.(YESHDA).us
+SkySp.Mix.HD.uk
+5.USA.uk3
+RDS.Info.(RDSINFO).ca
+RÃ©seau.des.Sports.HDTV.(RDSHD).ca
