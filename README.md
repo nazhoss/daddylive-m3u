@@ -14,28 +14,31 @@ You can view the full list of channels provided by DaddyLive [here](https://href
 
 ### Standard Playlist Information
 
-- **Playlist.m3u8:**
-  A standard M3U playlist. If you're using this playlist, make sure your IPTV application allows the setting of a custom `Referer`, `Origin`, and `User-Agent` header. The headers must be set in order to access the streams. Failure to set the required headers will result in a 403 error when attempting to stream.
+**Playlist.m3u8**  
+This is a standard M3U playlist. To use it, ensure your IPTV application supports custom headers, specifically `Referer`, `Origin`, and `User-Agent`. These headers are required to access the streams, and omitting them will result in a 403 error.
 
-  - **Playlist:** `https://bit.ly/ddy-m3u1`
-  - **EPG (XML):** `https://bit.ly/ddy-epg1`
-  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
+#### Playlist Links
+- **English-Only Playlist:** `https://bit.ly/ddy-m3u1`
+- **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u1-all`
+- **EPG (XML):** `https://bit.ly/ddy-epg1`
+- **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
-  **Headers Required:**
-  - **Referer:** `https://ilovetoplay.xyz/`
-  - **Origin:** `https://ilovetoplay.xyz`   
-  - **User-Agent:** `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36`     
+#### Required Headers
+- **Referer:** `https://ilovetoplay.xyz/`
+- **Origin:** `https://ilovetoplay.xyz`
+- **User-Agent:** `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36`
 
 ---
 
 ### TiviMate Playlist Information
 
-- **tivimate_playlist.m3u8:**
+- **tivimate_playlist.m3u8:**  
   This playlist is specifically formatted for use with TiviMate. Simply load the URL provided in this repository into TiviMate as an "M3U Playlist." No additional setup is needed, as TiviMate handles the required headers for playback.
 
-  - **Playlist URL:** `https://bit.ly/ddy-m3u2`  
+  - **English-Only Playlist:** `https://bit.ly/ddy-m3u2`
+  - **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u2-all`  
   - **EPG (XML):** `https://bit.ly/ddy-epg1`
-  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz` 
+  - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
   **Headers:** *(Automatically handled by TiviMate)*
   - **Referer:** `Included`
@@ -46,10 +49,11 @@ You can view the full list of channels provided by DaddyLive [here](https://href
 
 ### Kodi Playlist Information    
 
-- **kodi_playlist.m3u8:**
+- **kodi_playlist.m3u8:**  
   This playlist is designed for Kodi, utilizing `#KODIPROP` properties to handle the necessary stream settings, including the required headers. It is optimized for Kodi's PVR IPTV Simple Client, ensuring compatibility with your Kodi setup.
 
-  - **Playlist URL:** `https://bit.ly/ddy-m3u3`  
+  - **English-Only Playlist:** `https://bit.ly/ddy-m3u3`
+  - **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u3-all`   
   - **EPG (XML):** `https://bit.ly/ddy-epg1`
   - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
@@ -57,15 +61,17 @@ You can view the full list of channels provided by DaddyLive [here](https://href
   - **Referer:** `Included`
   - **Origin:** `Included`
   - **User-Agent:** `Included`
+
       
 ---
 
 ### VLC Playlist Information
 
-- **vlc_playlist.m3u8:**
+- **vlc_playlist.m3u8:**  
   Optimized for VLC Media Player. This playlist uses VLC-specific formatting to ensure streams play correctly, including setting the necessary headers via `#EXTVLCOPT`.
 
-  - **Playlist URL:** `https://bit.ly/ddy-m3u4`  
+  - **English-Only Playlist:** `https://bit.ly/ddy-m3u4`
+  - **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u4-all`  
   - **EPG (XML):** `https://bit.ly/ddy-epg1`
   - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
@@ -73,6 +79,7 @@ You can view the full list of channels provided by DaddyLive [here](https://href
   - **Referer:** `Included`
   - **Origin:** `Included`
   - **User-Agent:** `Included`
+
 
 
 If none of these playlists work with your IPTV application, you can try using the [m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy). This proxy acts as a middle layer to help resolve potential issues with playing the playlists, especially if your IPTV app doesn't support setting the required headers.
