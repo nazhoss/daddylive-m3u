@@ -17,9 +17,11 @@ You can view the full list of channels provided by DaddyLive [here](https://href
 **Playlist.m3u8**  
 This is a standard M3U playlist. To use it, ensure your IPTV application supports custom headers, specifically `Referer`, `Origin`, and `User-Agent`. These headers are required to access the streams, and omitting them will result in a 403 error.
 
-#### Playlist Links
-- **English-Only Playlist:** `https://bit.ly/ddy-m3u1`
-- **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u1-all`
+#### Playlist URLs
+- **English Only:** `https://bit.ly/ddy-m3u1`
+- **All Regions:** `https://bit.ly/ddy-m3u1-all`
+  
+#### Guide URLs
 - **EPG (XML):** `https://bit.ly/ddy-epg1`
 - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
@@ -33,14 +35,17 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 ### TiviMate Playlist Information
 
 - **tivimate_playlist.m3u8:**  
-  This playlist is specifically formatted for use with TiviMate. Simply load the URL provided in this repository into TiviMate as an "M3U Playlist." No additional setup is needed, as TiviMate handles the required headers for playback.
+  This playlist is specifically formatted for use with TiviMate. Simply load the URL provided in this repository into TiviMate as an "M3U Playlist." No additional setup is needed, as TiviMate automatically manages the required headers for playback.
 
-  - **English-Only Playlist:** `https://bit.ly/ddy-m3u2`
-  - **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u2-all`  
+#### Playlist URLs
+  - **English Only:** `https://bit.ly/ddy-m3u2`
+  - **All Regions:** `https://bit.ly/ddy-m3u2-all`
+
+#### Guide URLs
   - **EPG (XML):** `https://bit.ly/ddy-epg1`
   - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
-  **Headers:** *(Automatically handled by TiviMate)*
+**Headers:** *(Automatically handled by TiviMate)*
   - **Referer:** `Included`
   - **Origin:** `Included`
   - **User-Agent:** `Included`
@@ -52,8 +57,11 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **kodi_playlist.m3u8:**  
   This playlist is designed for Kodi, utilizing `#KODIPROP` properties to handle the necessary stream settings, including the required headers. It is optimized for Kodi's PVR IPTV Simple Client, ensuring compatibility with your Kodi setup.
 
-  - **English-Only Playlist:** `https://bit.ly/ddy-m3u3`
-  - **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u3-all`   
+#### Playlist URLs
+  - **English Only:** `https://bit.ly/ddy-m3u3`
+  - **All Regions:** `https://bit.ly/ddy-m3u3-all`
+  
+#### Guide URLs
   - **EPG (XML):** `https://bit.ly/ddy-epg1`
   - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
@@ -70,8 +78,11 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **vlc_playlist.m3u8:**  
   Optimized for VLC Media Player. This playlist uses VLC-specific formatting to ensure streams play correctly, including setting the necessary headers via `#EXTVLCOPT`.
 
-  - **English-Only Playlist:** `https://bit.ly/ddy-m3u4`
-  - **Full Playlist (All Channels):** `https://bit.ly/ddy-m3u4-all`  
+#### Playlist URLs
+  - **English Only:** `https://bit.ly/ddy-m3u4`
+  - **All Regions:** `https://bit.ly/ddy-m3u4-all`
+
+#### Guide URLs
   - **EPG (XML):** `https://bit.ly/ddy-epg1`
   - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
