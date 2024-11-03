@@ -366,7 +366,6 @@ ESPN2(src01).nl
 RTL7(src01).nl
 ZiggoSport(src01).nl
 ZiggoSport1Select(src01).nl
-https://upload.wikimedia.org/wikipedia/commons/4/45/Alkass_Sports_logo_%28cropped%29.jpg
 AXNMovies(src01).pt
 BenficaTVMulticamaras(src01).pt
 Canal11(src01).pt
