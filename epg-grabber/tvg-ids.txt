@@ -409,3 +409,4 @@ RealmadridTV(src01).es
 TELECINCO(src01).es
 TVE(src01).es
 TELEDEPORTE(src01).es
+Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us
