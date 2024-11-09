@@ -341,6 +341,9 @@ https://xyzdddd.mizhls.ru/lb/premium837/index.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" group-title="SPORTS (DADDY LIVE)",ACC Network
 https://xyzdddd.mizhls.ru/lb/premium664/index.m3u8
 
+#EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-name="Altitude Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Altitude Sports
+https://xyzdddd.mizhls.ru/lb/premium923/index.m3u8
+
 #EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-name="BeIN SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="SPORTS (DADDY LIVE)",BeIN SPORTS
 https://xyzdddd.mizhls.ru/lb/premium425/index.m3u8
 
