@@ -1,26 +1,9 @@
-The Disney Channel (West).us
-Disney XD USA HD - Pacific Feed (1305).us
-Disney Junior USA - West (306).us
-Altitude Sports and Entertainment (Colorado) HDTV 24/7.us
-Bally Sports Great Lakes HD.us
-MTV2 HDTV (East).us
-TNT HD - Pacific Feed (1109).us
-NBC Sports Washington HDTV 24/7.us
-TNT.ar
-TNT - Pacific Feed (109).us
-HBO (West).us
-HBO Comedy (West).us
-HBO Family (West).us
-HBO Latino (West).us
-HBO Signature (West).us
-HBO Zone (West).us
-HBO.pl
-Showtime (West).us
-Showtime 2 (West).us
-Showtime Showcase (West).us
-Showtime Extreme HDTV (West).us
-Showtime FamilyZone (East).us
-Showtime Next (East).us
-Showtime Women (East).us
-Starz (West).us
 Syfy HDTV.us
+HBO.HDTV.(East).(HBOHD).us
+HBO.2.HDTV.(East).(HBO2HD).us
+HBO.Comedy.HDTV.(East).(HBOCHD).us
+HBO.Family.HDTV.(East).(HBOFHD).us
+HBO.Latino.(East).(HBOLe).us
+HBO.Signature.HDTV.(East).(HBOSHD).us
+HBO.Zone.HDTV.(East).(HBOZHD).us
+STARZ.HD.(East).(STZHD).us
