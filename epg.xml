@@ -1,5 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Syfy HDTV.us"><display-name>Syfy HDTV.us</display-name></channel>
+<tv><channel id="FOX SPORTS PREMIUM.mx"><display-name>FOX SPORTS PREMIUM.mx</display-name></channel>
+<channel id="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><display-name>Altitude Sports and Entertainment (Colorado) HDTV 24/7.us</display-name></channel>
+<channel id="Syfy HDTV.us"><display-name>Syfy HDTV.us</display-name></channel>
+<channel id="FOX.us"><display-name>FOX.us</display-name></channel>
+<programme start="20241115004400 +0000" stop="20241115011400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL GameDay</title><Sub-title /><desc>Disfruta de este segmento que destaca los mejores partidos de la Liga Nacional de Fútbol Americano, ofreciendo datos de interés, análisis de los equipos, entrevistas a los jugadores, pronósticos de los futuros encuentros y mucho más.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115011400 +0000" stop="20241115043000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL</title><Sub-title>Washington Commanders vs. Philadelphia Eagles, Temporada regular, Neo Quimica Arena</Sub-title><desc>Vive los partidos de la edición 105º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241115043000 +0000" stop="20241115070000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC</title><Sub-title>Fight Night: Neil Magny vs. Carlos Prates</Sub-title><desc>Es la mayor empresa de artes marciales mixtas en el mundo que produce eventos durante todo el año.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115070000 +0000" stop="20241115083000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Un programa de lucha libre que cuenta con luchadores tan destacados a nivel mundial como Jon Moxley, Chris Jericho, Kenny Omega, The Young Bucks, Matt Hardy y Cody Rhodes.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115083000 +0000" stop="20241115100000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>WWE SmackDown</title><Sub-title /><desc>WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115100000 +0000" stop="20241115120000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas</title><Sub-title>Olimpo United vs. Real TitÃ¡n / West Santos vs. Peluche Caligari</Sub-title><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241115120000 +0000" stop="20241115140000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UEFA Conference League</title><Sub-title>Real Betis (Esp) vs. Celje (Svn), Fecha 3 - Fase de Liga, Estadio Benito VillamarÃ­n</Sub-title><desc>Todos los partidos de la cuarta edición de la competición continental de Europa. La Liga Europa Conferencia de la UEFA es una competencia que reúne a 32 equipos que juegan 141 partidos durante 15 semanas en encuentros únicos y esperados.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241115140000 +0000" stop="20241115163000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Invicta FC</title><Sub-title>58: Emily Ducote vs. Yulia Ostroverkhova</Sub-title><desc>Una edición que muestra a Invicta Fighting Championships, la empresa de artes marciales mixtas con sede en Estados Unidos compuesta solamente por mujeres. Esta entidad fue fundada en 2012 por Janet Martin y Shannon Knapp.</desc><episode-num system="xmltv_ns">2022..</episode-num></programme>
+<programme start="20241115163000 +0000" stop="20241115170000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Netbusters</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115170000 +0000" stop="20241115190000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Tottenham Hotspur vs. Ipswich Town, Fecha 11, Tottenham Hotspur Stadium</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241115190000 +0000" stop="20241115210000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas</title><Sub-title>Olimpo United vs. Real TitÃ¡n / West Santos vs. Peluche Caligari</Sub-title><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241115210000 +0000" stop="20241115230000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Pachuca vs. JuÃ¡rez, Cuartos de final - Vuelta, Estadio Hidalgo</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115230000 +0000" stop="20241116020000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Pachuca vs. Monterrey, Semifinal - Ida, Estadio Hidalgo</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116020000 +0000" stop="20241116040000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC</title><Sub-title>Fight Night: Neil Magny vs. Carlos Prates</Sub-title><desc>Es la mayor empresa de artes marciales mixtas en el mundo que produce eventos durante todo el año.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116040000 +0000" stop="20241116050000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC Countdown</title><Sub-title>309</Sub-title><desc>Forma parte del conteo regresivo de la UFC, en el cual te llevaremos un análisis de los guerreros que están por enfrentarse en las más aguerridas peleas y te mostraremos el panorama y los pronósticos de las próximas luchas.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116050000 +0000" stop="20241116053000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>49ers Insights</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116053000 +0000" stop="20241116063000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Rampage</title><Sub-title /><desc>Programa de lucha libre profesional. Fue producido por la promoción estadounidense All Elite Wrestling (AEW).</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116063000 +0000" stop="20241116080000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>WWE SmackDown</title><Sub-title /><desc>WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116080000 +0000" stop="20241116103000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier Boxing Champions - Bakhram Murta...</title><Sub-title /><desc>Premier Boxing Champions exhibe peleas de alta categoría entre muchos de los personajes más conocidos del mundo del boxeo</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116103000 +0000" stop="20241116113000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC Countdown</title><Sub-title>309: Jones vs. Miocic</Sub-title><desc>Forma parte del conteo regresivo de la UFC, en el cual te llevaremos un análisis de los guerreros que están por enfrentarse en las más aguerridas peleas y te mostraremos el panorama y los pronósticos de las próximas luchas.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116113000 +0000" stop="20241116120000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>49ers Insights</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116120000 +0000" stop="20241116140000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UEFA Europa League</title><Sub-title>Royale Union SG (Bel) vs. Roma (Ita), Fecha 4 - Fase de Liga, Stade Joseph Marien</Sub-title><desc>Todos los partidos de la 54 edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región con análisis, goles y resultados encuentro tras encuentro de la mano de un equipo experto de periodistas deportivos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116140000 +0000" stop="20241116160000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Tottenham Hotspur vs. West Ham Utd., Fecha 8, Tottenham Hotspur Stadium</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116160000 +0000" stop="20241116180000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Fulham vs. Aston Villa, Fecha 8, Craven Cottage</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116180000 +0000" stop="20241116183000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PL Stories</title><Sub-title>Sami Hyypia</Sub-title><desc>Los ejecutivos de los clubes de la Premier League hablan sobre los elementos clave que hacen que la liga sea única e interesante para millones de personas en todo el mundo.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116183000 +0000" stop="20241116190000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Big Interview</title><Sub-title>Episodio: Alphonse Areola</Sub-title><desc>Espacio que invita a la reflexión con entrevistas en profundidad de algunos de los artistas más talentosos de toda la industria del entretenimiento, con un toque analítico, objetivo e íntimo que explora sus vidas.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116190000 +0000" stop="20241116193000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The 84 Lumber Mike Tomlin Show</title><Sub-title>Episodio 11</Sub-title><desc>El coach Mike Tomlin analiza semana a semana los partidos de fútbol americano de los Pittsburgh Steelers. El conductor habla sobre los jugadores en el roster del equipo y sobre las decisiones que toma en cada en juego.</desc><episode-num system="xmltv_ns">2022..</episode-num></programme>
+<programme start="20241116193000 +0000" stop="20241116200000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Franchise</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116200000 +0000" stop="20241116203000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>49ers Insights</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116203000 +0000" stop="20241116220000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Un programa de lucha libre que cuenta con luchadores tan destacados a nivel mundial como Jon Moxley, Chris Jericho, Kenny Omega, The Young Bucks, Matt Hardy y Cody Rhodes.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116220000 +0000" stop="20241116230000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC Countdown</title><Sub-title>309: Jones vs. Miocic</Sub-title><desc>Forma parte del conteo regresivo de la UFC, en el cual te llevaremos un análisis de los guerreros que están por enfrentarse en las más aguerridas peleas y te mostraremos el panorama y los pronósticos de las próximas luchas.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241116230000 +0000" stop="20241117030000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC Preliminares</title><Sub-title>309: Stipe Miocic vs. Jon Jones</Sub-title><desc>Disfruta de los encuentros preliminares de la Ultimate Fight Champions, que reúne a los mejores luchadores del mundo para enfrentarse y avanzar hasta las finales.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117030000 +0000" stop="20241117070000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC</title><Sub-title>309: Jon Jones vs. Stipe Miocic</Sub-title><desc>Es la mayor empresa de artes marciales mixtas en el mundo que produce eventos durante todo el año.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117070000 +0000" stop="20241117073000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The 84 Lumber Mike Tomlin Show Episodio1...</title><Sub-title /><desc>El coach Mike Tomlin analiza semana a semana los partidos de fútbol americano de los Pittsburgh Steelers. El conductor habla sobre los jugadores en el roster del equipo y sobre las decisiones que toma en cada en juego.</desc><episode-num system="xmltv_ns">2022..</episode-num></programme>
+<programme start="20241117073000 +0000" stop="20241117093000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Queens League Américas - Muchachas FC v...</title><Sub-title /><desc>Un espacio que aborda el desarrollo de la competición de fútbol, Queens League OYSHO Américas. La competencia se juega con un formato similar al del fútbol siete, pero con una serie de reglas innovadoras.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241117093000 +0000" stop="20241117100000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Big Interview</title><Sub-title>Episodio: Alphonse Areola</Sub-title><desc>Espacio que invita a la reflexión con entrevistas en profundidad de algunos de los artistas más talentosos de toda la industria del entretenimiento, con un toque analítico, objetivo e íntimo que explora sus vidas.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117100000 +0000" stop="20241117103000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PL Stories</title><Sub-title>Sami Hyypia</Sub-title><desc>Los ejecutivos de los clubes de la Premier League hablan sobre los elementos clave que hacen que la liga sea única e interesante para millones de personas en todo el mundo.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117103000 +0000" stop="20241117120000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Collision</title><Sub-title /><desc>Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117120000 +0000" stop="20241117140000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Wolverhampton Wanderers vs. Manchester City, Fecha 8, Molineux Stadium</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241117140000 +0000" stop="20241117160000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Arsenal vs. Liverpool, Fecha 9, Emirates Stadium</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241117160000 +0000" stop="20241117163000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Franchise</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117163000 +0000" stop="20241117170000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL GameDay</title><Sub-title /><desc>Disfruta de este segmento que destaca los mejores partidos de la Liga Nacional de Fútbol Americano, ofreciendo datos de interés, análisis de los equipos, entrevistas a los jugadores, pronósticos de los futuros encuentros y mucho más.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117170000 +0000" stop="20241117172000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The 84 Lumber Mike Tomlin Show</title><Sub-title>Episodio 11</Sub-title><desc>El coach Mike Tomlin analiza semana a semana los partidos de fútbol americano de los Pittsburgh Steelers. El conductor habla sobre los jugadores en el roster del equipo y sobre las decisiones que toma en cada en juego.</desc><episode-num system="xmltv_ns">2022..</episode-num></programme>
+<programme start="20241117172000 +0000" stop="20241117175000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>49ers Insights</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117175000 +0000" stop="20241117210000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL</title><Sub-title>Baltimore Ravens vs. Pittsburgh Steelers, Temporada regular, Acrisure Stadium</Sub-title><desc>Vive los partidos de la edición 105º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241117210000 +0000" stop="20241118000000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL</title><Sub-title>Kansas City Chiefs vs. Buffalo Bills, Temporada regular, Highmark Stadium</Sub-title><desc>Vive los partidos de la edición 105º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241118000000 +0000" stop="20241118020000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Tigres UANL vs. AmÃ©rica, Semifinal - Vuelta, Estadio Universitario</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118020000 +0000" stop="20241118030000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga de ExpansiÃ³n MX</title><Sub-title>Semifinal - Vuelta</Sub-title><desc>Vive los partidos del 9º torneo de la Liga de Expansión MX, una liga de fútbol fundada en el año 2020 como parte del Proyecto de Estabilización.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118030000 +0000" stop="20241118043000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Un programa de lucha libre que cuenta con luchadores tan destacados a nivel mundial como Jon Moxley, Chris Jericho, Kenny Omega, The Young Bucks, Matt Hardy y Cody Rhodes.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118043000 +0000" stop="20241118053000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Rampage</title><Sub-title /><desc>Programa de lucha libre profesional. Fue producido por la promoción estadounidense All Elite Wrestling (AEW).</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118053000 +0000" stop="20241118070000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Collision</title><Sub-title /><desc>Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118070000 +0000" stop="20241118073000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Big Interview - Episodio: Alphonse A...</title><Sub-title /><desc>Espacio que invita a la reflexión con entrevistas en profundidad de algunos de los artistas más talentosos de toda la industria del entretenimiento, con un toque analítico, objetivo e íntimo que explora sus vidas.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118073000 +0000" stop="20241118093000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas - West Santos vs. ...</title><Sub-title /><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241118093000 +0000" stop="20241118120000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC</title><Sub-title>309: Jon Jones vs. Stipe Miocic</Sub-title><desc>Es la mayor empresa de artes marciales mixtas en el mundo que produce eventos durante todo el año.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118120000 +0000" stop="20241118140000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX</title><Sub-title>MazatlÃ¡n vs. Pumas UNAM, Fecha 17, Estadio MazatlÃ¡n</Sub-title><desc>Vive los partidos de la 112º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 57º torneo corto con el que culmina la temporada 2023-2024.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118140000 +0000" stop="20241118170000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Fox Sports Premium</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118170000 +0000" stop="20241118200000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Fox Sports Premium</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118200000 +0000" stop="20241118220000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Fox Sports Premium</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118220000 +0000" stop="20241118230000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>El show de la FÃ³rmula 1</title><Sub-title /><desc>Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241115010000 +0000" stop="20241115033200 +0000" channel="Syfy HDTV.us"><title>Lethal Weapon 3 (1992)</title><Sub-title /><desc>Two Los Angeles police detectives battle a cop-turned-criminal who runs an illegal gun operation.</desc><episode-num system="xmltv_ns">1..</episode-num></programme>
 <programme start="20241115033200 +0000" stop="20241115063000 +0000" channel="Syfy HDTV.us"><title>Lethal Weapon 4 (1998)</title><Sub-title /><desc>Chris Rock joins franchise stars Mel Gibson and Danny Glover as cops investigating smugglers bringing in illegal Chinese immigrants.</desc><episode-num system="xmltv_ns">1..</episode-num></programme>
 <programme start="20241115063000 +0000" stop="20241115090000 +0000" channel="Syfy HDTV.us"><title>Pacific Rim: Uprising (2018)</title><Sub-title /><desc>When the aliens known as Kaiju invade Earth again, Mako Mori recruits her estranged brother Jake, son of fallen hero Stacker Pentecost, to lead a new team of Jaeger robot pilots. Now, the young pilots must face more advanced monsters to save the world.</desc><episode-num system="xmltv_ns" /></programme>
@@ -38,6 +100,141 @@
 <programme start="20241117190000 +0000" stop="20241117210300 +0000" channel="Syfy HDTV.us"><title>The Hitmans Wifes Bodyguard (2021)</title><Sub-title /><desc>Assassin Darius Kincaid faces unprecedented territory as his wife Sonia becomes the latest target amongst his countless enemies. Darius then calls in a favor from his longtime friend, bodyguard Michael Bryce, to rescue Sonia and thwart the sinister designs of their mutual foes.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241117210300 +0000" stop="20241118000300 +0000" channel="Syfy HDTV.us"><title>The Matrix (1999)</title><Sub-title /><desc>A computer hacker is introduced to an alternate reality by a fugitive.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241118000300 +0000" stop="20241118030300 +0000" channel="Syfy HDTV.us"><title>The Matrix Reloaded (2003)</title><Sub-title /><desc>Keanu Reeves returns as Neo, who continues his quest to save mankind from deadly machines.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115003000 +0000" stop="20241115013000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fairways of Life with Matt Adams</title><Sub-title>02-002</Sub-title><desc>Author and Golf Channel host Matt Adams brings you inside the ropes for exclusive interviews with all of golfs stars; equipment updates; instruction for your game; the latest headlines and more.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115013000 +0000" stop="20241115020000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Golf Life</title><Sub-title /><desc>A look at golf courses, training tips and mental aspects of the game.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115020000 +0000" stop="20241115023000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>01-003</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241115023000 +0000" stop="20241115033000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fight Sports: World Championship Kickboxing</title><Sub-title>100,000 Euro 72.5kg Tournament Finals</Sub-title><desc>Kickboxing and Mui Thai fighting action.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115033000 +0000" stop="20241115053000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fight Sports: Boxing</title><Sub-title>2022: Chris Billam-Smith vs. Armend Xhoxhaj</Sub-title><desc>From 2022: Cruiserweight champ Chris Billam-Smith vs. Armend Xhoxhaj in Bournemouth, England.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115053000 +0000" stop="20241115060000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241115060000 +0000" stop="20241115070000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Poker Night in America</title><Sub-title>11-14-2024</Sub-title><desc>High-stakes cash games featuring pokers biggest names in a loose atmosphere.</desc><episode-num system="xmltv_ns">11.136.</episode-num></programme>
+<programme start="20241115070000 +0000" stop="20241115080000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fairways of Life with Matt Adams</title><Sub-title>02-002</Sub-title><desc>Author and Golf Channel host Matt Adams brings you inside the ropes for exclusive interviews with all of golfs stars; equipment updates; instruction for your game; the latest headlines and more.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115080000 +0000" stop="20241115083000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241115083000 +0000" stop="20241115090000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Sports Stars of Tomorrow</title><Sub-title /><desc>Sports Stars of Tomorrow is a United States nationally-syndicated sports television show about high school and college athletics. The show, which is hosted by well known college and NFL television analyst Charles Davis, takes its viewers across the country in search of the brightest young stars in sports. Sports Stars of Tomorrow is the only high-school sports program in national syndication.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115090000 +0000" stop="20241115100000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Kid Rodeo</title><Sub-title>Stepping Stone to Sin City</Sub-title><desc>Bradlee prepares for his first day of school and gives his sister a scare. Hagen practices and meditates with Hall-of-Fame bull rider, Gary Leffew.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115100000 +0000" stop="20241115110000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>World Poker Tour</title><Sub-title>WPT Seminole Hard Rock Poker Showdown - Part 4 (Week of 10/29)</Sub-title><desc>Players compete for big prizes in high-stakes poker tournaments. Watch as strategy, skill, and luck unfold in thrilling games across the globe.</desc><episode-num system="xmltv_ns">19.112.</episode-num></programme>
+<programme start="20241115110000 +0000" stop="20241115113000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115113000 +0000" stop="20241115120000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115120000 +0000" stop="20241115123000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115123000 +0000" stop="20241115130000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115130000 +0000" stop="20241115133000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115133000 +0000" stop="20241115140000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115140000 +0000" stop="20241115150000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Moser, Lombardi and Kane on Altitude</title><Sub-title /><desc>Vic Lombardi, Marc Moser and Brett Kane host a Denver morning sports-radio simulcast, filled with laughs, opinons and topics from Colorado to the national scene.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115150000 +0000" stop="20241115160000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Moser, Lombardi and Kane on Altitude</title><Sub-title /><desc>Vic Lombardi, Marc Moser and Brett Kane host a Denver morning sports-radio simulcast, filled with laughs, opinons and topics from Colorado to the national scene.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115160000 +0000" stop="20241115170000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Moser, Lombardi and Kane on Altitude</title><Sub-title /><desc>Vic Lombardi, Marc Moser and Brett Kane host a Denver morning sports-radio simulcast, filled with laughs, opinons and topics from Colorado to the national scene.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115170000 +0000" stop="20241115173000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241115173000 +0000" stop="20241115180000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Golf Life</title><Sub-title /><desc>A look at golf courses, training tips and mental aspects of the game.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115180000 +0000" stop="20241115190000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Kid Rodeo</title><Sub-title>Stepping Stone to Sin City</Sub-title><desc>Bradlee prepares for his first day of school and gives his sister a scare. Hagen practices and meditates with Hall-of-Fame bull rider, Gary Leffew.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115190000 +0000" stop="20241115200000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Remembering Mutombo</title><Sub-title /><desc>A retrospective on the life, basketball career and humanitarian drive and dedication of former Denver Nuggets big man Dikembe Mutombo.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115200000 +0000" stop="20241115210000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>World Poker Tour</title><Sub-title>WPT Choctaw - Part 1 (Week of 4/28)</Sub-title><desc>WPT Choctaw - Part 1 (Week of 4/28).</desc><episode-num system="xmltv_ns">19.225.</episode-num></programme>
+<programme start="20241115210000 +0000" stop="20241115213000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>The Reluctant Outdoorsman</title><Sub-title>The Reluctant Waddell</Sub-title><desc>Derek learns the nuances of southern living (including dirty bikes and deer stands) from famed hunter Michael Waddell.</desc><episode-num system="xmltv_ns">0.9.</episode-num></programme>
+<programme start="20241115213000 +0000" stop="20241115220000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A Fishing Story</title><Sub-title /><desc>Anglers from all walks of life share their tales.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115220000 +0000" stop="20241115223000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fishful Thinker</title><Sub-title /><desc>Angler Chad LaChance visits top freshwater and saltwater fishing destinations.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115223000 +0000" stop="20241115233000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Super Girl Pro Series</title><Sub-title>Nissan Super Girl Surf Pro</Sub-title><desc>The only all-womens action sports, eSports and lifestyle series in the world.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115233000 +0000" stop="20241116000000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241116000000 +0000" stop="20241116010000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Live!</title><Sub-title /><desc>An open discussion about the Denver Nuggets, mixed with interviews and fan involvement.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116010000 +0000" stop="20241116033000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NBA Basketball</title><Sub-title>Denver Nuggets at New Orleans Pelicans</Sub-title><desc>Denver Nuggets at New Orleans Pelicans in an NBA Cup game in Group West C. From Smoothie King Center.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116033000 +0000" stop="20241116041500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Postgame Live</title><Sub-title /><desc>Denver Nuggets basketball highlights, interviews and analysis.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116041500 +0000" stop="20241116051500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Remembering Mutombo</title><Sub-title /><desc>A retrospective on the life, basketball career and humanitarian drive and dedication of former Denver Nuggets big man Dikembe Mutombo.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116051500 +0000" stop="20241116054500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241116054500 +0000" stop="20241116060000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Altitude Extra</title><Sub-title>Fat Lever</Sub-title><desc>Fat Lever is featured.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116060000 +0000" stop="20241116083000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NHL Hockey</title><Sub-title>Washington Capitals vs. Colorado Avalanche</Sub-title><desc>Washington Capitals vs. Colorado Avalanche. From Ball Arena.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116083000 +0000" stop="20241116090000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Avalanche Postgame</title><Sub-title /><desc>A wrap-up of Colorado Avalanche hockey.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116090000 +0000" stop="20241116093000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Avalanche Postgame Live Extra 2024-25</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116093000 +0000" stop="20241116120000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NBA Basketball</title><Sub-title>Denver Nuggets at New Orleans Pelicans</Sub-title><desc>Denver Nuggets at New Orleans Pelicans in an NBA Cup game in Group West C. From Smoothie King Center.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116120000 +0000" stop="20241116124500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Postgame Live</title><Sub-title /><desc>Denver Nuggets basketball highlights, interviews and analysis.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116124500 +0000" stop="20241116130000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Altitude Extra</title><Sub-title>Brihanna Crittendon- Colorados 4A Ms. Basketball 2024</Sub-title><desc>Short sports features on athletes and teams in the Denver area.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116130000 +0000" stop="20241116153000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NHL Hockey</title><Sub-title>Washington Capitals vs. Colorado Avalanche</Sub-title><desc>Washington Capitals vs. Colorado Avalanche. From Ball Arena.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116153000 +0000" stop="20241116160000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Avalanche Postgame Live Extra 2024-25</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116160000 +0000" stop="20241116163000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116163000 +0000" stop="20241116170000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Who Has Access to Your Data</title><Sub-title /><desc>Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116170000 +0000" stop="20241116173000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fishful Thinker</title><Sub-title /><desc>Angler Chad LaChance visits top freshwater and saltwater fishing destinations.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116173000 +0000" stop="20241116180000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A Fishing Story</title><Sub-title /><desc>Anglers from all walks of life share their tales.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116180000 +0000" stop="20241116183000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Home Title Lock V3</title><Sub-title /><desc>Home Title Lock - Title Theft is Real and Your Equity is at Risk. Protect the Title to Your Home Today with Americas Leader in Home Title Monitoring, Change Alerts and Title Restoration.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116183000 +0000" stop="20241116190000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Christmas Lighting Made Easy</title><Sub-title /><desc>Decorating your entire home has never been easier with the brand new Star Shower Ultra 9 laser light show! Now with 9 different patterns, your home will dazzle with thousands of bright colorful stars in just minutes!</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116190000 +0000" stop="20241116193000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Cleaning Secret Weapon!</title><Sub-title /><desc>The Horsepower Scrubber is the waterproof, cordless and rechargeable motorized power scrubber thatll make cleaning everything in and around your home a breeze. With 5 interchangeable heads its customizable to tackle any task!</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116193000 +0000" stop="20241116200000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>H2O X5 Steam</title><Sub-title /><desc>Kills 99% of Bacteria, Viruses, and Germs with Steam! The 5-in-1 Lightweight, Fast, Powerful, And Completely Chemical Free Steam Cleaner! Lift and remove dirt and stains all around the home!</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116200000 +0000" stop="20241116220000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fight Sports: Boxing</title><Sub-title>2022: Chris Billam-Smith vs. Armend Xhoxhaj</Sub-title><desc>From 2022: Cruiserweight champ Chris Billam-Smith vs. Armend Xhoxhaj in Bournemouth, England.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116220000 +0000" stop="20241117000000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>FanDuel Racing</title><Sub-title>Del Mar Thoroughbred Club, CA and Golden State Racing</Sub-title><desc>Thoroughbred racing and in-depth analysis, from top tracks across North America.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117000000 +0000" stop="20241117030000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Hockey</title><Sub-title>Denver at North Dakota</Sub-title><desc>Denver at North Dakota.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117030000 +0000" stop="20241117040000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Remembering Mutombo</title><Sub-title /><desc>A retrospective on the life, basketball career and humanitarian drive and dedication of former Denver Nuggets big man Dikembe Mutombo.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117040000 +0000" stop="20241117050000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Super Girl Pro Series</title><Sub-title>Nissan Super Girl Surf Pro</Sub-title><desc>The only all-womens action sports, eSports and lifestyle series in the world.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117050000 +0000" stop="20241117080000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Hockey</title><Sub-title>Denver at North Dakota</Sub-title><desc>Denver at North Dakota.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117080000 +0000" stop="20241117100000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>MLF General Tire Team Series</title><Sub-title>Bass Pro Shops Championship Match 1-D1</Sub-title><desc>Three Teams compete in Florida for Match 1 of the Bass Pro Shops Championship to advance to the Championship Final.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117100000 +0000" stop="20241117130000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Hockey</title><Sub-title>Denver at North Dakota</Sub-title><desc>Denver at North Dakota.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117130000 +0000" stop="20241117140000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fairways of Life with Matt Adams</title><Sub-title>02-003</Sub-title><desc>Author and Golf Channel host Matt Adams brings you inside the ropes for exclusive interviews with all of golfs stars; equipment updates; instruction for your game; the latest headlines and more.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117140000 +0000" stop="20241117143000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fishful Thinker</title><Sub-title /><desc>Angler Chad LaChance visits top freshwater and saltwater fishing destinations.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117143000 +0000" stop="20241117150000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A Fishing Story</title><Sub-title /><desc>Anglers from all walks of life share their tales.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117150000 +0000" stop="20241117153000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117153000 +0000" stop="20241117160000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117160000 +0000" stop="20241117163000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117163000 +0000" stop="20241117170000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117170000 +0000" stop="20241117173000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117173000 +0000" stop="20241117180000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117180000 +0000" stop="20241117210000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Hockey</title><Sub-title>Denver at North Dakota</Sub-title><desc>Denver at North Dakota.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117210000 +0000" stop="20241117213000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Golf Life</title><Sub-title /><desc>A look at golf courses, training tips and mental aspects of the game.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117213000 +0000" stop="20241117220000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>The Travelers</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20241117220000 +0000" stop="20241117230000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Live!</title><Sub-title /><desc>An open discussion about the Denver Nuggets, mixed with interviews and fan involvement.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117230000 +0000" stop="20241118013000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NBA Basketball</title><Sub-title>Denver Nuggets at Memphis Grizzlies</Sub-title><desc>Denver Nuggets at Memphis Grizzlies. From FedExForum.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118013000 +0000" stop="20241118021500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Postgame Live</title><Sub-title /><desc>Denver Nuggets basketball highlights, interviews and analysis.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118021500 +0000" stop="20241118024500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241118024500 +0000" stop="20241118030000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Altitude Extra</title><Sub-title>Brihanna Crittendon- Colorados 4A Ms. Basketball 2024</Sub-title><desc>Short sports features on athletes and teams in the Denver area.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118030000 +0000" stop="20241118053000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NBA Basketball</title><Sub-title>Denver Nuggets at Memphis Grizzlies</Sub-title><desc>Denver Nuggets at Memphis Grizzlies. From FedExForum.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118053000 +0000" stop="20241118061500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Postgame Live</title><Sub-title /><desc>Denver Nuggets basketball highlights, interviews and analysis.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118061500 +0000" stop="20241118064500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241118064500 +0000" stop="20241118070000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Altitude Extra</title><Sub-title>JR Payne- CU Womens Basketball Head Coach</Sub-title><desc>Short sports features on athletes and teams in the Denver area.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118070000 +0000" stop="20241118090000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Basketball</title><Sub-title>Montana State at Denver</Sub-title><desc>Montana State at Denver. From Hamilton Gymnasium.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118090000 +0000" stop="20241118100000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Fight Sports: World Championship Kickboxing</title><Sub-title>100,000 Euro 72.5kg Tournament Finals</Sub-title><desc>Kickboxing and Mui Thai fighting action.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118100000 +0000" stop="20241118120000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>MLF General Tire Team Series</title><Sub-title>Bass Pro Shops Championship Match 1-D2</Sub-title><desc>Three Teams compete in Florida for Match 1 of the Bass Pro Shops Championship to advance to the Championship Final.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118120000 +0000" stop="20241118130000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>World Poker Tour</title><Sub-title>WPT Choctaw - Part 1 (Week of 4/28)</Sub-title><desc>WPT Choctaw - Part 1 (Week of 4/28).</desc><episode-num system="xmltv_ns">19.225.</episode-num></programme>
+<programme start="20241118130000 +0000" stop="20241118133000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118133000 +0000" stop="20241118140000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Paid Programming</title><Sub-title /><desc>Paid Programming.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118140000 +0000" stop="20241118150000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Moser, Lombardi and Kane on Altitude</title><Sub-title /><desc>Vic Lombardi, Marc Moser and Brett Kane host a Denver morning sports-radio simulcast, filled with laughs, opinons and topics from Colorado to the national scene.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118150000 +0000" stop="20241118160000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Moser, Lombardi and Kane on Altitude</title><Sub-title /><desc>Vic Lombardi, Marc Moser and Brett Kane host a Denver morning sports-radio simulcast, filled with laughs, opinons and topics from Colorado to the national scene.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118160000 +0000" stop="20241118170000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Moser, Lombardi and Kane on Altitude</title><Sub-title /><desc>Vic Lombardi, Marc Moser and Brett Kane host a Denver morning sports-radio simulcast, filled with laughs, opinons and topics from Colorado to the national scene.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118170000 +0000" stop="20241118193000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>NBA Basketball</title><Sub-title>Denver Nuggets at Memphis Grizzlies</Sub-title><desc>Denver Nuggets at Memphis Grizzlies. From FedExForum.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118193000 +0000" stop="20241118201500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Nuggets Postgame Live</title><Sub-title /><desc>Denver Nuggets basketball highlights, interviews and analysis.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118201500 +0000" stop="20241118204500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20241118204500 +0000" stop="20241118210000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Altitude Extra</title><Sub-title>Hejduk: Top 10 Moments</Sub-title><desc>Top 10 moments: Milan Hejduk.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118210000 +0000" stop="20241118230000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Basketball</title><Sub-title>Montana State at Denver</Sub-title><desc>Montana State at Denver. From Hamilton Gymnasium.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115010000 +0000" stop="20241115020000 +0000" channel="FOX.us"><title>Rescue: HI-Surf</title><Sub-title /><desc>Em works to earn the teams respect; Hina and Kainalu juggle multiple beachside emergencies.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115020000 +0000" stop="20241115053000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>Former Pac-12 rivals in the Bruins and Huskies meet for the first time as Big Ten members.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115053000 +0000" stop="20241115060000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115060000 +0000" stop="20241115110000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115110000 +0000" stop="20241115150000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="FOX.us"><title>Big Noon Kickoff New</title><Sub-title /><desc>Rob Stone, Urban Meyer, and others preview Foxs upcoming college football game.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115170000 +0000" stop="20241115203000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>The No. 17 Buffaloes and Utes meet at brunchtime in their first engagement as Big 12 members.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115203000 +0000" stop="20241115210000 +0000" channel="FOX.us"><title>FOX College Football Extra New</title><Sub-title /><desc>Highlights and updates of the days college football action and previews of upcoming games.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241115210000 +0000" stop="20241116003000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>Big Ten teams that took Week 11 off tangle as the Cornhuskers visit the Trojans.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116003000 +0000" stop="20241116010000 +0000" channel="FOX.us"><title>FOX College Football Extra New</title><Sub-title /><desc>Highlights and updates of the days college football action and previews of upcoming games.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116010000 +0000" stop="20241116043000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>From Jack Trice Stadium in Ames, Iowa.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116043000 +0000" stop="20241116053000 +0000" channel="FOX.us"><title>The Floor</title><Sub-title /><desc>Contestants test their knowledge of blockbuster movies, pop stars, fitness and cooking.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116053000 +0000" stop="20241116090000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116090000 +0000" stop="20241116110000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116110000 +0000" stop="20241116130000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116130000 +0000" stop="20241116140000 +0000" channel="FOX.us"><title>FOX News Sunday New</title><Sub-title /><desc>Shannon Bream interviews newsmakers and guests to provide analysis of issues facing Americans.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116140000 +0000" stop="20241116160000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116160000 +0000" stop="20241116170000 +0000" channel="FOX.us"><title>FOX NFL Kickoff New</title><Sub-title /><desc>Interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116170000 +0000" stop="20241116180000 +0000" channel="FOX.us"><title>FOX NFL Sunday New</title><Sub-title /><desc>Hosts Curt Menefee and Terry Bradshaw; with analysts Howie Long, Jimmy Johnson and Michael Strahan.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116180000 +0000" stop="20241116210000 +0000" channel="FOX.us"><title>NFL Football New</title><Sub-title /><desc>Green Bay Packers at Chicago Bears or Los Angeles Rams at New England Patriots or Cleveland Browns at New Orleans Saints.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241116210000 +0000" stop="20241117000000 +0000" channel="FOX.us"><title>NFL Football New</title><Sub-title /><desc>Atlanta Falcons at Denver Broncos or Seattle Seahawks at San Francisco 49ers.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117000000 +0000" stop="20241117003000 +0000" channel="FOX.us"><title>Bob’s Burgers</title><Sub-title /><desc>When the Belchers visit a local drive-in, Bob comes up with a plan to save the theater from closing.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117003000 +0000" stop="20241117010000 +0000" channel="FOX.us"><title>Krapopolis</title><Sub-title /><desc>Tyrannis gets the hots for a visiting reporter; Shlub is paid a visit by an old friend.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117010000 +0000" stop="20241117013000 +0000" channel="FOX.us"><title>The Simpsons</title><Sub-title /><desc>Bart makes a new friend.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117013000 +0000" stop="20241117020000 +0000" channel="FOX.us"><title>Universal Basic Guys</title><Sub-title /><desc>Threatened by a doctors kindness toward Tammy, Mark tries to get her an exotic animal.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117020000 +0000" stop="20241117023000 +0000" channel="FOX.us"><title>Bob’s Burgers</title><Sub-title /><desc>Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he injures himself.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117023000 +0000" stop="20241117030000 +0000" channel="FOX.us"><title>Krapopolis</title><Sub-title /><desc>Tyrannis little hunting mishap brings the Norse gods to Olympus.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117030000 +0000" stop="20241117060000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117060000 +0000" stop="20241117130000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117130000 +0000" stop="20241117190000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117190000 +0000" stop="20241117220000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241117220000 +0000" stop="20241118010000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118010000 +0000" stop="20241118020200 +0000" channel="FOX.us"><title>9-1-1: Lone Star New</title><Sub-title /><desc>A gang killing leads Carlos to new information on his fathers murder; TK contemplates a decision.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118020200 +0000" stop="20241118030000 +0000" channel="FOX.us"><title>Rescue: HI-Surf New</title><Sub-title /><desc>Christmas cheer is in the air as the lifeguards prepare for their annual holiday toy drive.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118030000 +0000" stop="20241118090000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118090000 +0000" stop="20241118140000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118140000 +0000" stop="20241118190000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118190000 +0000" stop="20241118220000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241118220000 +0000" stop="20241119010000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
 <channel id="HBO.2.HDTV.(East).(HBO2HD).us">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">HBO 2 HDTV (East) (HBO2HD)</display-name>
@@ -66,10 +263,847 @@
     <url>http://www.tvguide.com</url>
     <display-name lang="en">HBO Signature HDTV (East) (HBOSHD)</display-name>
   </channel>
+  <channel id="Fox.Sports.1.HDTV.(FS1HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox Sports 1 HDTV (FS1HD)</display-name>
+  </channel>
+  <channel id="Fox.Sports.2.HDTV.(FS2HD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">Fox Sports 2 HDTV (FS2HD)</display-name>
+  </channel>
   <channel id="HBO.Zone.HDTV.(East).(HBOZHD).us">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">HBO Zone HDTV (East) (HBOZHD)</display-name>
   </channel>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116053000 +0000" stop="20241116073000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">SMU at Butler</sub-title>
+    <desc lang="en">SMU at Butler. From Hinkle Fieldhouse.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116073000 +0000" stop="20241116093000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">TCU at Michigan</sub-title>
+    <desc lang="en">TCU at Michigan. From Crisler Center.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116093000 +0000" stop="20241116113000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Marquette at Maryland</sub-title>
+    <desc lang="en">Marquette at Maryland. From XFINITY Center.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116113000 +0000" stop="20241116120000 +0000">
+    <title lang="en">Behind the Broadcast: Big Noon Saturday</title>
+    <desc lang="en">A behind the scenes look at how FOX's top analyst, Joel Klatt, prepares for Big Noon Saturday game broadcasts. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116120000 +0000" stop="20241116150000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">UCLA at Washington</sub-title>
+    <desc lang="en">UCLA (4-5, 3-4 Big Ten) at Washington (5-5, 3-4). From Husky Stadium in Seattle.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116150000 +0000" stop="20241116170000 +0000">
+    <title lang="en">Urban Fitness Xtreme</title>
+    <sub-title lang="en">2024 UFX Championship</sub-title>
+    <desc lang="en">From White Eagle Hall in Jersey City, NJ.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116170000 +0000" stop="20241116190000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Wagner at Seton Hall</sub-title>
+    <desc lang="en">Wagner at Seton Hall. From Prudential Center. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116190000 +0000" stop="20241116193000 +0000">
+    <title lang="en">One for All</title>
+    <sub-title lang="en">Lukaku</sub-title>
+    <desc lang="en">We visit Lukaku in Milan in his second stint at the club after returning from Chelsea. He talks about growing up with a burning desire to play professionally at Anderlecht and how he used the anger of his youth to push himself further. We learn more about the pressure of playing at the top, and the importance of family and caring for his kids alongside his passion for football. (Repeat).</desc>
+    <date>2023</date>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116193000 +0000" stop="20241116213000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Netherlands vs. Hungary</sub-title>
+    <desc lang="en">Netherlands vs. Hungary. From Johan Cruijff Arena in Amsterdam. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116213000 +0000" stop="20241116220000 +0000">
+    <title lang="en">One for All</title>
+    <sub-title lang="en">Courtois</sub-title>
+    <desc lang="en">We meet Courtois at his home in the Spanish capital during his season with Real Madrid. He takes us into his home and tells us what drives him to succeed, how important his debut at Genk was, and the path that would eventually lead to him winning the Champions League with Real. With personal archive we see his very earliest times playing football. (Repeat).</desc>
+    <date>2023</date>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241116220000 +0000" stop="20241117000000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Wisconsin (Green Bay) at Providence</sub-title>
+    <desc lang="en">Wisconsin (Green Bay) at Providence. From Amica Mutual Pavilion. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117000000 +0000" stop="20241117020000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Missouri (Kansas City) at Creighton</sub-title>
+    <desc lang="en">Missouri (Kansas City) at Creighton. From CHI Health Center Omaha. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117020000 +0000" stop="20241117040000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Wake Forest at Xavier</sub-title>
+    <desc lang="en">Wake Forest at Xavier. From Cintas Center.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117040000 +0000" stop="20241117050000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117050000 +0000" stop="20241117060000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117060000 +0000" stop="20241117080000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Missouri (Kansas City) at Creighton</sub-title>
+    <desc lang="en">Missouri (Kansas City) at Creighton. From CHI Health Center Omaha.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117080000 +0000" stop="20241117090000 +0000">
+    <title lang="en">The Pokerstars Big Game on Tour</title>
+    <sub-title lang="en">Episode 10</sub-title>
+    <desc lang="en">High-stakes poker pros take on amateur players in a thrilling tour across North America. Watch intense games, strategic plays, and unexpected twists at every stop. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117090000 +0000" stop="20241117120000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Cincinnati at Iowa State</sub-title>
+    <desc lang="en">Cincinnati (5-4, 3-3 Big 12) at Iowa State (7-2, 4-2). From Jack Trice Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117120000 +0000" stop="20241117130000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">UCLA at Washington</sub-title>
+    <desc lang="en">UCLA (4-5, 3-4 Big Ten) at Washington (5-5, 3-4). From Husky Stadium in Seattle.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117130000 +0000" stop="20241117160000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Nebraska at Southern California</sub-title>
+    <desc lang="en">Nebraska (5-4, 2-4 Big Ten) at Southern California (4-5, 2-5). From Los Angeles Memorial Coliseum.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117160000 +0000" stop="20241117170000 +0000">
+    <title lang="en">Take Us Home: Leeds United</title>
+    <sub-title lang="en">A New World</sub-title>
+    <desc lang="en">The squad struggles to adapt to the unprecedented circumstances surrounding the global pandemic. (Repeat).</desc>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117170000 +0000" stop="20241117190000 +0000">
+    <title lang="en">Men's College Soccer</title>
+    <sub-title lang="en">Big East Championship</sub-title>
+    <desc lang="en">The Big East Championship. From Maryland SoccerPlex in Boyds, Md. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117190000 +0000" stop="20241117193000 +0000">
+    <title lang="en">One for All</title>
+    <sub-title lang="en">Witsel</sub-title>
+    <desc lang="en">Witsel shows us around his house and neighbourhood while playing for Atletico de Madrid. As we meet him he tells us the importance that religion and family play in his life. He talks about how his career has evolved through the choices he made, getting started in football and dealing with the difficulties, criticism and setbacks in life. (Repeat).</desc>
+    <date>2023</date>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117193000 +0000" stop="20241117213000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Italy vs. France</sub-title>
+    <desc lang="en">Italy vs. France. From San Siro in Milan, Italy. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117213000 +0000" stop="20241117233000 +0000">
+    <title lang="en">The American Rodeo</title>
+    <sub-title lang="en">The American Rodeo Contender Round</sub-title>
+    <desc lang="en">Cowboys and cowgirls compete in thrilling rodeo events, showcasing their skills in bull riding, barrel racing, and more. Experience the excitement and tradition of this classic American sport.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241117233000 +0000" stop="20241118013000 +0000">
+    <title lang="en">The American Rodeo</title>
+    <sub-title lang="en">The American Rodeo Championship Round</sub-title>
+    <desc lang="en">Riders and ropers compete in thrilling events like bull riding and barrel racing, showcasing their skills and bravery in a classic American rodeo.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118013000 +0000" stop="20241118030000 +0000">
+    <title lang="en">The American Performance Horseman</title>
+    <desc lang="en">The world's top Quarter Horse performers in reining, cutting and reining cow horse gather for a $1 million competition. (Repeat).</desc>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118030000 +0000" stop="20241118050000 +0000">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">Stanford at Indiana</sub-title>
+    <desc lang="en">Stanford at Indiana. From Simon Skjodt Assembly Hall.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118050000 +0000" stop="20241118070000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Qualifying Pomona</sub-title>
+    <desc lang="en">Qualifying races for the Lucas Oil NHRA Winternationals. From In-N-Out Burger Pomona Dragstrip in Pomona, Cal.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118070000 +0000" stop="20241118100000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Lucas Oil NHRA Winternationals</sub-title>
+    <desc lang="en">Lucas Oil NHRA Winternationals. From In-N-Out Burger Pomona Dragstrip in Pomona, Cal.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118100000 +0000" stop="20241118110000 +0000">
+    <title lang="en">NHRA Sportsman Series</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118110000 +0000" stop="20241118113000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - James Franklin</sub-title>
+    <desc lang="en">Joel Klatt sits down with Penn State Head Coach James Franklin to discuss the 2024 season. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118113000 +0000" stop="20241118120000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - Kalen DeBoer</sub-title>
+    <desc lang="en">Alabama head coach Kalen DeBoer discusses the 2024 season and more with host Joel Klatt. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118120000 +0000" stop="20241118150000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">UCLA at Washington</sub-title>
+    <desc lang="en">UCLA (4-5, 3-4 Big Ten) at Washington (5-5, 3-4). From Husky Stadium in Seattle.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118150000 +0000" stop="20241118180000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Michigan State at Illinois</sub-title>
+    <desc lang="en">Michigan State (4-5, 2-4 Big Ten) at Illinois (6-3, 3-3). From Memorial Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118180000 +0000" stop="20241118190000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">Utah (4-5, 1-5 Big 12) at Colorado (7-2, 5-1). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118190000 +0000" stop="20241118193000 +0000">
+    <title lang="en">2024 COPA AMERICA: Argentina's Road to Glory</title>
+    <desc lang="en">Relive all the drama and excitement from the second Copa America held in the United States, as Lionel Messi helped Argentina repeat as champions.</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118193000 +0000" stop="20241118213000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Croatia vs. Portugal</sub-title>
+    <desc lang="en">Croatia vs. Portugal. From Stadion Poljud in Split, Croatia. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118213000 +0000" stop="20241118220000 +0000">
+    <title lang="en">Behind the Broadcast: Big Noon Saturday</title>
+    <desc lang="en">A behind the scenes look at how FOX's top analyst, Joel Klatt, prepares for Big Noon Saturday game broadcasts. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Sports</category>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118220000 +0000" stop="20241118230000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">UCLA at Washington</sub-title>
+    <desc lang="en">UCLA (4-5, 3-4 Big Ten) at Washington (5-5, 3-4). From Husky Stadium in Seattle.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241118230000 +0000" stop="20241119000000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">Utah (4-5, 1-5 Big 12) at Colorado (7-2, 5-1). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119000000 +0000" stop="20241119030000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Lucas Oil NHRA Winternationals</sub-title>
+    <desc lang="en">Lucas Oil NHRA Winternationals. From In-N-Out Burger Pomona Dragstrip in Pomona, Cal.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119030000 +0000" stop="20241119040000 +0000">
+    <title lang="en">NHRA Sportsman Series</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119040000 +0000" stop="20241119050000 +0000">
+    <title lang="en">NHRA Sportsman Series</title>
+    <sub-title lang="en">Dallas 2024</sub-title>
+    <desc lang="en">From Texas Motorplex in Ennis, TX.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119050000 +0000" stop="20241119070000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Italy vs. France</sub-title>
+    <desc lang="en">Italy vs. France. From San Siro in Milan, Italy.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119070000 +0000" stop="20241119090000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Croatia vs. Portugal</sub-title>
+    <desc lang="en">Croatia vs. Portugal. From Stadion Poljud in Split, Croatia.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119090000 +0000" stop="20241119110000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Poland vs. Scotland</sub-title>
+    <desc lang="en">Poland vs. Scotland. From National Stadium Warsaw in Warsaw, Poland.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119110000 +0000" stop="20241119120000 +0000">
+    <title lang="en">Tua</title>
+    <desc lang="en">Quarterback Tua Tagovailoa, a generational football talent, embarks on a journey that began from a childhood family prophecy. Follow Tua as he attempts to overcome a career-threatening injury and rise as one of the most uniquely skilled players in the history of the game.</desc>
+    <credits>
+      <director>Mitchell Hooper</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Documentary</category>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119120000 +0000" stop="20241119130000 +0000">
+    <title lang="en">The Great Brady Heist</title>
+    <desc lang="en">Chronicling the disappearance of Tom Brady's jersey following the Patriots' Super Bowl LI victory over the Atlanta Falcons. The first on-camera interview with the man who stole the jersey is featured, plus behind-the-scenes moments from the investigation and a look at the boundaries of fandom and redemption.</desc>
+    <date>2020</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119130000 +0000" stop="20241119160000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Cincinnati at Iowa State</sub-title>
+    <desc lang="en">Cincinnati (5-4, 3-3 Big 12) at Iowa State (7-2, 4-2). From Jack Trice Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119160000 +0000" stop="20241119190000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">Utah (4-5, 1-5 Big 12) at Colorado (7-2, 5-1). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119190000 +0000" stop="20241119193000 +0000">
+    <title lang="en">The Joel Klatt Show</title>
+    <sub-title lang="en">Big Noon Conversations - Deion Sanders</sub-title>
+    <desc lang="en">Joel Klatt sits down with Colorado Head Coach Deion Sanders to discuss the 2024 season. (Repeat).</desc>
+    <date>2024</date>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119193000 +0000" stop="20241119213000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Bosnia-Herzegovina vs. Netherlands</sub-title>
+    <desc lang="en">Bosnia-Herzegovina vs. Netherlands. From Bilino Polje in Zenica, Bosnia-Herzegovina. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119213000 +0000" stop="20241119233000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Croatia vs. Portugal</sub-title>
+    <desc lang="en">Croatia vs. Portugal. From Stadion Poljud in Split, Croatia.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.2.HDTV.(FS2HD).us" start="20241119233000 +0000" stop="20241120000000 +0000">
+    <title lang="en">2024 COPA AMERICA: Argentina's Road to Glory</title>
+    <desc lang="en">Relive all the drama and excitement from the second Copa America held in the United States, as Lionel Messi helped Argentina repeat as champions. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116063000 +0000" stop="20241116093000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">UCLA at Washington</sub-title>
+    <desc lang="en">UCLA (4-5, 3-4 Big Ten) at Washington (5-5, 3-4). From Husky Stadium in Seattle.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116093000 +0000" stop="20241116100000 +0000">
+    <title lang="en">TMZ Sports Weekend</title>
+    <desc lang="en">A weekend edition of this look at the off-field lives of sports personalities and athletes. (New).</desc>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116100000 +0000" stop="20241116120000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Denmark vs. Spain</sub-title>
+    <desc lang="en">Denmark vs. Spain. From Parken Stadium in Copenhagen.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116120000 +0000" stop="20241116150000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Houston at Arizona</sub-title>
+    <desc lang="en">Houston (4-5, 3-3 Big 12) at Arizona (3-6, 1-5). From Arizona Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116150000 +0000" stop="20241116170000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Marquette at Maryland</sub-title>
+    <desc lang="en">Marquette at Maryland. From XFINITY Center.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116170000 +0000" stop="20241116190000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">Wake Forest at Xavier</sub-title>
+    <desc lang="en">Wake Forest at Xavier. From Cintas Center. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116190000 +0000" stop="20241116193000 +0000">
+    <title lang="en">FS1 College Football Extra</title>
+    <desc lang="en">Highlights and updates from the day's college-football action, plus previews of upcoming games. (Live).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116193000 +0000" stop="20241116230000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Michigan State at Illinois</sub-title>
+    <desc lang="en">Michigan State (4-5, 2-4 Big Ten) at Illinois (6-3, 3-3). From Memorial Stadium. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241116230000 +0000" stop="20241117023000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Rutgers at Maryland</sub-title>
+    <desc lang="en">Rutgers (5-4, 2-4 Big Ten) at Maryland (4-5, 1-5). From SECU Stadium. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117023000 +0000" stop="20241117060000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Washington State at New Mexico</sub-title>
+    <desc lang="en">Washington State (8-1) at New Mexico (4-6). From University Stadium in Albuquerque. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117060000 +0000" stop="20241117090000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">Utah (4-5, 1-5 Big 12) at Colorado (7-2, 5-1). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117090000 +0000" stop="20241117120000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Nebraska at Southern California</sub-title>
+    <desc lang="en">Nebraska (5-4, 2-4 Big Ten) at Southern California (4-5, 2-5). From Los Angeles Memorial Coliseum.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117120000 +0000" stop="20241117150000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Cincinnati at Iowa State</sub-title>
+    <desc lang="en">Cincinnati (5-4, 3-3 Big 12) at Iowa State (7-2, 4-2). From Jack Trice Stadium.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117150000 +0000" stop="20241117170000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Qualifying Pomona</sub-title>
+    <desc lang="en">Qualifying races for the Lucas Oil NHRA Winternationals. From In-N-Out Burger Pomona Dragstrip in Pomona, Cal.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117170000 +0000" stop="20241117190000 +0000">
+    <title lang="en">Men's College Basketball</title>
+    <sub-title lang="en">New Mexico at St. John's</sub-title>
+    <desc lang="en">New Mexico at St. John's. From Madison Square Garden. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117190000 +0000" stop="20241117210000 +0000">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">Stanford at Indiana</sub-title>
+    <desc lang="en">Stanford at Indiana. From Simon Skjodt Assembly Hall. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241117210000 +0000" stop="20241118000000 +0000">
+    <title lang="en">NHRA Drag Racing</title>
+    <sub-title lang="en">Lucas Oil NHRA Winternationals</sub-title>
+    <desc lang="en">Lucas Oil NHRA Winternationals. From In-N-Out Burger Pomona Dragstrip in Pomona, Cal. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118000000 +0000" stop="20241118003000 +0000">
+    <title lang="en">NHRA Post Race Show</title>
+    <sub-title lang="en">Pomona</sub-title>
+    <desc lang="en">(Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118003000 +0000" stop="20241118023000 +0000">
+    <title lang="en">Women's College Basketball</title>
+    <sub-title lang="en">Texas at DePaul</sub-title>
+    <desc lang="en">Texas at DePaul. From Winstrust Arena. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118023000 +0000" stop="20241118043000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Italy vs. France</sub-title>
+    <desc lang="en">Italy vs. France. From San Siro in Milan, Italy.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118043000 +0000" stop="20241118053000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118053000 +0000" stop="20241118060000 +0000">
+    <title lang="en">2024 COPA AMERICA: Argentina's Road to Glory</title>
+    <desc lang="en">Relive all the drama and excitement from the second Copa America held in the United States, as Lionel Messi helped Argentina repeat as champions. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118060000 +0000" stop="20241118090000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Nebraska at Southern California</sub-title>
+    <desc lang="en">Nebraska (5-4, 2-4 Big Ten) at Southern California (4-5, 2-5). From Los Angeles Memorial Coliseum.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118090000 +0000" stop="20241118100000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">UCLA at Washington</sub-title>
+    <desc lang="en">UCLA (4-5, 3-4 Big Ten) at Washington (5-5, 3-4). From Husky Stadium in Seattle.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118100000 +0000" stop="20241118130000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">Utah (4-5, 1-5 Big 12) at Colorado (7-2, 5-1). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118130000 +0000" stop="20241118150000 +0000">
+    <title lang="en">Breakfast Ball</title>
+    <sub-title lang="en">11-18-2024</sub-title>
+    <desc lang="en">Hosted by Craig Carton, Mark Schlereth, and Danny Parkins, Breakfast Ball is a fun and lively morning show discussing the biggest sports stories of the day. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118150000 +0000" stop="20241118170000 +0000">
+    <title lang="en">The Facility</title>
+    <sub-title lang="en">11-18-2024</sub-title>
+    <desc lang="en">Hosted by Emmanuel Acho, LeSean McCoy, James Jones, and Chase Daniel, The Facility takes you inside the biggest sports topics from the athlete's perspective. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118170000 +0000" stop="20241118200000 +0000">
+    <title lang="en">The Herd With Colin Cowherd</title>
+    <sub-title lang="en">11-18-2024</sub-title>
+    <desc lang="en">Host Colin Cowherd breaks down the biggest stories and interviews the biggest guests in sports. He is joined daily by news anchor Jason McIntyre. (Live).</desc>
+    <credits>
+      <presenter>Colin Cowherd</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E220</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118200000 +0000" stop="20241118220000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">11-18-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (Live).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E207</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241118220000 +0000" stop="20241119000000 +0000">
+    <title lang="en">Speak</title>
+    <sub-title lang="en">11-18-2024</sub-title>
+    <desc lang="en">Keyshawn Johnson, Joy Taylor and Paul Pierce passionately dive into the biggest stories in sports. (Live).</desc>
+    <credits>
+      <presenter>Marcellus Wiley</presenter>
+      <presenter>Emmanuel Acho</presenter>
+      <presenter>LeSean McCoy</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E201</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119000000 +0000" stop="20241119020000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Italy vs. France</sub-title>
+    <desc lang="en">Italy vs. France. From San Siro in Milan, Italy.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119020000 +0000" stop="20241119040000 +0000">
+    <title lang="en">UEFA Nations League Soccer</title>
+    <sub-title lang="en">Croatia vs. Portugal</sub-title>
+    <desc lang="en">Croatia vs. Portugal. From Stadion Poljud in Split, Croatia.</desc>
+    <date>2024</date>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119040000 +0000" stop="20241119050000 +0000">
+    <title lang="en">UEFA Nations League Matchnight Highlights</title>
+    <desc lang="en">A comprehensive round-up of all matches played over the latest UEFA Nations match nights. (New).</desc>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119050000 +0000" stop="20241119053000 +0000">
+    <title lang="en">NFL Films Presents</title>
+    <sub-title lang="en">Pioneers</sub-title>
+    <desc lang="en">The story of Broncos legend Lionel Taylor; and the music industry's biggest Chiefs fan, Melissa Etheridge. (Repeat).</desc>
+    <credits>
+      <presenter>Charissa Thompson</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119053000 +0000" stop="20241119083000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">Utah (4-5, 1-5 Big 12) at Colorado (7-2, 5-1). From Folsom Field.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119083000 +0000" stop="20241119090000 +0000">
+    <title lang="en">TMZ Sports</title>
+    <sub-title lang="en">11-19-2024</sub-title>
+    <desc lang="en">The off-field lives and personalities of athletes are the focus. (New).</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E231</episode-num>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119090000 +0000" stop="20241119120000 +0000">
+    <title lang="en">College Football</title>
+    <sub-title lang="en">Nebraska at Southern California</sub-title>
+    <desc lang="en">Nebraska (5-4, 2-4 Big Ten) at Southern California (4-5, 2-5). From Los Angeles Memorial Coliseum.</desc>
+    <date>2024</date>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119120000 +0000" stop="20241119130000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">11-18-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (Repeat).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E207</episode-num>
+    <previously-shown /></programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119130000 +0000" stop="20241119150000 +0000">
+    <title lang="en">Breakfast Ball</title>
+    <sub-title lang="en">11-19-2024</sub-title>
+    <desc lang="en">Hosted by Craig Carton, Mark Schlereth, and Danny Parkins, Breakfast Ball is a fun and lively morning show discussing the biggest sports stories of the day. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119150000 +0000" stop="20241119170000 +0000">
+    <title lang="en">The Facility</title>
+    <sub-title lang="en">11-19-2024</sub-title>
+    <desc lang="en">Hosted by Emmanuel Acho, LeSean McCoy, James Jones, and Chase Daniel, The Facility takes you inside the biggest sports topics from the athlete's perspective. (Live).</desc>
+    <date>2024</date>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119170000 +0000" stop="20241119200000 +0000">
+    <title lang="en">The Herd With Colin Cowherd</title>
+    <sub-title lang="en">11-19-2024</sub-title>
+    <desc lang="en">Host Colin Cowherd breaks down the biggest stories and interviews the biggest guests in sports. He is joined daily by news anchor Jason McIntyre. (Live).</desc>
+    <credits>
+      <presenter>Colin Cowherd</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E221</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119200000 +0000" stop="20241119220000 +0000">
+    <title lang="en">First Things First</title>
+    <sub-title lang="en">11-19-2024</sub-title>
+    <desc lang="en">Nick Wright, Chris Broussard and Kevin Wildes bring viewers spirited dialogue and thought-provoking discussion on the day's biggest sports stories. (Live).</desc>
+    <credits>
+      <commentator>Cris Carter</commentator>
+      <presenter>Nick Wright</presenter>
+      <presenter>Jenna Wolfe</presenter>
+      <presenter>Kevin Wildes</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E208</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="Fox.Sports.1.HDTV.(FS1HD).us" start="20241119220000 +0000" stop="20241120000000 +0000">
+    <title lang="en">Speak</title>
+    <sub-title lang="en">11-19-2024</sub-title>
+    <desc lang="en">Keyshawn Johnson, Joy Taylor and Paul Pierce passionately dive into the biggest stories in sports. (Live).</desc>
+    <credits>
+      <presenter>Marcellus Wiley</presenter>
+      <presenter>Emmanuel Acho</presenter>
+      <presenter>LeSean McCoy</presenter>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">E202</episode-num>
+    <premiere lang="en" />
+  </programme>
   <programme channel="HBO.HDTV.(East).(HBOHD).us" start="20241116073300 +0000" stop="20241116075600 +0000">
     <title lang="en">It's Florida, Man</title>
     <sub-title lang="en">Bunnies</sub-title>
