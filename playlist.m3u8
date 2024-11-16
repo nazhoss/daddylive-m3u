@@ -1,22 +1,7 @@
-#EXTINF:-1 tvg-id="The Disney Channel (West).us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="USA (DADDY LIVE)", Disney Channel
-https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney XD USA HD - Pacific Feed (1305).us" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="USA (DADDY LIVE)", Disney XD
-https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior USA - West (306).us" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="USA (DADDY LIVE)", Disney JR
-https://xyzdddd.mizhls.ru/lb/premium652/index.m3u8
-
-#EXTINF:-1 tvg-id="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us" tvg-name="Altitude Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png" group-title="USA (DADDY LIVE)", Altitude Sports
-https://xyzdddd.mizhls.ru/lb/premium923/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT - Pacific Feed (109).us" tvg-name="TNT USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/" group-title="USA (DADDY LIVE)", TNT USA
-https://xyzdddd.mizhls.ru/lb/premium338/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO (West).us" tvg-name="HBO USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO USA
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO USA
 https://xyzdddd.mizhls.ru/lb/premium321/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2 (West).us" tvg-name="HBO2 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="USA (DADDY LIVE)", HBO2 USA
+#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO2 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="USA (DADDY LIVE)", HBO2 USA
 https://xyzdddd.mizhls.ru/lb/premium689/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-name="HBO Comedy USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="USA (DADDY LIVE)", HBO Comedy USA
@@ -34,32 +19,8 @@ https://xyzdddd.mizhls.ru/lb/premium693/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-name="HBO Zone USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="USA (DADDY LIVE)", HBO Zone USA
 https://xyzdddd.mizhls.ru/lb/premium694/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Poland
-https://xyzdddd.mizhls.ru/lb/premium569/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime (West).us" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/" group-title="USA (DADDY LIVE)", Showtime USA
-https://xyzdddd.mizhls.ru/lb/premium333/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime 2 (West).us" tvg-name="Showtime 2 USA (SHO2) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime 2 USA (SHO2) USA
-https://xyzdddd.mizhls.ru/lb/premium792/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime Showcase (West).us" tvg-name="Showtime Showcase USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime Showcase USA
-https://xyzdddd.mizhls.ru/lb/premium793/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime Extreme HDTV (West).us" tvg-name="Showtime Extreme USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime Extreme USA
-https://xyzdddd.mizhls.ru/lb/premium794/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime FamilyZone (East).us" tvg-name="Showtime Family Zone (SHO Family Zone) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime Family Zone (SHO Family Zone) USA
-https://xyzdddd.mizhls.ru/lb/premium795/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime Next (East).us" tvg-name="Showtime Next (SHO Next) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime Next (SHO Next) USA
-https://xyzdddd.mizhls.ru/lb/premium796/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime Women (East).us" tvg-name="Showtime Women USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime Women USA
-https://xyzdddd.mizhls.ru/lb/premium797/index.m3u8
-
-#EXTINF:-1 tvg-id="Starz (West).us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA (DADDY LIVE)", Starz
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA (DADDY LIVE)", Starz
 https://xyzdddd.mizhls.ru/lb/premium335/index.m3u8
 
-#EXTINF:-1 tvg-id="Syfy HDTV.us" tvg-name="SYFY USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/" group-title="USA (DADDY LIVE)", SYFY USA
+#EXTINF:-1 tvg-id="Syfy HDTV.us" tvg-name="SYFY USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="USA (DADDY LIVE)", SYFY USA
 https://xyzdddd.mizhls.ru/lb/premium373/index.m3u8
