@@ -2,7 +2,6 @@
 <tv><channel id="FOX SPORTS PREMIUM.mx"><display-name>FOX SPORTS PREMIUM.mx</display-name></channel>
 <channel id="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><display-name>Altitude Sports and Entertainment (Colorado) HDTV 24/7.us</display-name></channel>
 <channel id="Syfy HDTV.us"><display-name>Syfy HDTV.us</display-name></channel>
-<channel id="FOX.us"><display-name>FOX.us</display-name></channel>
 <programme start="20241115004400 +0000" stop="20241115011400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL GameDay</title><Sub-title /><desc>Disfruta de este segmento que destaca los mejores partidos de la Liga Nacional de Fútbol Americano, ofreciendo datos de interés, análisis de los equipos, entrevistas a los jugadores, pronósticos de los futuros encuentros y mucho más.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241115011400 +0000" stop="20241115043000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>NFL</title><Sub-title>Washington Commanders vs. Philadelphia Eagles, Temporada regular, Neo Quimica Arena</Sub-title><desc>Vive los partidos de la edición 105º de la Liga Nacional de Fútbol Americano. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
 <programme start="20241115043000 +0000" stop="20241115070000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC</title><Sub-title>Fight Night: Neil Magny vs. Carlos Prates</Sub-title><desc>Es la mayor empresa de artes marciales mixtas en el mundo que produce eventos durante todo el año.</desc><episode-num system="xmltv_ns" /></programme>
@@ -196,45 +195,6 @@
 <programme start="20241118201500 +0000" stop="20241118204500 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>A360</title><Sub-title>Coach Life- Part 1</Sub-title><desc>An all-access look at the Denver Nuggets and Colorado Avalanche (episodes alternate), capturing the players and coaches behind the scenes and telling stories that cant be seen anywhere else in the Rocky Mountain region.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
 <programme start="20241118204500 +0000" stop="20241118210000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Altitude Extra</title><Sub-title>Hejduk: Top 10 Moments</Sub-title><desc>Top 10 moments: Milan Hejduk.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241118210000 +0000" stop="20241118230000 +0000" channel="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us"><title>Mens College Basketball</title><Sub-title>Montana State at Denver</Sub-title><desc>Montana State at Denver. From Hamilton Gymnasium.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115010000 +0000" stop="20241115020000 +0000" channel="FOX.us"><title>Rescue: HI-Surf</title><Sub-title /><desc>Em works to earn the teams respect; Hina and Kainalu juggle multiple beachside emergencies.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115020000 +0000" stop="20241115053000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>Former Pac-12 rivals in the Bruins and Huskies meet for the first time as Big Ten members.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115053000 +0000" stop="20241115060000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115060000 +0000" stop="20241115110000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115110000 +0000" stop="20241115150000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115150000 +0000" stop="20241115170000 +0000" channel="FOX.us"><title>Big Noon Kickoff New</title><Sub-title /><desc>Rob Stone, Urban Meyer, and others preview Foxs upcoming college football game.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115170000 +0000" stop="20241115203000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>The No. 17 Buffaloes and Utes meet at brunchtime in their first engagement as Big 12 members.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115203000 +0000" stop="20241115210000 +0000" channel="FOX.us"><title>FOX College Football Extra New</title><Sub-title /><desc>Highlights and updates of the days college football action and previews of upcoming games.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241115210000 +0000" stop="20241116003000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>Big Ten teams that took Week 11 off tangle as the Cornhuskers visit the Trojans.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116003000 +0000" stop="20241116010000 +0000" channel="FOX.us"><title>FOX College Football Extra New</title><Sub-title /><desc>Highlights and updates of the days college football action and previews of upcoming games.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116010000 +0000" stop="20241116043000 +0000" channel="FOX.us"><title>College Football New</title><Sub-title /><desc>From Jack Trice Stadium in Ames, Iowa.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116043000 +0000" stop="20241116053000 +0000" channel="FOX.us"><title>The Floor</title><Sub-title /><desc>Contestants test their knowledge of blockbuster movies, pop stars, fitness and cooking.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116053000 +0000" stop="20241116090000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116090000 +0000" stop="20241116110000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116110000 +0000" stop="20241116130000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116130000 +0000" stop="20241116140000 +0000" channel="FOX.us"><title>FOX News Sunday New</title><Sub-title /><desc>Shannon Bream interviews newsmakers and guests to provide analysis of issues facing Americans.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116140000 +0000" stop="20241116160000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116160000 +0000" stop="20241116170000 +0000" channel="FOX.us"><title>FOX NFL Kickoff New</title><Sub-title /><desc>Interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116170000 +0000" stop="20241116180000 +0000" channel="FOX.us"><title>FOX NFL Sunday New</title><Sub-title /><desc>Hosts Curt Menefee and Terry Bradshaw; with analysts Howie Long, Jimmy Johnson and Michael Strahan.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116180000 +0000" stop="20241116210000 +0000" channel="FOX.us"><title>NFL Football New</title><Sub-title /><desc>Green Bay Packers at Chicago Bears or Los Angeles Rams at New England Patriots or Cleveland Browns at New Orleans Saints.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241116210000 +0000" stop="20241117000000 +0000" channel="FOX.us"><title>NFL Football New</title><Sub-title /><desc>Atlanta Falcons at Denver Broncos or Seattle Seahawks at San Francisco 49ers.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117000000 +0000" stop="20241117003000 +0000" channel="FOX.us"><title>Bob’s Burgers</title><Sub-title /><desc>When the Belchers visit a local drive-in, Bob comes up with a plan to save the theater from closing.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117003000 +0000" stop="20241117010000 +0000" channel="FOX.us"><title>Krapopolis</title><Sub-title /><desc>Tyrannis gets the hots for a visiting reporter; Shlub is paid a visit by an old friend.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117010000 +0000" stop="20241117013000 +0000" channel="FOX.us"><title>The Simpsons</title><Sub-title /><desc>Bart makes a new friend.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117013000 +0000" stop="20241117020000 +0000" channel="FOX.us"><title>Universal Basic Guys</title><Sub-title /><desc>Threatened by a doctors kindness toward Tammy, Mark tries to get her an exotic animal.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117020000 +0000" stop="20241117023000 +0000" channel="FOX.us"><title>Bob’s Burgers</title><Sub-title /><desc>Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he injures himself.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117023000 +0000" stop="20241117030000 +0000" channel="FOX.us"><title>Krapopolis</title><Sub-title /><desc>Tyrannis little hunting mishap brings the Norse gods to Olympus.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117030000 +0000" stop="20241117060000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117060000 +0000" stop="20241117130000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117130000 +0000" stop="20241117190000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117190000 +0000" stop="20241117220000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241117220000 +0000" stop="20241118010000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118010000 +0000" stop="20241118020200 +0000" channel="FOX.us"><title>9-1-1: Lone Star New</title><Sub-title /><desc>A gang killing leads Carlos to new information on his fathers murder; TK contemplates a decision.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118020200 +0000" stop="20241118030000 +0000" channel="FOX.us"><title>Rescue: HI-Surf New</title><Sub-title /><desc>Christmas cheer is in the air as the lifeguards prepare for their annual holiday toy drive.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118030000 +0000" stop="20241118090000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118090000 +0000" stop="20241118140000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118140000 +0000" stop="20241118190000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118190000 +0000" stop="20241118220000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118220000 +0000" stop="20241119010000 +0000" channel="FOX.us"><title>Local Programming</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
 <channel id="HBO.2.HDTV.(East).(HBO2HD).us">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">HBO 2 HDTV (East) (HBO2HD)</display-name>
@@ -11816,5 +11776,1077 @@
     <previously-shown />  <rating system="MPAA">
       <value>TV-MA</value>
     </rating>
+  </programme>
+  <channel id="FOX.(WNYW).New.York,.NY.us">
+    <display-name lang="en">FOX (WNYW) New York, NY</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20241116060000 -0500" stop="20241116063000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Street Talk</title>
+    <desc lang="en">New York public affairs program focusing on important issues in the tri-state area.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241116063000 -0500" stop="20241116070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241116070000 -0500" stop="20241116073000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Xploration Awesome Planet</title>
+    <sub-title lang="en">Sustainable Leaders</sub-title>
+    <desc lang="en">A facility that makes biofuel for United Airlines aircraft; kelp farming in Maine; plastic waste reduction at the University of Pennsylvania; ways solar technology has advanced.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241116073000 -0500" stop="20241116080000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Xploration Outer Space</title>
+    <desc lang="en">NASA faces obstacles on the path back to the moon.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241116080000 -0500" stop="20241116083000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Xploration Nature Knows Best</title>
+    <sub-title lang="en">Muscle of Mimicry</sub-title>
+    <desc lang="en">Robots' inventors look toward nature to see how animals can help them to do the things that humans cannot.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241116083000 -0500" stop="20241116090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Second Chance Pets</title>
+    <desc lang="en">At a rescue center in Pennsylvania a dog gets a brace to help it walk; a dog named Rigby is healing from a torn Achilles.</desc>
+    <category lang="en">Animals</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241116090000 -0500" stop="20241116093000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241116093000 -0500" stop="20241116100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
+    <desc lang="en">Don't let hair loss hold you back! HairClub specializes in restoring your hair and confidence with customized solutions. From cutting edge treatments to natural looking hair systems, we help you regain your confidence and love your hair again.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241116100000 -0500" stop="20241116120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: Big Noon Kickoff</title>
+    <desc lang="en">A college football pregame show featuring analysts Urban Meyer, Mark Ingram, Matt Leinart and Brady Quinn. Led by host Rob Stone, the group gives in-depth analysis on the biggest games of the day, especially the "Big Noon Saturday" game on FOX.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241116120000 -0500" stop="20241116153000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Utah at Colorado</sub-title>
+    <desc lang="en">The No. 17 Buffaloes and Utes meet for the first time as Big 12 members. Utah has won seven straight versus Colorado, and 11 of the last 12. The Buffs sit second in the conference after winning three in a row. The Utes are mired in a five-game slide.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241116153000 -0500" stop="20241116160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: FOX College Football Extra</title>
+    <desc lang="en">Highlights and updates of the day's college football action and previews of upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241116160000 -0500" stop="20241116193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Nebraska at USC</sub-title>
+    <desc lang="en">Big Ten teams that took Week 11 off tangle as the Cornhuskers (5-4, 2-4) visit the Trojans (4-5, 2-5). Nebraska needs one more victory to become bowl-eligible for the first time since 2016. USC won the last meeting, 45-42 in the 2014 Holiday Bowl.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241116193000 -0500" stop="20241116200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: FOX College Football Extra</title>
+    <desc lang="en">Highlights and updates of the day's college football action and previews of upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241116200000 -0500" stop="20241116233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Cincinnati at Iowa State</sub-title>
+    <desc lang="en">From Jack Trice Stadium in Ames, Iowa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241116233000 -0500" stop="20241117000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 10 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117000000 -0500" stop="20241117010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">Halfway to $250k</sub-title>
+    <desc lang="en">Contestants test their knowledge of blockbuster movies, pop stars, fitness and cooking.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117010000 -0500" stop="20241117020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117020000 -0500" stop="20241117023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117023000 -0500" stop="20241117030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117030000 -0500" stop="20241117033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117033000 -0500" stop="20241117040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117040000 -0500" stop="20241117043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117043000 -0500" stop="20241117050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">House Call TV: New Hope For Aging Joints</title>
+    <desc lang="en">Frustrated by aching, stiff joints holding you back? Looking for long-term relief? Learn how to regain joint comfort and flexibility at any age!</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117050000 -0500" stop="20241117053000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117053000 -0500" stop="20241117060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Sunday Mass</title>
+    <desc lang="en">Sunday religious service.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117060000 -0500" stop="20241117063000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117063000 -0500" stop="20241117070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">David Jeremiah</title>
+    <sub-title lang="en">The End of War</sub-title>
+    <desc lang="en">Jesus will bring an end to all war.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117070000 -0500" stop="20241117073000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117073000 -0500" stop="20241117080000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">David Jeremiah</title>
+    <sub-title lang="en">The End of War</sub-title>
+    <desc lang="en">Jesus will bring an end to all war.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117080000 -0500" stop="20241117090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">Dr. Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117090000 -0500" stop="20241117093000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Joel Osteen</title>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117093000 -0500" stop="20241117100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Elevation With Steven Furtick</title>
+    <desc lang="en">Pastor Steven Furtick of Elevation Church in Charlotte, N.C. shows what God can accomplish.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117100000 -0500" stop="20241117110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">FOX News Sunday</title>
+    <desc lang="en">Anchor Shannon Bream interviews the biggest newsmakers of the week and leads guests in providing context and analysis of the issues facing Americans.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117110000 -0500" stop="20241117120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: FOX NFL Kickoff</title>
+    <desc lang="en">A preview of the day's NFL action, including interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates.</desc>
+    <credits>
+      <actor>Charles Tillman</actor>
+      <actor>Champ Bailey</actor>
+      <actor>Randy Moss</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241117120000 -0500" stop="20241117130000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: FOX NFL Sunday</title>
+    <desc lang="en">Hosts Curt Menefee and Terry Bradshaw; with analysts Howie Long, Jimmy Johnson and Michael Strahan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117130000 -0500" stop="20241117133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117133000 -0500" stop="20241117140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117140000 -0500" stop="20241117143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117143000 -0500" stop="20241117150000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241117150000 -0500" stop="20241117160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Rescue: HI-Surf</title>
+    <desc lang="en">An action-packed drama that follows the personal and professional lives of the open-water lifeguards who patrol and protect the North Shore of O'ahu -- the most famous and dangerous stretch of coastline in the world.</desc>
+    <credits>
+      <actor>Robbie Magasiva</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>Adam Demos</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241117160000 -0500" stop="20241117190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: NFL Football</title>
+    <sub-title lang="en">Seattle Seahawks at San Francisco 49ers</sub-title>
+    <desc lang="en">The Seahawks (4-5) try to compete in a tight NFC West as they visit the 49ers (5-4). Seattle dropped five of six heading into its bye after starting 3-0. Brock Purdy (SF) threw for a season-high 353 yards with two TDs in a Week 10 win at Tampa Bay.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241117190000 -0500" stop="20241117193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Bob's Burgers</title>
+    <sub-title lang="en">Saving Favorite Drive-In</sub-title>
+    <desc lang="en">When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing; Linda accidentally insults another mom while on a group text chain; Louise and Gene hide from Tina after stealing some of her favorite candy.</desc>
+    <credits>
+      <actor>H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117193000 -0500" stop="20241117200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Krapopolis</title>
+    <sub-title lang="en">Ice Week!</sub-title>
+    <desc lang="en">Tyrannis struggles to keep his cool when he gets the hots for a visiting reporter; Shlub is paid a visit by an old friend; Hippocampus and Stupendous risk missing the festivities altogether.</desc>
+    <credits>
+      <actor>Hannah Waddingham</actor>
+      <actor>Richard Ayoade</actor>
+      <actor>Matt Berry</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241117200000 -0500" stop="20241117203000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Bart's Brain</sub-title>
+    <desc lang="en">Bart makes a new friend.</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117203000 -0500" stop="20241117210000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Universal Basic Guys</title>
+    <sub-title lang="en">Pet Projects</sub-title>
+    <desc lang="en">Threatened by a doctor's kindness toward Tammy, Mark tries to get her an exotic animal; Hank bonds with the chimpanzee via its bluetooth; David's dog saves David and Mernft Man from a pet snake.</desc>
+    <credits>
+      <actor>Adam Malamut</actor>
+      <actor>Talia Genevieve</actor>
+      <actor>Fred Armisen</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241117210000 -0500" stop="20241117213000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Bob's Burgers</title>
+    <sub-title lang="en">Colon-ly the Dronel</sub-title>
+    <desc lang="en">Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself; the kids concoct a scheme to prank an overhead drone which is set to film the school from above.</desc>
+    <credits>
+      <actor>H. Jon Benjamin</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Eugene Mirman</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241117213000 -0500" stop="20241117220000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Krapopolis</title>
+    <sub-title lang="en">Thor</sub-title>
+    <desc lang="en">Tyrannis' little hunting mishap brings the Norse gods to Olympus; the family is forced to deal with the hunky Thor, the mischievous Loki, and some nasty bridge trolls.</desc>
+    <credits>
+      <actor>Hannah Waddingham</actor>
+      <actor>Richard Ayoade</actor>
+      <actor>Matt Berry</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241117220000 -0500" stop="20241117223000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 10 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117223000 -0500" stop="20241117230000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Fox 5 Sports Extra</title>
+    <desc lang="en">Regional sports coverage.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117230000 -0500" stop="20241117233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">In Depth With Graham Bensinger</title>
+    <sub-title lang="en">Tom Green</sub-title>
+    <desc lang="en">Graham heads to the Canadian wilderness for access to stand-up comic and actor Tom Green on his 150-acre property; Tom reflects on his battle with cancer and his relationship with ex-wife Drew Barrymore.Guests: Tom Green..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241117233000 -0500" stop="20241118000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Raw Travel</title>
+    <sub-title lang="en">Reykjavik, Iceland: Urban Exploration</sub-title>
+    <desc lang="en">Following up on their Icelandic yoga adventure, the Raw Travel crew discovers the charming capital city of Reykjavik.</desc>
+    <category lang="en">Travel</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118000000 -0500" stop="20241118010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118010000 -0500" stop="20241118020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118020000 -0500" stop="20241118023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118023000 -0500" stop="20241118030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Relief from inflammation</title>
+    <desc lang="en">Connie Craig-Carrol &amp; Founder Ken Meares investigates Omega XL, the ultimate all natural solution for joint pain from inflammation.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118030000 -0500" stop="20241118033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241118033000 -0500" stop="20241118040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Jane Seymour, Kate Walsh share their skin secrets</title>
+    <desc lang="en">Crepe Erase Ultra visibly transforms your skin with 9 super hydrators! Tune in to see how Jane Seymour and Kate Walsh keep their skin so smooth. Treat and repair the look of crepey skin.Shop at CrepeErase.com.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118040000 -0500" stop="20241118043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118043000 -0500" stop="20241118050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118050000 -0500" stop="20241118060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118060000 -0500" stop="20241118070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up 2</title>
+    <desc lang="en">Morning news and entertainment.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118070000 -0500" stop="20241118090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day New York</title>
+    <desc lang="en">Morning news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118090000 -0500" stop="20241118100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day New York</title>
+    <desc lang="en">Morning news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118100000 -0500" stop="20241118110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Sherri</title>
+    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of "The View" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118110000 -0500" stop="20241118120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Jennifer Hudson Show</title>
+    <desc lang="en">The EGOT winner's daytime talk show features celebrity interviews, topical stories, community heroes, viral sensations, and music, bringing fun, uplifting, and empowering conversations to the forefront.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118120000 -0500" stop="20241118130000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Noon</title>
+    <desc lang="en">Midday news update.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118130000 -0500" stop="20241118133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118133000 -0500" stop="20241118140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Person, Place or Thing</title>
+    <desc lang="en">A modern take on the age-old game of 20 Questions intersperses comedy with common knowledge; host People's Choice Award winner Melissa Peterman.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118140000 -0500" stop="20241118143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Pictionary</title>
+    <desc lang="en">A contestant must draw an image that depicts a word or phrase that is randomly chosen; their teammates must guess what the word or phrase is; host Jerry O'Connell.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118143000 -0500" stop="20241118150000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118150000 -0500" stop="20241118160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118160000 -0500" stop="20241118170000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Bitter Bride.".</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118170000 -0500" stop="20241118180000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 5 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118180000 -0500" stop="20241118190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 6 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118190000 -0500" stop="20241118193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118193000 -0500" stop="20241118200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241118200000 -0500" stop="20241118210200 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">9-1-1: Lone Star</title>
+    <sub-title lang="en">The Quiet Ones</sub-title>
+    <desc lang="en">A gang killing leads Carlos to new information on his father's murder; TK contemplates a major life decision; Owen is determined to get Austin's first responders' health care coverages increased.</desc>
+    <credits>
+      <actor>Rob Lowe</actor>
+      <actor>Gina Torres</actor>
+      <actor>Ronen Rubinstein</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241118210200 -0500" stop="20241118220000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Rescue: HI-Surf</title>
+    <sub-title lang="en">Aftermath</sub-title>
+    <desc lang="en">Christmas cheer is in the air as the lifeguards prepare for their annual holiday toy drive; while surfing, a local grandpa has a heart attack and is rushed to the hospital; Sonny tells Laka he is not ready to become a lieutenant.</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Christmas</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241118220000 -0500" stop="20241118230000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 10 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118230000 -0500" stop="20241118233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Night New York</title>
+    <category lang="en">News Magazine</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241118233000 -0500" stop="20241119000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119000000 -0500" stop="20241119010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119010000 -0500" stop="20241119013000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">25 Words or Less</title>
+    <sub-title lang="en">The Final Word Verdict</sub-title>
+    <desc lang="en">Phaedra Parks brings her attorney skills to the table in her debut episode.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119013000 -0500" stop="20241119020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Dish Nation</title>
+    <desc lang="en">Entertaining entertainment news: the show dishes on celebrity gossip with humorous commentary on pop culture.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119020000 -0500" stop="20241119023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241119023000 -0500" stop="20241119030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241119030000 -0500" stop="20241119033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119033000 -0500" stop="20241119040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Peter Popoff Ministries</title>
+    <desc lang="en">For over 30 years Reverend Peter Popoff has provided spiritual direction and powerful testimonies to receive God's blessings in your life.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119040000 -0500" stop="20241119043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119043000 -0500" stop="20241119050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119050000 -0500" stop="20241119060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119060000 -0500" stop="20241119070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up 2</title>
+    <desc lang="en">Morning news and entertainment.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119070000 -0500" stop="20241119090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day New York</title>
+    <desc lang="en">Morning news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119090000 -0500" stop="20241119100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day New York</title>
+    <desc lang="en">Morning news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119100000 -0500" stop="20241119110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Sherri</title>
+    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of "The View" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119110000 -0500" stop="20241119120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Jennifer Hudson Show</title>
+    <desc lang="en">The EGOT winner's daytime talk show features celebrity interviews, topical stories, community heroes, viral sensations, and music, bringing fun, uplifting, and empowering conversations to the forefront.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119120000 -0500" stop="20241119130000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Noon</title>
+    <desc lang="en">Midday news update.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119130000 -0500" stop="20241119133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119133000 -0500" stop="20241119140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Person, Place or Thing</title>
+    <desc lang="en">A modern take on the age-old game of 20 Questions intersperses comedy with common knowledge; host People's Choice Award winner Melissa Peterman.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119140000 -0500" stop="20241119143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Pictionary</title>
+    <desc lang="en">A contestant must draw an image that depicts a word or phrase that is randomly chosen; their teammates must guess what the word or phrase is; host Jerry O'Connell.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119143000 -0500" stop="20241119150000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119150000 -0500" stop="20241119160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119160000 -0500" stop="20241119170000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Livid at My Landlord.".</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119170000 -0500" stop="20241119180000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 5 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119180000 -0500" stop="20241119190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 6 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119190000 -0500" stop="20241119193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119193000 -0500" stop="20241119200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241119200000 -0500" stop="20241119210000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Murder in a Small Town</title>
+    <sub-title lang="en">Family Concerns</sub-title>
+    <desc lang="en">Detective Alberg examines the mysterious deaths of two women, each found in the forest with their bodies arranged in eerily similar poses.</desc>
+    <credits>
+      <actor>Rossif Sutherland</actor>
+      <actor>Kristin Kreuk</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241119210000 -0500" stop="20241119220000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Accused</title>
+    <sub-title lang="en">Margot's Story</sub-title>
+    <desc lang="en">A widow taking dance lessons with her two best friends gets mixed up in the instructor's shady dealings.</desc>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241119220000 -0500" stop="20241119230000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 10 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119230000 -0500" stop="20241119233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Night New York</title>
+    <category lang="en">News Magazine</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241119233000 -0500" stop="20241120000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241120000000 -0500" stop="20241120010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241120010000 -0500" stop="20241120013000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">25 Words or Less</title>
+    <sub-title lang="en">Don't Get Hiss-terical!</sub-title>
+    <desc lang="en">Corbin Bleu's team hope to sink their fangs into the $10,000 money round.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241120013000 -0500" stop="20241120020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Dish Nation</title>
+    <desc lang="en">Entertaining entertainment news: the show dishes on celebrity gossip with humorous commentary on pop culture.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241120020000 -0500" stop="20241120023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241120023000 -0500" stop="20241120030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241120030000 -0500" stop="20241120033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Under Eye Bags? SOLUTION!</title>
+    <desc lang="en">Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Lifestyle</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241120033000 -0500" stop="20241120040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241120040000 -0500" stop="20241120043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241120043000 -0500" stop="20241120050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
   </programme>
   </tv>
