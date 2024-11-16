@@ -13,25 +13,28 @@ https://xyzdddd.mizhls.ru/lb/premium923/index.m3u8
 #EXTINF:-1 tvg-id="TNT - Pacific Feed (109).us" tvg-name="TNT USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/" group-title="USA (DADDY LIVE)", TNT USA
 https://xyzdddd.mizhls.ru/lb/premium338/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO (West).us" tvg-name="HBO USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO USA
+#EXTINF:-1 tvg-id="HBO (West).us" tvg-name="HBO USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO USA
 https://xyzdddd.mizhls.ru/lb/premium321/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Comedy (West).us" tvg-name="HBO Comedy USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Comedy USA
+#EXTINF:-1 tvg-id="HBO 2 (West).us" tvg-name="HBO2 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="USA (DADDY LIVE)", HBO2 USA
+https://xyzdddd.mizhls.ru/lb/premium689/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-name="HBO Comedy USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="USA (DADDY LIVE)", HBO Comedy USA
 https://xyzdddd.mizhls.ru/lb/premium690/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family (West).us" tvg-name="HBO Family USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Family USA
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-name="HBO Family USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="USA (DADDY LIVE)", HBO Family USA
 https://xyzdddd.mizhls.ru/lb/premium691/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Latino (West).us" tvg-name="HBO Latino USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Latino USA
+#EXTINF:-1 tvg-id="HBO.Latino.(East).(HBOLe).us" tvg-name="HBO Latino USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png" group-title="USA (DADDY LIVE)", HBO Latino USA
 https://xyzdddd.mizhls.ru/lb/premium692/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature (West).us" tvg-name="HBO Signature USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Signature USA
+#EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-name="HBO Signature USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="USA (DADDY LIVE)", HBO Signature USA
 https://xyzdddd.mizhls.ru/lb/premium693/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Zone (West).us" tvg-name="HBO Zone USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Zone USA
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-name="HBO Zone USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="USA (DADDY LIVE)", HBO Zone USA
 https://xyzdddd.mizhls.ru/lb/premium694/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO Poland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Poland
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)", HBO Poland
 https://xyzdddd.mizhls.ru/lb/premium569/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime (West).us" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/" group-title="USA (DADDY LIVE)", Showtime USA
