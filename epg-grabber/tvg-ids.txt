@@ -8,3 +8,7 @@ HBO.Signature.HDTV.(East).(HBOSHD).us
 HBO.Zone.HDTV.(East).(HBOZHD).us
 STARZ.HD.(East).(STZHD).us
 Altitude Sports and Entertainment (Colorado) HDTV 24/7.us
+Fox.Sports.1.HDTV.(FS1HD).us
+Fox.Sports.2.HDTV.(FS2HD).us
+FOX SPORTS PREMIUM.mx
+FOX.us

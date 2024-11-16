@@ -27,3 +27,15 @@ https://xyzdddd.mizhls.ru/lb/premium373/index.m3u8
 
 #EXTINF:-1 tvg-id="Altitude Sports and Entertainment (Colorado) HDTV 24/7.us" tvg-name="Altitude Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png" group-title="USA (DADDY LIVE)", Altitude Sports
 https://xyzdddd.mizhls.ru/lb/premium923/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="USA (DADDY LIVE)", Fox Sports 1 USA
+https://xyzdddd.mizhls.ru/lb/premium39/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="USA (DADDY LIVE)", Fox Sports 2 USA
+https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-deportes-us.png" group-title="USA (DADDY LIVE)", Fox Sports Premium MX
+https://xyzdddd.mizhls.ru/lb/premium830/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="USA (DADDY LIVE)", FOX USA
+https://xyzdddd.mizhls.ru/lb/premium54/index.m3u8
