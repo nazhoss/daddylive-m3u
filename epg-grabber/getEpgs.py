@@ -49,7 +49,7 @@ def filter_and_build_epg(urls):
             tvg_id = programme.get('channel')
             if tvg_id in valid_tvg_ids:
                 title = programme.find('title').text
-                if title == 'NHL Hockey':
+                if title == 'NHL Hockey' or title == 'Live: NFL Football':
                     subtitle = programme.find('sub-title').text
                     programme.find('title').text = title + " " + subtitle
                 root.append(programme)
