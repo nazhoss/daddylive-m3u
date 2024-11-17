@@ -39,3 +39,27 @@ https://xyzdddd.mizhls.ru/lb/premium830/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="USA (DADDY LIVE)", FOX USA
 https://xyzdddd.mizhls.ru/lb/premium54/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)", Showtime USA
+https://xyzdddd.mizhls.ru/lb/premium333/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-name="Showtime SHOxBET USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-anywhere-us.png" group-title="USA (DADDY LIVE)", Showtime SHOxBET USA
+https://xyzdddd.mizhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-name="Showtime 2 USA (SHO2) USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" group-title="USA (DADDY LIVE)", Showtime 2 USA (SHO2) USA
+https://xyzdddd.mizhls.ru/lb/premium792/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-name="Showtime Showcase USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" group-title="USA (DADDY LIVE)", Showtime Showcase USA
+https://xyzdddd.mizhls.ru/lb/premium793/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-name="Showtime Extreme USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" group-title="USA (DADDY LIVE)", Showtime Extreme USA
+https://xyzdddd.mizhls.ru/lb/premium794/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-name="Showtime Family Zone (SHO Family Zone) USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-family-zone-us.png" group-title="USA (DADDY LIVE)", Showtime Family Zone (SHO Family Zone) USA
+https://xyzdddd.mizhls.ru/lb/premium795/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-name="Showtime Next (SHO Next) USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" group-title="USA (DADDY LIVE)", Showtime Next (SHO Next) USA
+https://xyzdddd.mizhls.ru/lb/premium796/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-name="Showtime Women USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" group-title="USA (DADDY LIVE)", Showtime Women USA
+https://xyzdddd.mizhls.ru/lb/premium797/index.m3u8

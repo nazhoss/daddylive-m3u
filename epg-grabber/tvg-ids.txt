@@ -12,3 +12,11 @@ Fox.Sports.1.HDTV.(FS1HD).us
 Fox.Sports.2.HDTV.(FS2HD).us
 FOX SPORTS PREMIUM.mx
 FOX.(WNYW).New.York,.NY.us
+Showtime.HDTV.(East).(SHOHD).us
+SHOxBET(East).(SHOBET).us
+Showtime.2.HDTV.(East).(SHO2HD).us
+Showtime.Showcase.HDTV.(East).(SHOCHD).us
+Showtime.Extreme.(East).(SHOXe).us
+Showtime.FamilyZone.(East).(SHOFe).us
+Showtime.Next.East.HDTV.(East).(SHOND).us
+Showtime.Women.HDTV.(East).(SHOWD).us
