@@ -48,6 +48,10 @@ def filter_and_build_epg(urls):
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
             if tvg_id in valid_tvg_ids:
+                title = programme.find('title').text
+                if title == 'NHL Hockey':
+                    subtitle = programme.find('sub-title').text
+                    programme.find('title').text = title + " " + subtitle
                 root.append(programme)
 
     tree = ET.ElementTree(root)
@@ -62,7 +66,7 @@ def filter_and_build_epg(urls):
 m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
-	'https://www.bevy.be/generate/8TbvgWSctM.xml.gz',
+	# 'https://www.bevy.be/generate/8TbvgWSctM.xml.gz',
        'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
         'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz'
 ]
