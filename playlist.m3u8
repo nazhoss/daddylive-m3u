@@ -63,3 +63,12 @@ https://xyzdddd.mizhls.ru/lb/premium796/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-name="Showtime Women USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" group-title="USA (DADDY LIVE)", Showtime Women USA
 https://xyzdddd.mizhls.ru/lb/premium797/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="USA (DADDY LIVE)", Disney Channel
+https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="USA (DADDY LIVE)", Disney XD
+https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="USA (DADDY LIVE)", Disney JR
+https://xyzdddd.mizhls.ru/lb/premium652/index.m3u8
