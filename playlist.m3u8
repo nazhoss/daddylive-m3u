@@ -72,3 +72,15 @@ https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="USA (DADDY LIVE)", Disney JR
 https://xyzdddd.mizhls.ru/lb/premium652/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" group-title="USA (DADDY LIVE)", Discovery Life Channel
+https://xyzdddd.mizhls.ru/lb/premium311/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="USA (DADDY LIVE)", Discovery Channel
+https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="USA (DADDY LIVE)", Discovery Family
+https://xyzdddd.mizhls.ru/lb/premium657/index.m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="Investigation Discovery (ID USA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" group-title="USA (DADDY LIVE)", Investigation Discovery (ID USA)
+https://xyzdddd.mizhls.ru/lb/premium324/index.m3u8

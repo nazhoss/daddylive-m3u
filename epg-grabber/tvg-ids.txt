@@ -23,3 +23,7 @@ Showtime.Women.HDTV.(East).(SHOWD).us
 The.Disney.Channel.HDTV.(East).(DISHD).us
 Disney.XD.(East).(DISXD).us
 Disney.Junior.HDTV.East.(DISJr).us
+Discovery.Life.Channel.(DLIF).us
+The.Discovery.Channel.HDTV.(East).(DSCHD).us
+Discovery.Family.Channel.HDTV.(DFCHD).us
+Investigation.Discovery.HDTV.(IDHD).us
