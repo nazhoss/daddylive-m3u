@@ -2,32 +2,6 @@
 <tv><channel id="Showtime 2 (West).us"><display-name>Showtime 2 (West).us</display-name></channel>
 <channel id="Syfy HDTV.us"><display-name>Syfy HDTV.us</display-name></channel>
 <channel id="FOX SPORTS PREMIUM.mx"><display-name>FOX SPORTS PREMIUM.mx</display-name></channel>
-<programme start="20241118020000 +0000" stop="20241118030000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga de ExpansiÃ³n MX</title><Sub-title>Semifinal - Vuelta</Sub-title><desc>Vive los partidos del 9º torneo de la Liga de Expansión MX, una liga de fútbol fundada en el año 2020 como parte del Proyecto de Estabilización.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118030000 +0000" stop="20241118043000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Un programa de lucha libre que cuenta con luchadores tan destacados a nivel mundial como Jon Moxley, Chris Jericho, Kenny Omega, The Young Bucks, Matt Hardy y Cody Rhodes.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118043000 +0000" stop="20241118053000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Rampage</title><Sub-title /><desc>Programa de lucha libre profesional. Fue producido por la promoción estadounidense All Elite Wrestling (AEW).</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118053000 +0000" stop="20241118070000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Collision</title><Sub-title /><desc>Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118070000 +0000" stop="20241118073000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Big Interview - Episodio: Alphonse A...</title><Sub-title /><desc>Espacio que invita a la reflexión con entrevistas en profundidad de algunos de los artistas más talentosos de toda la industria del entretenimiento, con un toque analítico, objetivo e íntimo que explora sus vidas.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118073000 +0000" stop="20241118093000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas - West Santos vs. ...</title><Sub-title /><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118093000 +0000" stop="20241118120000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>UFC</title><Sub-title>309: Jon Jones vs. Stipe Miocic</Sub-title><desc>Es la mayor empresa de artes marciales mixtas en el mundo que produce eventos durante todo el año.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118120000 +0000" stop="20241118140000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX</title><Sub-title>MazatlÃ¡n vs. Pumas UNAM, Fecha 17, Estadio MazatlÃ¡n</Sub-title><desc>Vive los partidos de la 112º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 57º torneo corto con el que culmina la temporada 2023-2024.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118140000 +0000" stop="20241118160000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃ³rmula 1</title><Sub-title>Gran Premio de SÃ£o Paulo, AutÃ³dromo JosÃ© Carlos Pace, SÃ£o Paulo</Sub-title><desc>Vive las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118160000 +0000" stop="20241118163000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Big Interview</title><Sub-title>Episodio: Alphonse Areola</Sub-title><desc>Espacio que invita a la reflexión con entrevistas en profundidad de algunos de los artistas más talentosos de toda la industria del entretenimiento, con un toque analítico, objetivo e íntimo que explora sus vidas.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118163000 +0000" stop="20241118170000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PL Stories</title><Sub-title>Sami Hyypia</Sub-title><desc>Los ejecutivos de los clubes de la Premier League hablan sobre los elementos clave que hacen que la liga sea única e interesante para millones de personas en todo el mundo.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118170000 +0000" stop="20241118190000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Arsenal vs. Liverpool, Fecha 9, Emirates Stadium</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118190000 +0000" stop="20241118191400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Bahrain</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118191400 +0000" stop="20241118193000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Saudi Arabia</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118193000 +0000" stop="20241118194400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Australia</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118194400 +0000" stop="20241118200000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Imola</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118200000 +0000" stop="20241118201400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Monte Carlo</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118201400 +0000" stop="20241118203000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Spain</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118203000 +0000" stop="20241118204400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Austria</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118204400 +0000" stop="20241118210000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Silverstone</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118210000 +0000" stop="20241118211400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>HungrÃ­a</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118211400 +0000" stop="20241118213000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Belgium</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118213000 +0000" stop="20241118214400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Italia</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118214400 +0000" stop="20241118220000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Azerbaijan</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118220000 +0000" stop="20241118230000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>El show de la FÃ³rmula 1</title><Sub-title /><desc>Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118230000 +0000" stop="20241119010000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Pachuca vs. Monterrey, Semifinal - Ida, Estadio Hidalgo</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119010000 +0000" stop="20241119040000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>WWE Raw</title><Sub-title /><desc>WWE - RAW es el programa de Lucha Libre profesional más popular del mundo</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119040000 +0000" stop="20241119053000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Collision</title><Sub-title /><desc>Un programa de lucha libre profesional estadounidense que presenta los combates más emocionantes. Los luchadores estrella se enfrentan de forma individual o por equipos en peleas del mayor nivel y el público disfrutará de cada encuentro.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119053000 +0000" stop="20241119070000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Red Bull Cliff Diving World Series</title><Sub-title>Sydney, Australia</Sub-title><desc>Sé parte de la serie internacional anual de acantilados, en la que un número de competidores saltan desde una plataforma a una altura que oscila entre los veintiséis y veintiocho metros.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
@@ -58,9 +32,10 @@
 <programme start="20241120190000 +0000" stop="20241120203000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>WWE SmackDown</title><Sub-title /><desc>WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241120203000 +0000" stop="20241120223000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas</title><Sub-title>West Santos vs. Muchachos FC / Raniza FC vs. Olimpo United</Sub-title><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
 <programme start="20241120223000 +0000" stop="20241120230000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The Big Interview</title><Sub-title>Episodio: Alphonse Areola</Sub-title><desc>Espacio que invita a la reflexión con entrevistas en profundidad de algunos de los artistas más talentosos de toda la industria del entretenimiento, con un toque analítico, objetivo e íntimo que explora sus vidas.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241120230000 +0000" stop="20241121010000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga de ExpansiÃ³n MX</title><Sub-title>TapatÃ­o vs. Leones Negros, Semifinal - Vuelta, Estadio AKRON</Sub-title><desc>Vive los partidos del 9º torneo de la Liga de Expansión MX, una liga de fútbol fundada en el año 2020 como parte del Proyecto de Estabilización.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241121010000 +0000" stop="20241121030000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241121030000 +0000" stop="20241121050000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga de ExpansiÃ³n MX</title><Sub-title>Club Celaya vs. TapatÃ­o, Final - Ida, Estadio Miguel AlemÃ¡n ValdÃ©s</Sub-title><desc>Vive los partidos del 9º torneo de la Liga de Expansión MX, una liga de fútbol fundada en el año 2020 como parte del Proyecto de Estabilización.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241120230000 +0000" stop="20241121005400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga de ExpansiÃ³n MX</title><Sub-title>TapatÃ­o vs. Leones Negros, Semifinal - Vuelta, Estadio AKRON</Sub-title><desc>Vive los partidos del 9º torneo de la Liga de Expansión MX, una liga de fútbol fundada en el año 2020 como parte del Proyecto de Estabilización.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241121005400 +0000" stop="20241121030000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga de ExpansiÃ³n MX</title><Sub-title>Club Celaya vs. TapatÃ­o, Final - Ida, Estadio Miguel AlemÃ¡n ValdÃ©s</Sub-title><desc>Vive los partidos del 9º torneo de la Liga de Expansión MX, una liga de fútbol fundada en el año 2020 como parte del Proyecto de Estabilización.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241121030000 +0000" stop="20241121043000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241121043000 +0000" stop="20241121050000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PL Stories</title><Sub-title>Sami Hyypia</Sub-title><desc>Los ejecutivos de los clubes de la Premier League hablan sobre los elementos clave que hacen que la liga sea única e interesante para millones de personas en todo el mundo.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241121050000 +0000" stop="20241121053000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>The 84 Lumber Mike Tomlin Show</title><Sub-title>Episodio 12</Sub-title><desc>El coach Mike Tomlin analiza semana a semana los partidos de fútbol americano de los Pittsburgh Steelers. El conductor habla sobre los jugadores en el roster del equipo y sobre las decisiones que toma en cada en juego.</desc><episode-num system="xmltv_ns">2022..</episode-num></programme>
 <programme start="20241121053000 +0000" stop="20241121073000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Tigres UANL vs. AmÃ©rica, Semifinal - Vuelta, Estadio Universitario</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241121073000 +0000" stop="20241121093000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Fórmula 1 - Gran Premio de São Paulo, ...</title><Sub-title /><desc>Vive las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
@@ -87,18 +62,25 @@
 <programme start="20241122053000 +0000" stop="20241122055000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Azerbaijan</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
 <programme start="20241122055000 +0000" stop="20241122070400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 2, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
 <programme start="20241122070400 +0000" stop="20241122081400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Práctica - Fórmula 1 - Gran Premio de ...</title><Sub-title /><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
-<programme start="20241118012500 +0000" stop="20241118031500 +0000" channel="Showtime 2 (West).us"><title>Bad Behaviour (2023)</title><Sub-title /><desc>When a former child actor tries to reconnect with her daughter, she is led to a spiritual enlightenment retreat. Their relationship is very complicated, and they put all of their trust in a guru and experimental ideas to try and bring them back together.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118031500 +0000" stop="20241118050000 +0000" channel="Showtime 2 (West).us"><title>Last Man Standing (1996)</title><Sub-title /><desc>A lone stranger takes on two factions of rival bootleggers in a desolate 1930s frontier town, pitting both sides against each other and profiting from the chaotic results. Bruce Willis, Bruce Dern, Christopher Walken, Michael Imperioli, David Patrick Kelly, Alexandra Powers, Karina Lombard, Leslie Mann, Ned Eisenberg, Ken Jenkins, R.D. Call, Ted Markland, Patrick Kilpatrick, Luis Contreras.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118050000 +0000" stop="20241118070000 +0000" channel="Showtime 2 (West).us"><title>Looper (2012)</title><Sub-title /><desc>Time travel and the mob send a hired gun running for his life when he must kill an older version of himself in order to prevent an underworld bloodbath.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118070000 +0000" stop="20241118090000 +0000" channel="Showtime 2 (West).us"><title>Michael Clayton (2007)</title><Sub-title /><desc>A burned-out "fixer" at a powerful corporate law firm in New York City who faces a crisis of conscience.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118090000 +0000" stop="20241118110500 +0000" channel="Showtime 2 (West).us"><title>Shooter (2007)</title><Sub-title /><desc>An ex-Marine sniper is recruited for a special operation and finds himself involved in a presidential assassination attempt.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118110500 +0000" stop="20241118131500 +0000" channel="Showtime 2 (West).us"><title>The Hurt Locker (2008)</title><Sub-title /><desc>Jeremy Renner heads the cast of this Oscar-winning war drama about a trio of soldiers who specialise in dismantling improvised explosive devices in Baghdad. These three members of the Explosive Ordnance Disposal squad must put their fear and their personal beefs aside to keep themselves from going to "the hurt locker", the nickname soldiers have for where you recuperate after being injured in an explosion.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118131500 +0000" stop="20241118151500 +0000" channel="Showtime 2 (West).us"><title>Friday Night Lights (2004)</title><Sub-title /><desc>From one of the best sports books ever written comes a compelling, fact-based chronicle of a high-school football team in West Texas. There, winning isnt everything, its the only thing. Billy Bob Thornton stars as the coach, and country-music star Tim McGraw plays the abusive father of a player. The film was directed and co-written by Peter Berg, who adapted his cousin H.G. Bissingers bestseller.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118151500 +0000" stop="20241118164500 +0000" channel="Showtime 2 (West).us"><title>Vantage Point (2008)</title><Sub-title /><desc>In this riveting thriller, an assassination attempt is made on the president in front of a crowd, but no two witnesses can agree on who did what to whom. A Secret Service agent (Dennis Quaid) must race against time to uncover the shocking truth before the conspirators escape. Matthew Fox, Sigourney Weaver, Forest Whitaker, William Hurt.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118164500 +0000" stop="20241118182000 +0000" channel="Showtime 2 (West).us"><title>Monstrous (2022)</title><Sub-title /><desc>Laura, the mother to seven-year-old Cody, decides to get a new but isolated house near a lake. They are trying to live a new life after escaping Lauras abusive ex-husband. Amidst the appeal of their life and surroundings, a new challenge appears in the form of a monstrous being that emerges from the waters near their property, haunting them in more ways than one.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118182000 +0000" stop="20241118204000 +0000" channel="Showtime 2 (West).us"><title>We Were Soldiers (2002)</title><Sub-title /><desc>The first major battle of the Vietnam War in 1965, and the soldiers who were involved, are depicted in this drama.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118204000 +0000" stop="20241118231500 +0000" channel="Showtime 2 (West).us"><title>Inglourious Basterds (2009)</title><Sub-title /><desc>An American military officer leads a special squad of soldiers who perform quick strikes against the Nazis in enemy territory. They team up with a French theatre owner whose parents were killed by the Third Reich in a plot to execute Hitler and his right-hand men at a screening at the theatre.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118231500 +0000" stop="20241119014000 +0000" channel="Showtime 2 (West).us"><title>Goodfellas (1990)</title><Sub-title /><desc>Director Martin Scorseses riveting real-life study of New York mob life.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122081400 +0000" stop="20241122100000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>AEW Dynamite</title><Sub-title /><desc>Una lucha distinta con la misma pasión. Una nueva propuesta de lucha libre profesional llega con un cuadrilátero repleto de adrenalina, saltos, golpes, maniobras y mucha acción en busca de un nuevo monarca.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122100000 +0000" stop="20241122120000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas</title><Sub-title>West Santos vs. Muchachos FC / Raniza FC vs. Olimpo United</Sub-title><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122120000 +0000" stop="20241122140000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Tigres UANL vs. AmÃ©rica, Semifinal - Vuelta, Estadio Universitario</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122140000 +0000" stop="20241122151400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 1, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122151400 +0000" stop="20241122161400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 2, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122161400 +0000" stop="20241122163000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Belgium</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122163000 +0000" stop="20241122164400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Italia</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122164400 +0000" stop="20241122170000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Azerbaijan</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122170000 +0000" stop="20241122190000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Premier League</title><Sub-title>Nottingham Forest vs. West Ham Utd., Fecha 10, City Ground</Sub-title><desc>Vive los partidos de la 33º edición de la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122190000 +0000" stop="20241122210000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Kings League Americas</title><Sub-title>West Santos vs. Muchachos FC / Raniza FC vs. Olimpo United</Sub-title><desc>Retransmisión de los partidos de fútbol 7 de la competencia Américas Kings League. El público disfrutará de un evento compuesto por doce equipos presididos por futbolistas y streamers de Internet de diversos países de Latinoámerica.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122210000 +0000" stop="20241122230000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>FÃºtbol mexicano - Liga MX Femenil</title><Sub-title>Tigres UANL vs. AmÃ©rica, Semifinal - Vuelta, Estadio Universitario</Sub-title><desc>Vive los partidos de la 15º edición del campeonato de liga de la Primera División Femenil de México con el que inicia la temporada 2024-2025.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122230000 +0000" stop="20241122231400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Azerbaijan</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241122231400 +0000" stop="20241123001400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 1, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241123001400 +0000" stop="20241123013000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 2, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241123013000 +0000" stop="20241123033400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 3, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241123033400 +0000" stop="20241123044400 +0000" channel="FOX SPORTS PREMIUM.mx"><title>PrÃ¡ctica - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, PrÃ¡ctica 3, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Vive las prácticas de las carreras de la 75º temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241123044400 +0000" stop="20241123050000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>Chasing the Dream</title><Sub-title>Azerbaijan</Sub-title><desc>Un documental sobre la F2, una competencia que reúne a jóvenes pilotos cuyo sueño es llegar a la la Fórmula 1. El público será testigo de primera mano del compromiso inquebrantable de los corredores.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
+<programme start="20241123050000 +0000" stop="20241123053000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>49ers Insights</title><Sub-title /><desc /><episode-num system="xmltv_ns" /></programme>
+<programme start="20241123053000 +0000" stop="20241123073000 +0000" channel="FOX SPORTS PREMIUM.mx"><title>ClasificaciÃ³n - FÃ³rmula 1</title><Sub-title>Gran Premio de Las Vegas, Circuito callejero de Las Vegas, Las Vegas</Sub-title><desc>Llega la carrera de clasificación de la 75 temporada del Campeonato Mundial de Fórmula 1 de la historia. Se trata de la principal competición de automovilismo internacional y el campeonato de deportes más popular y prestigioso del mundo.</desc><episode-num system="xmltv_ns">2023..</episode-num></programme>
 <programme start="20241119014000 +0000" stop="20241119040000 +0000" channel="Showtime 2 (West).us"><title>Noah (2014)</title><Sub-title /><desc>Noah receives a warning from God about a great flood, and constructs an ark to save creation as the planet is cleansed of sin. When the rain begins to fall, Noah and his family are forced to defend their massive vessel from malicious invaders.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119040000 +0000" stop="20241119063500 +0000" channel="Showtime 2 (West).us"><title>Gladiator (2000)</title><Sub-title /><desc>An exhilarating epic about a Roman general who becomes an enslaved gladiator after he refuses to pledge loyalty to the emperors power-hungry son.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119063500 +0000" stop="20241119084000 +0000" channel="Showtime 2 (West).us"><title>3:10 to Yuma (2007)</title><Sub-title /><desc>Remake of the 1957 Western about a rancher escorting an outlaw to a rendezvous with the law, while the latters henchmen try to head them off and free their leader.</desc><episode-num system="xmltv_ns" /></programme>
@@ -138,16 +120,18 @@
 <programme start="20241121220000 +0000" stop="20241121234500 +0000" channel="Showtime 2 (West).us"><title>Mafia Mamma (2023)</title><Sub-title /><desc>The comedy films centers on an American woman with an impossible mission: leading the mafia. After her grandfather passes away, Kristin receives a phone call notifying her that she inherited her grandfathers mafia empire. With the help of a trusted consigliere, Kristin soon discovers her flare for leading the family business.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241121234500 +0000" stop="20241122020000 +0000" channel="Showtime 2 (West).us"><title>Urban Cowboy (1980)</title><Sub-title /><desc>A country-western take on "Saturday Night Fever" about a good ol boy looking for love from atop a mechanical bull in a Texan honky-tonk.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241122020000 +0000" stop="20241122041000 +0000" channel="Showtime 2 (West).us"><title>Unforgiven (1992)</title><Sub-title /><desc>In this thrilling and provocative revisionist Western, a former gunslinger-turned-farmer agrees to help hunt down two cowboys who assaulted and disfigured a prostitute. However, his quest brings him into conflict with an authoritarian sheriff.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118000300 +0000" stop="20241118030300 +0000" channel="Syfy HDTV.us"><title>The Matrix Reloaded (2003)</title><Sub-title /><desc>Keanu Reeves returns as Neo, who continues his quest to save mankind from deadly machines.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118030300 +0000" stop="20241118060000 +0000" channel="Syfy HDTV.us"><title>The Matrix Revolutions (2003)</title><Sub-title /><desc>The conclusion of the Wachowski brothers trilogy about the final showdown between humans and machines.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118060000 +0000" stop="20241118083000 +0000" channel="Syfy HDTV.us"><title>The Hitmans Bodyguard (2017)</title><Sub-title /><desc>A bodyguard must protect a hit man whos about to testify against a dictator.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118083000 +0000" stop="20241118110000 +0000" channel="Syfy HDTV.us"><title>1408 (2007)</title><Sub-title /><desc>A writer (John Cusack) who debunks paranormal occurrences finds terrifying evidence to the contrary when he checks into a reputedly haunted hotel room in this spooky adaptation of a story by Stephen King. Samuel L. Jackson, Mary McCormack, Tony Shalhoub, Jasmine Jessica Anthony. Mikael Hafstrom directed.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118110000 +0000" stop="20241118130300 +0000" channel="Syfy HDTV.us"><title>Happy Death Day 2U (2019)</title><Sub-title /><desc>Two years after her first time-travelling nightmare, Tree Gelbman returns to the time loop in an effort to understand why she was forced into it in the first place. Unfortunately, she must face off against the vengeful Lori for a second time, when she is resurrected inside the loop.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118130300 +0000" stop="20241118151800 +0000" channel="Syfy HDTV.us"><title>Halloween II (2009)</title><Sub-title /><desc>Michael Myers returns to Haddonfield to resolve some unfinished family business and kills everyone in his path before coming face-to-face with his most-formidable adversary to date.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118151800 +0000" stop="20241118174500 +0000" channel="Syfy HDTV.us"><title>Studio 666 (2022)</title><Sub-title /><desc>Rock band the Foo Fighters embark on their wild adventure of recording their tenth studio album at an Encino mansion. The mansions long rock and roll history unexpectedly comes alive, and the band must confront supernatural forces to stay on track and stay alive.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118174500 +0000" stop="20241118204500 +0000" channel="Syfy HDTV.us"><title>The Matrix (1999)</title><Sub-title /><desc>A computer hacker is introduced to an alternate reality by a fugitive.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118204500 +0000" stop="20241118234500 +0000" channel="Syfy HDTV.us"><title>The Matrix Reloaded (2003)</title><Sub-title /><desc>Keanu Reeves returns as Neo, who continues his quest to save mankind from deadly machines.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241118234500 +0000" stop="20241119023000 +0000" channel="Syfy HDTV.us"><title>The Matrix Revolutions (2003)</title><Sub-title /><desc>The conclusion of the Wachowski brothers trilogy about the final showdown between humans and machines.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122041000 +0000" stop="20241122060000 +0000" channel="Showtime 2 (West).us"><title>The November Man (2014)</title><Sub-title /><desc>An ex-CIA agent is targeted by his former protégé while racing to protect a witness. As the bullets start to fly, he must survive long enough to protect his charge, and root out the mole who has put his entire mission in jeopardy.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122060000 +0000" stop="20241122074000 +0000" channel="Showtime 2 (West).us"><title>Faster (2010)</title><Sub-title /><desc>Driver seeks revenge on the man responsible for his brothers death, but a devoted cop gets wind of his plan and tries to stop him from carrying it out. Meanwhile, a hit man attempts to end Drivers life before he completes his task.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122074000 +0000" stop="20241122094500 +0000" channel="Showtime 2 (West).us"><title>Scream VI (2023)</title><Sub-title /><desc>Bored of the quaint town of Woodsboro, the notorious serial killer Ghostface leaves his small-town stomping grounds behind, pursuing more ambitious conquests in New York City. Determined to overthrow his reign of terror once and for all, a cohort of familiar faces returns to seek justice for the bloodshed. The sixth installment in the horror franchise.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122094500 +0000" stop="20241122110000 +0000" channel="Showtime 2 (West).us"><title>Erotic Ghost Story (2023)</title><Sub-title /><desc>A film crew visits a ranch known for eerie past events. As they shoot, mysterious occurrences unfold and spirits of past victims emerge, haunting the team.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122110000 +0000" stop="20241122124500 +0000" channel="Showtime 2 (West).us"><title>Life (2017)</title><Sub-title /><desc>This science fiction saga tells the story of astronauts on the International Space Station who retrieve a sample from Mars and discover it contains evidence of intelligent life.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122124500 +0000" stop="20241122141500 +0000" channel="Showtime 2 (West).us"><title>Monstrous (2022)</title><Sub-title /><desc>Laura, the mother to seven-year-old Cody, decides to get a new but isolated house near a lake. They are trying to live a new life after escaping Lauras abusive ex-husband. Amidst the appeal of their life and surroundings, a new challenge appears in the form of a monstrous being that emerges from the waters near their property, haunting them in more ways than one.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122141500 +0000" stop="20241122160500 +0000" channel="Showtime 2 (West).us"><title>True Grit (2010)</title><Sub-title /><desc>An alcoholic US Marshal and a 14-year-old girl track down her fathers killer with the help of a Texas Ranger. As the three brave dangerous American Indian territory, they discover their prey has fallen in with a more-experienced criminal.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122160500 +0000" stop="20241122183000 +0000" channel="Showtime 2 (West).us"><title>We Were Soldiers (2002)</title><Sub-title /><desc>The first major battle of the Vietnam War in 1965, and the soldiers who were involved, are depicted in this drama.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122183000 +0000" stop="20241122203000 +0000" channel="Showtime 2 (West).us"><title>Camp X-Ray (2014)</title><Sub-title /><desc>A small-town girl joins the military and becomes a guard at Guantanamo Bay, where she forges a delicate, transformative bond with an inmate who raises some compelling questions about his incarceration.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122203000 +0000" stop="20241122225000 +0000" channel="Showtime 2 (West).us"><title>Letters From Iwo Jima (2006)</title><Sub-title /><desc>Best Director nominee Clint Eastwoods charged companion piece to his "Flags of Our Fathers" is a poignant and impressive deconstruction of the World War II battle from the perspective of the Japanese forces. Ken Watanabe gives a commanding performance as Gen. Tadamichi Kuribayashi. The film was a Best Picture nominee and was coproduced by Eastwood and Steven Spielberg. Iris Yamashitas script was up for Best Original Screenplay. Kazunari Ninomiya, Tsuyoshi Ihara, Ryo Kase.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122225000 +0000" stop="20241123010000 +0000" channel="Showtime 2 (West).us"><title>The Hurt Locker (2008)</title><Sub-title /><desc>Jeremy Renner heads the cast of this Oscar-winning war drama about a trio of soldiers who specialise in dismantling improvised explosive devices in Baghdad. These three members of the Explosive Ordnance Disposal squad must put their fear and their personal beefs aside to keep themselves from going to "the hurt locker", the nickname soldiers have for where you recuperate after being injured in an explosion.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241123010000 +0000" stop="20241123030000 +0000" channel="Showtime 2 (West).us"><title>JFK Revisited: Through the Looking Glass (2021)</title><Sub-title /><desc>Oliver Stone reassesses John F. Kennedys assassination 30 years after his first examination of the horrific event that shaped a generation.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119023000 +0000" stop="20241119052700 +0000" channel="Syfy HDTV.us"><title>F9 (2021)</title><Sub-title /><desc>Dom and his family are living off the grid when their peace is threatened by Cipher, an old enemy. She sets on them a character from Doms past: his estranged brother, Jakob?a skilled assassin and an incredible high-performance driver.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119052700 +0000" stop="20241119073000 +0000" channel="Syfy HDTV.us"><title>Happy Death Day 2U (2019)</title><Sub-title /><desc>Two years after her first time-travelling nightmare, Tree Gelbman returns to the time loop in an effort to understand why she was forced into it in the first place. Unfortunately, she must face off against the vengeful Lori for a second time, when she is resurrected inside the loop.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241119073000 +0000" stop="20241119090000 +0000" channel="Syfy HDTV.us"><title>Devil (2010)</title><Sub-title /><desc>A group of strangers who are trapped in an elevator together come to the realization that one of them is the Devil in this nerve-shattering thriller.</desc><episode-num system="xmltv_ns" /></programme>
@@ -190,6 +174,17 @@
 <programme start="20241121194700 +0000" stop="20241121214700 +0000" channel="Syfy HDTV.us"><title>The Dark Tower (2017)</title><Sub-title /><desc>In this adaptation of Stephen Kings series of novels, a gunslinger and a mysterious villain known as the Man in Black search for a magical tower.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241121214700 +0000" stop="20241122004500 +0000" channel="Syfy HDTV.us"><title>The Bourne Legacy (2012)</title><Sub-title /><desc>An agent engineered to be the ultimate CIA weapon goes on the run when the program that created him is compromised, and everyone involved is ordered eliminated. Along the way, he is joined by the brilliant research scientist who helped to create him.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241122004500 +0000" stop="20241122024500 +0000" channel="Syfy HDTV.us"><title>London Has Fallen (2016)</title><Sub-title /><desc>A secret service agent, the President of the United States and an MI-6 Agent must work together to stop a terrorist plot to assassinate world leaders and destroy landmarks in the city of London.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122024500 +0000" stop="20241122050000 +0000" channel="Syfy HDTV.us"><title>The Outfit (2022)</title><Sub-title /><desc>Leonard is an English tailor who used to craft suits on Londons world-famous Savile Row. After a personal tragedy, hes ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122050000 +0000" stop="20241122070100 +0000" channel="Syfy HDTV.us"><title>Buried (2010)</title><Sub-title /><desc>American truck driver Paul Conroy awakens to find himself buried alive after being captured by insurgent guerrillas in Iraq. With only a lighter and a mobile phone at his disposal, Paul works frantically to escape as his oxygen supply dwindles.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122070100 +0000" stop="20241122090100 +0000" channel="Syfy HDTV.us"><title>Youre Next (2013)</title><Sub-title /><desc>Crispian and his new girlfriend Erin attend a family reunion that turns into a feral massacre when a gang of masked killers invade a sprawling country mansion on a ruthless mission of murder.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122090100 +0000" stop="20241122110000 +0000" channel="Syfy HDTV.us"><title>The Price We Pay (2022)</title><Sub-title /><desc>Grace is taken hostage by a gang of thieves raiding a pawnshop. The gang must quickly escape, so they kidnap her and hide in a remote farmhouse where they discover a secret dungeon with signs of sadism and torture all over the walls. Grace must navigate this dangerous maze to survive.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122110000 +0000" stop="20241122131500 +0000" channel="Syfy HDTV.us"><title>10,000 B.C. (2008)</title><Sub-title /><desc>Fun prehistoric adventure about a tribe of mammoth hunters. When theyre raided by marauders who kidnap survivors to serve as slaves, brave DLeh leads a rescue party across perilous terrain fraught with saber-toothed tigers and killer dodos.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122131500 +0000" stop="20241122151500 +0000" channel="Syfy HDTV.us"><title>The Cabin in the Woods (2012)</title><Sub-title /><desc>Five friends in a secluded cabin encounter unspeakable horror as they become the subjects of an arcane ritual that dates back to the beginning of time.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122151500 +0000" stop="20241122171500 +0000" channel="Syfy HDTV.us"><title>Hell Fest (2018)</title><Sub-title /><desc>A masked serial killer known as "the Other" turns a horror-themed amusement park into his own personal playground, terrorizing a group of friends while the rest of the patrons believe that it is all part of the show.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122171500 +0000" stop="20241122201100 +0000" channel="Syfy HDTV.us"><title>Snowpiercer (2013)</title><Sub-title /><desc>A revolution brews on a train containing the last of humanity in this sci-fi film set during a new ice age. When the lower classes in the back cars decide to invade the upper classes in the front, the superpowered locomotive speeds toward tragedy.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122201100 +0000" stop="20241122223000 +0000" channel="Syfy HDTV.us"><title>The Outfit (2022)</title><Sub-title /><desc>Leonard is an English tailor who used to craft suits on Londons world-famous Savile Row. After a personal tragedy, hes ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241122223000 +0000" stop="20241123003000 +0000" channel="Syfy HDTV.us"><title>London Has Fallen (2016)</title><Sub-title /><desc>A secret service agent, the President of the United States and an MI-6 Agent must work together to stop a terrorist plot to assassinate world leaders and destroy landmarks in the city of London.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241123003000 +0000" stop="20241123033000 +0000" channel="Syfy HDTV.us"><title>The Bourne Identity (2002)</title><Sub-title /><desc>A CIA assassin with amnesia is targeted for elimination by his superiors after botching an assignment in this action-packed spy thriller.</desc><episode-num system="xmltv_ns" /></programme>
 <channel id="HBO.2.HDTV.(East).(HBO2HD).us">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">HBO 2 HDTV (East) (HBO2HD)</display-name>
@@ -37536,267 +37531,6 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20241119060000 -0500" stop="20241119070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day Wake Up 2</title>
-    <desc lang="en">Morning news and entertainment.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119070000 -0500" stop="20241119090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day New York</title>
-    <desc lang="en">Morning news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119090000 -0500" stop="20241119100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day New York</title>
-    <desc lang="en">Morning news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119100000 -0500" stop="20241119110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Sherri</title>
-    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of "The View" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119110000 -0500" stop="20241119120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The Jennifer Hudson Show</title>
-    <desc lang="en">Author Henry Winkler ("Detective Duck: The Case of the Missing Tadpole" and "Being Henry: The Fonz…and Beyond"); chef Giada De Laurentiis.</desc>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119120000 -0500" stop="20241119130000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The Noon</title>
-    <desc lang="en">Midday news update.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119130000 -0500" stop="20241119133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">25 Words or Less</title>
-    <desc lang="en">Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119133000 -0500" stop="20241119140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Person, Place or Thing</title>
-    <desc lang="en">A modern take on the age-old game of 20 Questions intersperses comedy with common knowledge; hosted by People's Choice Award winner Melissa Peterman.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119140000 -0500" stop="20241119143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Pictionary</title>
-    <desc lang="en">A contestant must draw an image that depicts a word or phrase that is randomly chosen; their teammates must guess what the word or phrase is; host Jerry O'Connell.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119143000 -0500" stop="20241119150000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Extra</title>
-    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119150000 -0500" stop="20241119160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ Live</title>
-    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119160000 -0500" stop="20241119170000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The People's Court</title>
-    <desc lang="en">"Livid at My Landlord.".</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119170000 -0500" stop="20241119180000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The 5 O'Clock News</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119180000 -0500" stop="20241119190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The 6 O'Clock News</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119190000 -0500" stop="20241119193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Extra</title>
-    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119193000 -0500" stop="20241119200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ</title>
-    <desc lang="en">The very latest celebrity news.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241119200000 -0500" stop="20241119210000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Murder in a Small Town</title>
-    <sub-title lang="en">Family Concerns</sub-title>
-    <desc lang="en">Detective Alberg examines the mysterious deaths of two women, each found in the forest with their bodies arranged in eerily similar poses.</desc>
-    <credits>
-      <actor>Rossif Sutherland</actor>
-      <actor>Kristin Kreuk</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241119210000 -0500" stop="20241119220000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Accused</title>
-    <sub-title lang="en">Margot's Story</sub-title>
-    <desc lang="en">A widow taking dance lessons with her two best friends gets mixed up in the instructor's shady dealings.</desc>
-    <credits>
-      <actor>Stephanie Nogueras</actor>
-      <actor>Jean-Michel Le Gal</actor>
-      <actor>Beatriz Yuste</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20241119220000 -0500" stop="20241119230000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The 10 O'Clock News</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119230000 -0500" stop="20241119233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Night New York</title>
-    <category lang="en">News Magazine</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241119233000 -0500" stop="20241120000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241120000000 -0500" stop="20241120010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ Live</title>
-    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241120010000 -0500" stop="20241120013000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">25 Words or Less</title>
-    <sub-title lang="en">Don't Get Hiss-terical!</sub-title>
-    <desc lang="en">Corbin Bleu's team hope to sink their fangs into the $10,000 money round.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241120013000 -0500" stop="20241120020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Dish Nation</title>
-    <desc lang="en">Entertaining entertainment news: the show dishes on celebrity gossip with humorous commentary on pop culture.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241120020000 -0500" stop="20241120023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241120023000 -0500" stop="20241120030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
-    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241120030000 -0500" stop="20241120033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Under Eye Bags? SOLUTION!</title>
-    <desc lang="en">Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Lifestyle</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241120033000 -0500" stop="20241120040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Who Has Access to Your Personal Data?</title>
-    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241120040000 -0500" stop="20241120043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ</title>
-    <desc lang="en">The very latest celebrity news.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241120043000 -0500" stop="20241120050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day Wake Up</title>
-    <desc lang="en">Morning news coverage.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241120050000 -0500" stop="20241120060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day Wake Up</title>
-    <desc lang="en">Morning news coverage.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
   <programme start="20241120060000 -0500" stop="20241120070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Good Day Wake Up 2</title>
     <desc lang="en">Morning news and entertainment.</desc>
@@ -37817,7 +37551,8 @@
   </programme>
   <programme start="20241120100000 -0500" stop="20241120110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Sherri</title>
-    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of "The View" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <sub-title lang="en">Aldis Hodge</sub-title>
+    <desc lang="en">Actor Aldis Hodge (Amazon Prime Video series "Cross"); Ben Bailey drops in to Sherri's Laugh Lounge; Sherri's Real Good Time Getaway.Guests: Aldis Hodge, Ben Bailey..</desc>
     <category lang="en">Talk Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -37841,7 +37576,8 @@
   </programme>
   <programme start="20241120130000 -0500" stop="20241120133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">25 Words or Less</title>
-    <desc lang="en">Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.</desc>
+    <sub-title lang="en">A Knight to Remember</sub-title>
+    <desc lang="en">Team Colton Dunn may shine like knights in shining armor, or it may turn into a nightmare.</desc>
     <category lang="en">Game Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -37850,7 +37586,8 @@
   </programme>
   <programme start="20241120133000 -0500" stop="20241120140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Person, Place or Thing</title>
-    <desc lang="en">A modern take on the age-old game of 20 Questions intersperses comedy with common knowledge; hosted by People's Choice Award winner Melissa Peterman.</desc>
+    <sub-title lang="en">Magic Meets Mystery</sub-title>
+    <desc lang="en">Contestants take on the world of magical structures, but some of the famous places are more challenging than they expect.</desc>
     <category lang="en">Game Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -37859,7 +37596,8 @@
   </programme>
   <programme start="20241120140000 -0500" stop="20241120143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Pictionary</title>
-    <desc lang="en">A contestant must draw an image that depicts a word or phrase that is randomly chosen; their teammates must guess what the word or phrase is; host Jerry O'Connell.</desc>
+    <sub-title lang="en">Udder Madness</sub-title>
+    <desc lang="en">The TV version of the classic game featuring celebrity captains Carson Kressley and Jeff Dye.</desc>
     <category lang="en">Game Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -38326,7 +38064,8 @@
   </programme>
   <programme start="20241122100000 -0500" stop="20241122110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Sherri</title>
-    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of "The View" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <sub-title lang="en">Rosie Perez &amp; Michael R. Jackson</sub-title>
+    <desc lang="en">Rosie Perez (Apple TV+ series "Before"); playwright Michael R. Jackson ("Teeth," "A Strange Loop"); Sherri's Real Good Time Getaway.Guests: Rosie Perez, Michael R. Jackson..</desc>
     <category lang="en">Talk Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -38351,7 +38090,8 @@
   </programme>
   <programme start="20241122130000 -0500" stop="20241122133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">25 Words or Less</title>
-    <desc lang="en">Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.</desc>
+    <sub-title lang="en">Hints That Won't Break Apart!</sub-title>
+    <desc lang="en">Colton Dunn and his crew face tough clues that might break them apart; they will rise to the challenge or fall apart when it counts the most.</desc>
     <category lang="en">Game Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -38360,7 +38100,8 @@
   </programme>
   <programme start="20241122133000 -0500" stop="20241122140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Person, Place or Thing</title>
-    <desc lang="en">A modern take on the age-old game of 20 Questions intersperses comedy with common knowledge; hosted by People's Choice Award winner Melissa Peterman.</desc>
+    <sub-title lang="en">Guess That U.S. City!</sub-title>
+    <desc lang="en">Contestants must guess iconic cities with just a few clues; one particular location is more puzzling than one would expect.</desc>
     <category lang="en">Game Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -38369,7 +38110,8 @@
   </programme>
   <programme start="20241122140000 -0500" stop="20241122143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Pictionary</title>
-    <desc lang="en">A contestant must draw an image that depicts a word or phrase that is randomly chosen; their teammates must guess what the word or phrase is; host Jerry O'Connell.</desc>
+    <sub-title lang="en">The Masked Doodler</sub-title>
+    <desc lang="en">The TV version of the classic game featuring celebrity captains Pretty Vee and Orlando Jones.</desc>
     <category lang="en">Game Shows</category>
     <previously-shown />
     <rating system="MPAA">
@@ -38543,6 +38285,232 @@
     <desc lang="en">Getting ready for the holidays; shopping deals for Black Friday and Cyber Monday.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News Magazine</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241123053000 -0500" stop="20241123060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241123060000 -0500" stop="20241123063000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Street Talk</title>
+    <desc lang="en">New York public affairs program focusing on important issues in the tri-state area.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241123063000 -0500" stop="20241123070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241123070000 -0500" stop="20241123073000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Xploration Awesome Planet</title>
+    <sub-title lang="en">Slovenia</sub-title>
+    <desc lang="en">How karst rock has led to the formation of over 12,000 caves across the country of Slovenia; why Slovenia is a global leader in sustainability.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241123073000 -0500" stop="20241123080000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Xploration Outer Space</title>
+    <desc lang="en">Exploring myths about Mars that were promoted by respected scientists; recent mysteries that have yet to be solved.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241123080000 -0500" stop="20241123083000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Xploration Nature Knows Best</title>
+    <sub-title lang="en">Nature and Physical Activity</sub-title>
+    <desc lang="en">Mother Nature revamps some of our favorite sports; roller skates' reinvented wheels are inspired by how snakes and fish move; a workout mimics the physiology of little kids; a basic component in plants helps divers see more clearly underwater.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241123083000 -0500" stop="20241123090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Second Chance Pets</title>
+    <desc lang="en">Frostbite causes a dog to lose both front paws; a police dog needs a brace to get back to work.</desc>
+    <category lang="en">Animals</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241123090000 -0500" stop="20241123093000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241123093000 -0500" stop="20241123100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241123100000 -0500" stop="20241123120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: Big Noon Kickoff</title>
+    <desc lang="en">A college football pregame show featuring analysts Urban Meyer, Mark Ingram, Matt Leinart and Brady Quinn. Led by host Rob Stone, the group gives in-depth analysis on the biggest games of the day, especially the "Big Noon Saturday" game on FOX.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241123120000 -0500" stop="20241123153000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Indiana at Ohio State</sub-title>
+    <desc lang="en">From Ohio Stadium in Columbus, Ohio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241123153000 -0500" stop="20241123190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Colorado at Kansas</sub-title>
+    <desc lang="en">From Arrowhead Stadium in Kansas City, Mo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241123190000 -0500" stop="20241123193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: FOX College Football Extra</title>
+    <desc lang="en">Highlights and updates of the day's college football action and previews of upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241123193000 -0500" stop="20241123230000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Live: College Football</title>
+    <sub-title lang="en">Teams TBA</sub-title>
+    <desc lang="en">All the action from NCAA college football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20241123230000 -0500" stop="20241123233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 10 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241123233000 -0500" stop="20241124003000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Floor</title>
+    <sub-title lang="en">Who's Afraid of Virginia the Wolf?</sub-title>
+    <desc lang="en">Contestants test their knowledge of flowers, state capitals, kid shows, gems and more.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241124003000 -0500" stop="20241124013000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241124013000 -0500" stop="20241124020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Whacked Out Sports</title>
+    <desc lang="en">Giant tires; bikini archery; wrestling in chocolate pudding.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241124020000 -0500" stop="20241124023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241124023000 -0500" stop="20241124030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241124030000 -0500" stop="20241124033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241124033000 -0500" stop="20241124040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241124040000 -0500" stop="20241124043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241124043000 -0500" stop="20241124050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20241124050000 -0500" stop="20241124053000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
