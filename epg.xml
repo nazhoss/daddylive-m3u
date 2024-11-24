@@ -36799,258 +36799,6 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20241122060000 -0500" stop="20241122070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day Wake Up 2</title>
-    <desc lang="en">Morning news and entertainment.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122070000 -0500" stop="20241122090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day New York</title>
-    <desc lang="en">Morning news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122090000 -0500" stop="20241122100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Good Day New York</title>
-    <desc lang="en">Morning news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122100000 -0500" stop="20241122110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Sherri</title>
-    <sub-title lang="en">Rosie Perez &amp; Michael R. Jackson</sub-title>
-    <desc lang="en">Rosie Perez (Apple TV+ series "Before"); playwright Michael R. Jackson ("Teeth," "A Strange Loop"); Sherri's Real Good Time Getaway.Guests: Rosie Perez, Michael R. Jackson..</desc>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122110000 -0500" stop="20241122120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The Jennifer Hudson Show</title>
-    <sub-title lang="en">Thanksgiving Show</sub-title>
-    <desc lang="en">Actor Ted Danson ("A Man on the Inside"); two best friends share how a video of them dancing went viral; the inspiring story of their friendship.Guests: Ted Danson..</desc>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122120000 -0500" stop="20241122130000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The Noon</title>
-    <desc lang="en">Midday news update.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122130000 -0500" stop="20241122133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">25 Words or Less</title>
-    <sub-title lang="en">Hints That Won't Break Apart!</sub-title>
-    <desc lang="en">Colton Dunn and his crew face tough clues that might break them apart; they will rise to the challenge or fall apart when it counts the most.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122133000 -0500" stop="20241122140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Person, Place or Thing</title>
-    <sub-title lang="en">Guess That U.S. City!</sub-title>
-    <desc lang="en">Contestants must guess iconic cities with just a few clues; one particular location is more puzzling than one would expect.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122140000 -0500" stop="20241122143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Pictionary</title>
-    <sub-title lang="en">The Masked Doodler</sub-title>
-    <desc lang="en">The TV version of the classic game featuring celebrity captains Pretty Vee and Orlando Jones.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122143000 -0500" stop="20241122150000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Extra</title>
-    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122150000 -0500" stop="20241122160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ Live</title>
-    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122160000 -0500" stop="20241122170000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The People's Court</title>
-    <desc lang="en">"Music Mayhem.".</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122170000 -0500" stop="20241122180000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The 5 O'Clock News</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122180000 -0500" stop="20241122183000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The 6 O'Clock News</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122183000 -0500" stop="20241122190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Street Soldiers</title>
-    <category lang="en">News Magazine</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241122190000 -0500" stop="20241122193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Extra</title>
-    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122193000 -0500" stop="20241122200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ</title>
-    <desc lang="en">The very latest celebrity news.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241122200000 -0500" stop="20241122233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Purdue at Michigan State</sub-title>
-    <desc lang="en">The Spartans host the Boilermakers. Purdue has faced a top-five ranked opponent in three of its past four, and plays projected top-five surprise Indiana in its Nov. 30 finale. Purdue knocked off a top-five ranked Michigan State side in November 2021.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20241122233000 -0500" stop="20241123000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">The 10 O'Clock News</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241123000000 -0500" stop="20241123010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">TMZ Live</title>
-    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241123010000 -0500" stop="20241123013000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">25 Words or Less</title>
-    <sub-title lang="en">A Clue Symphony!</sub-title>
-    <desc lang="en">Melissa Peterman may have her team singing in harmony or leave them off-key.</desc>
-    <category lang="en">Game Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241123013000 -0500" stop="20241123020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Dish Nation</title>
-    <desc lang="en">The latest on Lamar Odom; an interview with Dr. Heavenly ("Married to Medicine"); Ariana Grande and Cynthia Erivo ("Wicked").Guests: Heavenly Kimes..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Performing Arts</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20241123020000 -0500" stop="20241123023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
-    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241123023000 -0500" stop="20241123030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241123030000 -0500" stop="20241123033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Men's Health - All-Natural Secret for Prostate Health</title>
-    <desc lang="en">Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241123033000 -0500" stop="20241123040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241123040000 -0500" stop="20241123043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Best Mattress Topper Ever!</title>
-    <desc lang="en">Back Pain? Hip? Sleep well thanks to this cooling topper!</desc>
-    <category lang="en">Paid Program</category>
-    <previously-shown />
-  </programme>
-  <programme start="20241123043000 -0500" stop="20241123050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Coffee With America Extra</title>
-    <desc lang="en">Sasha Rionda brings an additional half hour of news, entertainment, fashion and beauty, health, and travel features in a familiar morning-show format.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News Magazine</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241123050000 -0500" stop="20241123053000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Coffee With America</title>
-    <desc lang="en">Getting ready for the holidays; shopping deals for Black Friday and Cyber Monday.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News Magazine</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20241123053000 -0500" stop="20241123060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
   <programme start="20241123060000 -0500" stop="20241123063000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Good Day Street Talk</title>
     <desc lang="en">New York public affairs program focusing on important issues in the tri-state area.</desc>
@@ -37109,14 +36857,10 @@
     </rating>
   </programme>
   <programme start="20241123090000 -0500" stop="20241123093000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20241123093000 -0500" stop="20241123100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Car Repair Secrets!</title>
@@ -37380,7 +37124,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241124200000 -0500" stop="20241124203000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+  <programme start="20241124200000 -0500" stop="20241124203100 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">The Simpsons</title>
     <sub-title lang="en">Treehouse of Horror Presents: Simpsons Wicked This Way Comes</sub-title>
     <desc lang="en">A tattooed man at a mysterious night circus transports Lisa into three strange stories from the innocent 1950s, the chilling retro-present and a brutalist future where prestige TV rules the world.</desc>
@@ -37396,7 +37140,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20241124203000 -0500" stop="20241124210000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+  <programme start="20241124203100 -0500" stop="20241124210000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Universal Basic Guys</title>
     <sub-title lang="en">Mark Men</sub-title>
     <desc lang="en">Mark throws his hat into the ring as an Ad Man after being shown up by a group of execs at his favorite bar.</desc>
@@ -37757,14 +37501,10 @@
     </rating>
   </programme>
   <programme start="20241126020000 -0500" stop="20241126023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20241126023000 -0500" stop="20241126030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Paid Programming</title>
@@ -37799,6 +37539,259 @@
     </rating>
   </programme>
   <programme start="20241126043000 -0500" stop="20241126050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126050000 -0500" stop="20241126060000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126060000 -0500" stop="20241126070000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day Wake Up 2</title>
+    <desc lang="en">Morning news and entertainment.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126070000 -0500" stop="20241126090000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day New York</title>
+    <desc lang="en">Morning news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126090000 -0500" stop="20241126100000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Day New York</title>
+    <desc lang="en">Morning news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126100000 -0500" stop="20241126110000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Sherri</title>
+    <desc lang="en">Actress, comic and Emmy Award-winning longtime co-host of "The View" Sherri Shepherd appears before a live audience with a daily dose of pop culture, comedy, conversations and daytime talk staples, including celebrity and human-interest interviews.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126110000 -0500" stop="20241126120000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Jennifer Hudson Show</title>
+    <desc lang="en">Jennifer interviews Dorit Kemsley, Garcelle Beauvais, Kyle Richards, Erika Jayne, Sutton Stracke and Bozoma Saint John ("The Real Housewives of Beverly Hills"); Marvin Sapp chats and performs.Guests: Dorit Kemsley, Garcelle Beauvais-Nilon, Kyle Richards, Erika Jayne, Sutton Stracke, Bozoma Saint John..</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126120000 -0500" stop="20241126130000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The Noon</title>
+    <desc lang="en">Midday news update.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126130000 -0500" stop="20241126133000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">25 Words or Less</title>
+    <desc lang="en">Teams compete to see who can guess secret words or phrases with a limited amount of clues and time; host Meredith Vieira.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126133000 -0500" stop="20241126140000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Person, Place or Thing</title>
+    <desc lang="en">A modern take on the age-old game of 20 Questions intersperses comedy with common knowledge; hosted by People's Choice Award winner Melissa Peterman.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126140000 -0500" stop="20241126143000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Pictionary</title>
+    <sub-title lang="en">Raining Cats and Drawns</sub-title>
+    <desc lang="en">From classic knick-knacks to unexpected finds, contestants struggle to capture the essence of a grandparent's home.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126143000 -0500" stop="20241126150000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126150000 -0500" stop="20241126160000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126160000 -0500" stop="20241126170000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"You Vandalized My Boat!".</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126170000 -0500" stop="20241126180000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 5 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126180000 -0500" stop="20241126190000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 6 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126190000 -0500" stop="20241126193000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126193000 -0500" stop="20241126200000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241126200000 -0500" stop="20241126210000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Murder in a Small Town</title>
+    <sub-title lang="en">Sleep While I Sing</sub-title>
+    <desc lang="en">The investigation to find a possible serial killer in Gibsons continues; Alberg and his team piece together clues and discover an unusual pattern that relates back to familiar works of art.</desc>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241126210000 -0500" stop="20241126220000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Accused</title>
+    <sub-title lang="en">Val's Story</sub-title>
+    <desc lang="en">A divorced mom is the primary suspect in her ex-husband's death.</desc>
+    <credits>
+      <actor>Stephanie Nogueras</actor>
+      <actor>Jean-Michel Le Gal</actor>
+      <actor>Beatriz Yuste</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20241126220000 -0500" stop="20241126230000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">The 10 O'Clock News</title>
+    <desc lang="en">Local, national and international news.</desc>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126230000 -0500" stop="20241126233000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Good Night New York</title>
+    <category lang="en">News Magazine</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241126233000 -0500" stop="20241127000000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241127000000 -0500" stop="20241127010000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ Live</title>
+    <desc lang="en">Harvey Levin invites viewers inside TMZ's newsroom to see how news is made.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241127010000 -0500" stop="20241127013000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">25 Words or Less</title>
+    <sub-title lang="en">Blazing Through the Clues</sub-title>
+    <desc lang="en">Team Melissa Peterman want to start on a high and ride it to the money round; they either stay on cloud nine or get spaced out along the way.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241127013000 -0500" stop="20241127020000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Dish Nation</title>
+    <desc lang="en">Entertaining entertainment news: the show dishes on celebrity gossip with humorous commentary on pop culture.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241127020000 -0500" stop="20241127023000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
+    <desc lang="en">Don't let hair loss hold you back! HairClub specializes in restoring your hair and confidence with customized solutions. From cutting edge treatments to natural looking hair systems, we help you regain your confidence and love your hair again.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241127023000 -0500" stop="20241127030000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241127030000 -0500" stop="20241127033000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241127033000 -0500" stop="20241127040000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">NEW Secret to Younger Skin</title>
+    <desc lang="en">NEW Crepe Erase will visibly transform your skin with 12 super hydrators PLUS receive their AGE DEFYING SKIN REVITALIZING TOOL FREE. Treat and repair the look of crepey skin. Order now at CrepeErase.com.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20241127040000 -0500" stop="20241127043000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
+    <title lang="en">TMZ</title>
+    <desc lang="en">The very latest celebrity news.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241127043000 -0500" stop="20241127050000 -0500" channel="FOX.(WNYW).New.York,.NY.us">
     <title lang="en">Good Day Wake Up</title>
     <desc lang="en">Morning news coverage.</desc>
     <category lang="en">News</category>
