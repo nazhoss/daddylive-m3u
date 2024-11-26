@@ -5,6 +5,7 @@ import fetcher
 import json
 import os
 import datetime
+import pytz
 
 #generate static list of static channel names
 #get schedule JSON
@@ -76,12 +77,17 @@ def addChannelByTerm(term, section):
                         date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
                         start_date = datetime.datetime.strptime(date_time, date_format)
 
+                        utc = pytz.utc
+                        start_date_utc = utc.localize(start_date)
+
+                        mst = pytz.timezone('US/Mountain')
+                        start_date_mst = start_date_utc.astimezone(mst)
                         # Convert the datetime object into the two requested formats
                         # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
-                        startTime = start_date.strftime("%Y%m%d000000")
-                        format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p")
+                        startTime = start_date_mst.strftime("%Y%m%d000000")
+                        format_12_hour = start_date_mst.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
 
-                        stop_date = start_date + datetime.timedelta(days=1)
+                        stop_date = start_date_mst + datetime.timedelta(days=1)
                         stopTime = stop_date.strftime("%Y%m%d000000")
                         # Print the results
                         # print(f"24-hour format: {format_24_hour}")
