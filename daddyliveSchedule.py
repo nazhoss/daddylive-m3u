@@ -59,7 +59,7 @@ def addChannelByTerm(term, section):
                         xmlIcon         = ET.Element('icon')
 
                         xmlChannel.set('id', UniqueID)
-                        xmlDisplayName.text = channelName
+                        xmlDisplayName.text = channelName + " " + format_12_hour
                         xmlIcon.text = logo
 
                         xmlChannel.append(xmlDisplayName)
