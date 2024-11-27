@@ -54,23 +54,7 @@ def addChannelByTerm(term, section):
                             file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
                             file.write('\n')
 
-                        xmlChannel      = ET.Element('channel')
-                        xmlDisplayName  = ET.Element('display-name')
-                        xmlIcon         = ET.Element('icon')
-
-                        xmlChannel.set('id', UniqueID)
-                        xmlDisplayName.text = channelName + " " + format_12_hour
-                        xmlIcon.text = logo
-
-                        xmlChannel.append(xmlDisplayName)
-                        xmlChannel.append(xmlIcon)
-
-                        root.append(xmlChannel)
-
-                        programme   = ET.Element('programme')
-                        title       = ET.Element('title')
-                        desc        = ET.Element('desc')
-
+                        #Creating Time Data
                         date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ")
                         date_time = date_time.replace("-", game["time"] + " -")
                         # Parse the cleaned date string into a datetime object
@@ -92,6 +76,25 @@ def addChannelByTerm(term, section):
                         # Print the results
                         # print(f"24-hour format: {format_24_hour}")
                         # print(f"12-hour format: {format_12_hour}")
+                        
+                        #Creating M3U8 Data
+                        xmlChannel      = ET.Element('channel')
+                        xmlDisplayName  = ET.Element('display-name')
+                        xmlIcon         = ET.Element('icon')
+
+                        xmlChannel.set('id', UniqueID)
+                        xmlDisplayName.text = channelName + " " + format_12_hour
+                        xmlIcon.text = logo
+
+                        xmlChannel.append(xmlDisplayName)
+                        xmlChannel.append(xmlIcon)
+
+                        root.append(xmlChannel)
+
+                        #Creating EPG Data
+                        programme   = ET.Element('programme')
+                        title       = ET.Element('title')
+                        desc        = ET.Element('desc')
 
                         programme.set('start', startTime)
                         programme.set('stop', stopTime)
