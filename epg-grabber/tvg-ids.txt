@@ -1,5 +1,5 @@
 Syfy HDTV.us
-HBO.HDTV.(East).(HBOHD).us
+HBO.-.Eastern.Feed.us
 HBO.2.HDTV.(East).(HBO2HD).us
 HBO.Comedy.HDTV.(East).(HBOCHD).us
 HBO.Family.HDTV.(East).(HBOFHD).us
