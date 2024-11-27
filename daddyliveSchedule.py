@@ -92,8 +92,8 @@ def addChannelByTerm(term, section):
                         title       = ET.Element('title')
                         desc        = ET.Element('desc')
 
-                        programme.set('start', startTime)
-                        programme.set('stop', stopTime)
+                        programme.set('start', startTime + " +0000")
+                        programme.set('stop', stopTime + " +0000")
                         programme.set('channel', UniqueID)
 
                         title.text = channelName
