@@ -57,7 +57,7 @@ def addChannelByTerm(term, section):
                         startTime = start_date.strftime("%Y%m%d000000")
                         format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
 
-                        stop_date = start_date + datetime.timedelta(days=1)
+                        stop_date = start_date + datetime.timedelta(days=2)
                         stopTime = stop_date.strftime("%Y%m%d000000")
                         # Print the results
                         # print(f"24-hour format: {format_24_hour}")
