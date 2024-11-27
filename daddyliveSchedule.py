@@ -44,8 +44,27 @@ def addChannelByTerm(term, section):
                     print(game["event"])
                 
                     for channel in game["channels"]:
+                        #Creating Time Data
+                        date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ")
+                        date_time = date_time.replace("-", game["time"] + " -")
+                        # Parse the cleaned date string into a datetime object
+                        date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
+                        start_date = datetime.datetime.strptime(date_time, date_format)
+                        start_date = start_date + datetime.timedelta(hours=17)
+                        
+                        # Convert the datetime object into the two requested formats
+                        # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
+                        startTime = start_date.strftime("%Y%m%d000000")
+                        format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
+
+                        stop_date = start_date + datetime.timedelta(days=1)
+                        stopTime = stop_date.strftime("%Y%m%d000000")
+                        # Print the results
+                        # print(f"24-hour format: {format_24_hour}")
+                        # print(f"12-hour format: {format_12_hour}")
+
                         UniqueID    = unique_ids.pop()
-                        channelName = f"{channel["channel_name"]} {game["event"]}"
+                        channelName = f"{channel["channel_name"]} {game["event"]}" + " " + format_12_hour
                         channelID   = f"{channel['channel_id']}"
                         logo        = "https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png"
 
@@ -54,36 +73,13 @@ def addChannelByTerm(term, section):
                             file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
                             file.write('\n')
 
-                        #Creating Time Data
-                        date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ")
-                        date_time = date_time.replace("-", game["time"] + " -")
-                        # Parse the cleaned date string into a datetime object
-                        date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
-                        start_date = datetime.datetime.strptime(date_time, date_format)
-
-                        utc = pytz.utc
-                        start_date_utc = utc.localize(start_date)
-
-                        mst = pytz.timezone('US/Mountain')
-                        start_date_mst = start_date_utc.astimezone(mst)
-                        # Convert the datetime object into the two requested formats
-                        # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
-                        startTime = start_date_mst.strftime("%Y%m%d000000")
-                        format_12_hour = start_date_mst.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
-
-                        stop_date = start_date_mst + datetime.timedelta(days=1)
-                        stopTime = stop_date.strftime("%Y%m%d000000")
-                        # Print the results
-                        # print(f"24-hour format: {format_24_hour}")
-                        # print(f"12-hour format: {format_12_hour}")
-                        
                         #Creating M3U8 Data
                         xmlChannel      = ET.Element('channel')
                         xmlDisplayName  = ET.Element('display-name')
                         xmlIcon         = ET.Element('icon')
 
                         xmlChannel.set('id', UniqueID)
-                        xmlDisplayName.text = channelName + " " + format_12_hour
+                        xmlDisplayName.text = channelName
                         xmlIcon.text = logo
 
                         xmlChannel.append(xmlDisplayName)
@@ -100,7 +96,7 @@ def addChannelByTerm(term, section):
                         programme.set('stop', stopTime)
                         programme.set('channel', UniqueID)
 
-                        title.text = channelName + " " + format_12_hour
+                        title.text = channelName
                         desc.text = ""
 
                         programme.append(title)
