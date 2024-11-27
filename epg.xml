@@ -185,6 +185,12 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">FOX (WNYW) New York, NY</display-name>
   </channel>
+  <channel id="HBO.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO - Eastern Feed</display-name>
+  </channel>
   <programme channel="FOX.(WNYW).New.York,.NY.us" start="20241127060000 -0500" stop="20241127070000 -0500">
     <title lang="en">Good Day Wake Up 2</title>
     <desc lang="en">Morning news and entertainment.</desc>
@@ -939,6 +945,1119 @@
     <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
     <category lang="en">Paid Program</category>
     <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127045500 -0500" stop="20241127064900 -0500">
+    <title lang="en">Panic Room</title>
+    <desc lang="en">A single woman and her daughter must play a cat-and-mouse game after three thieves invade their New York brownstone.</desc>
+    <credits>
+      <actor>Jodie Foster</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Dwight Yoakam</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127064900 -0500" stop="20241127075200 -0500">
+    <title lang="en">Surveilled</title>
+    <desc lang="en">Journalist Ronan Farrow investigates the growing commercial spyware industry - and the ethical dilemmas of 21st century cyberespionage.</desc>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Documentary</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127075200 -0500" stop="20241127094000 -0500">
+    <title lang="en">Eddie the Eagle</title>
+    <desc lang="en">Guided by a rebellious and charismatic coach (Hugh Jackman), British ski jumper Michael "Eddie" Edwards (Taron Egerton) trains for the 1988 Winter Olympics in Calgary, Alberta.</desc>
+    <credits>
+      <actor>Taron Egerton</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Jo Hartley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Biography</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127094000 -0500" stop="20241127112400 -0500">
+    <title lang="en">The Wizard of Oz</title>
+    <desc lang="en">After a tornado whisks Kansas farm girl Dorothy (Judy Garland) to a magic land, she must travel to the Emerald City for help in getting back home.</desc>
+    <credits>
+      <actor>Judy Garland</actor>
+      <actor>Frank Morgan</actor>
+      <actor>Ray Bolger</actor>
+    </credits>
+    <date>1939</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Family</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127112400 -0500" stop="20241127125400 -0500">
+    <title lang="en">The Kill Team</title>
+    <desc lang="en">When a young U.S. soldier in Afghanistan witnesses other recruits killing civilians under the direction of a sadistic sergeant, he begins to fear that the men he's serving with might be the ones to kill him.</desc>
+    <credits>
+      <actor>Nat Wolff</actor>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Adam Long</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">War</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127125400 -0500" stop="20241127131700 -0500">
+    <title lang="en">It's Florida, Man</title>
+    <sub-title lang="en">Mugshot</sub-title>
+    <desc lang="en">A Pensacola man, known for high-speed chases, goes viral after being featured in a controversial online police program highlighting his appearance.</desc>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127131700 -0500" stop="20241127140900 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127140900 -0500" stop="20241127153000 -0500">
+    <title lang="en">James Acaster: Hecklers Welcome</title>
+    <desc lang="en">James Acaster gives up control of his set and embraces audience participation as he explores his complex relationship with stand-up.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127153000 -0500" stop="20241127160200 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127160200 -0500" stop="20241127170700 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127170700 -0500" stop="20241127173900 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127173900 -0500" stop="20241127183100 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127183100 -0500" stop="20241127202800 -0500">
+    <title lang="en">Godzilla x Kong: The New Empire</title>
+    <desc lang="en">Godzilla and the almighty Kong face a colossal threat hidden deep within the planet, challenging their very existence and the survival of the human race.</desc>
+    <credits>
+      <actor>Rebecca Hall</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Dan Stevens</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127202800 -0500" stop="20241127210000 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127210000 -0500" stop="20241127220500 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127220500 -0500" stop="20241127225700 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127225700 -0500" stop="20241127232900 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127232900 -0500" stop="20241127235900 -0500">
+    <title lang="en">Somebody Somewhere</title>
+    <sub-title lang="en">Num Nums</sub-title>
+    <desc lang="en">Surrounded by her sister and chosen family on Thanksgiving, Sam gains a better appreciation of what it means to love.</desc>
+    <credits>
+      <actor>Bridget Everett</actor>
+      <actor>Jeff Hiller</actor>
+      <actor>Mary Catherine Garrison</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241127235900 -0500" stop="20241128005100 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128005100 -0500" stop="20241128033200 -0500">
+    <title lang="en">The Girl With the Dragon Tattoo</title>
+    <desc lang="en">A disgraced journalist (Daniel Craig) and an investigator (Rooney Mara) for a security firm probe a 40-year-old murder.</desc>
+    <credits>
+      <actor>Daniel Craig</actor>
+      <actor>Rooney Mara</actor>
+      <actor>Christopher Plummer</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128033200 -0500" stop="20241128050800 -0500">
+    <title lang="en">Bodies Bodies Bodies</title>
+    <desc lang="en">When a group of 20-somethings gets stuck at a remote mansion during a hurricane, a party game gone very, very wrong ends with a dead body on the ground and fake friends at every turn as they try to find the killer among them.</desc>
+    <credits>
+      <actor>Amandla Stenberg</actor>
+      <actor>Maria Bakalova</actor>
+      <actor>Myha'la Herrold</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128050800 -0500" stop="20241128050800 -0500">
+    <title lang="en">The Sixth Sense</title>
+    <desc lang="en">A child psychologist (Bruce Willis) tries to help a boy (Haley Joel Osment) who is traumatized by visitations from troubled spirits.</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Haley Joel Osment</actor>
+      <actor>Toni Collette</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128050800 -0500" stop="20241128065800 -0500">
+    <title lang="en">The Sixth Sense</title>
+    <desc lang="en">A child psychologist (Bruce Willis) tries to help a boy (Haley Joel Osment) who is traumatized by visitations from troubled spirits.</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Haley Joel Osment</actor>
+      <actor>Toni Collette</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128065800 -0500" stop="20241128072700 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 31A: Tecto Meets Eye</sub-title>
+    <desc lang="en">First assistant director Dan struggles to solve endless problems on the set of Maximum Studios' superhero film, "Tecto: Eye of the Storm.".</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128072700 -0500" stop="20241128075500 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 36: The Invisible Jackhammer</sub-title>
+    <desc lang="en">Hoping to wrap on a complicated stunt by the end of the day, Dan faces unsolicited scrutiny from Dag; Anita asserts herself as the film's newest producer and Eric demands more extras.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128075500 -0500" stop="20241128082300 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 54: The Lilac Ghost</sub-title>
+    <desc lang="en">After Maximum Studios is accused of having a woman problem, Anita must find ways to empower Tecto's sole female character.</desc>
+    <credits>
+      <actor>Billy Magnussen</actor>
+      <actor>Aya Cash</actor>
+      <actor>Himesh Patel</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128082300 -0500" stop="20241128085100 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 83: Enter the Gurgler</sub-title>
+    <desc lang="en">While they prepare for a big celebrity cameo from a popular superhero of the studio, the Tecto crew find themselves at odds with another film.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128085100 -0500" stop="20241128091900 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 16: Eric's Hospital Scene</sub-title>
+    <desc lang="en">While Anita handles an unusual product placement request, Adam recruits Dag to help with his insecurities.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128091900 -0500" stop="20241128094800 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 110: Baptism of Fire</sub-title>
+    <desc lang="en">Dan tries to raise morale when the film crew threaten to mutiny because of another shoot late into the night; Eric expects a visit from his Hollywood idol.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128094800 -0500" stop="20241128101600 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 113: The Bridge</sub-title>
+    <desc lang="en">On location in Armenia, Eric's latest breakdown leads Dan and Dag to take charge of an explosive shoot day.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128101600 -0500" stop="20241128104900 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128104900 -0500" stop="20241128125800 -0500">
+    <title lang="en">Jurassic Park</title>
+    <desc lang="en">An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128125800 -0500" stop="20241128150900 -0500">
+    <title lang="en">The Lost World: Jurassic Park</title>
+    <desc lang="en">Four years after "Jurassic Park", mathematician Ian Malcolm ventures onto a second island to save his girlfriend from becoming dinosaur bait.</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128150900 -0500" stop="20241128164500 -0500">
+    <title lang="en">Jurassic Park III</title>
+    <desc lang="en">A paleontologist (Sam Neill) and a couple (William H. Macy, Tea Leoni) outrun cloned dinosaurs after their plane crashes on an island.</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>William H. Macy</actor>
+      <actor>Tea Leoni</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128164500 -0500" stop="20241128185300 -0500">
+    <title lang="en">Jurassic World</title>
+    <desc lang="en">An ex-military man and animal expert (Chris Pratt) must use his special skills to save tourists at the Jurassic World island resort from rampaging, genetically engineered dinosaurs, including the vicious and intelligent Indominus rex.</desc>
+    <credits>
+      <actor>Chris Pratt</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Irfan Khan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Adventure</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128185300 -0500" stop="20241128200000 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">The Hidden Hand</sub-title>
+    <desc lang="en">On Wallach IX, young Valya Harkonnen makes a promise to the Sisterhood; Thirty years later, Valya faces a threat to her long-awaited plan.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128200000 -0500" stop="20241128210500 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128210500 -0500" stop="20241128230100 -0500">
+    <title lang="en">Barbie</title>
+    <desc lang="en">Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.</desc>
+    <credits>
+      <actor>Margot Robbie</actor>
+      <actor>Ryan Gosling</actor>
+      <actor>America Ferrera</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241128230100 -0500" stop="20241129002200 -0500">
+    <title lang="en">James Acaster: Hecklers Welcome</title>
+    <desc lang="en">James Acaster gives up control of his set and embraces audience participation as he explores his complex relationship with stand-up.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129002200 -0500" stop="20241129021800 -0500">
+    <title lang="en">Leatherheads</title>
+    <desc lang="en">A 1920s football star (George Clooney) tries to give his sagging sport a boost, while he and a new teammate (John Krasinski) vie for the affections of a feisty newswoman (Renée Zellweger).</desc>
+    <credits>
+      <actor>George Clooney</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>John Krasinski</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129021800 -0500" stop="20241129031000 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129031000 -0500" stop="20241129053900 -0500">
+    <title lang="en">Straight Outta Compton</title>
+    <desc lang="en">In 1988, N.W.A (O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell) revolutionizes music and pop culture with their brutally honest depiction of life in Southern Los Angeles.</desc>
+    <credits>
+      <actor>O'Shea Jackson Jr.</actor>
+      <actor>Corey Hawkins</actor>
+      <actor>Jason Mitchell</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129053900 -0500" stop="20241129053900 -0500">
+    <title lang="en">Janet Planet</title>
+    <desc lang="en">Enthralled by her own imagination, 11-year-old Lacy spends the long summer at home with her mother and three strangers.</desc>
+    <credits>
+      <actor>Julianne Nicholson</actor>
+      <actor>Zoe Ziegler</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129053900 -0500" stop="20241129073400 -0500">
+    <title lang="en">Janet Planet</title>
+    <desc lang="en">Enthralled by her own imagination, 11-year-old Lacy spends the long summer at home with her mother and three strangers.</desc>
+    <credits>
+      <actor>Julianne Nicholson</actor>
+      <actor>Zoe Ziegler</actor>
+      <actor>Elias Koteas</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129073400 -0500" stop="20241129094300 -0500">
+    <title lang="en">The Glass Castle</title>
+    <desc lang="en">Based on a memoir, four children struggle to grow up in a rambling, poverty-stricken, wildly unconventional environment overseen by their dysfunctional yet uniquely loving parents.</desc>
+    <credits>
+      <actor>Brie Larson</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Max Greenfield</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129094300 -0500" stop="20241129123000 -0500">
+    <title lang="en">The Dark Knight Rises</title>
+    <desc lang="en">Eight years after he took the blame for Harvey Dent's death and vanished into the night, Batman (Christian Bale) is forced out of his self-imposed exile by a cunning cat burglar (Anne Hathaway) and a merciless terrorist called Bane (Tom Hardy).</desc>
+    <credits>
+      <actor>Christian Bale</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Tom Hardy</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129123000 -0500" stop="20241129130300 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129130300 -0500" stop="20241129135500 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129135500 -0500" stop="20241129160000 -0500">
+    <title lang="en">A Most Wanted Man</title>
+    <desc lang="en">An escaped militant's (Grigoriy Dobrygin) attempt to claim an inheritance gives a German agent (Philip Seymour Hoffman) the chance to lay a trap for a well-regarded Muslim scholar who is suspected of financing terrorists.</desc>
+    <credits>
+      <actor>Philip Seymour Hoffman</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Grigoriy Dobrygin</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129160000 -0500" stop="20241129165200 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129165200 -0500" stop="20241129175700 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129175700 -0500" stop="20241129191900 -0500">
+    <title lang="en">James Acaster: Hecklers Welcome</title>
+    <desc lang="en">James Acaster gives up control of his set and embraces audience participation as he explores his complex relationship with stand-up.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129191900 -0500" stop="20241129210000 -0500">
+    <title lang="en">Mike and Dave Need Wedding Dates</title>
+    <desc lang="en">Two hard-partying brothers (Zac Efron, Adam Devine) bring two wild and uncontrollable women to their sister's (Sugar Lyn Beard) wedding in Hawaii.</desc>
+    <credits>
+      <actor>Zac Efron</actor>
+      <actor>Adam DeVine</actor>
+      <actor>Anna Kendrick</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129210000 -0500" stop="20241129223800 -0500">
+    <title lang="en">Music Box: Yacht Rock: A Dockumentary</title>
+    <desc lang="en">Chronicling the emergence and popularity of the west coast, soft rock pop culture epitomized by musical artists such as Christopher Cross, Michael McDonald, Kenny Loggins, Steely Dan and Toto.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129223800 -0500" stop="20241129234300 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241129234300 -0500" stop="20241130012100 -0500">
+    <title lang="en">Music Box: Yacht Rock: A Dockumentary</title>
+    <desc lang="en">Chronicling the emergence and popularity of the west coast, soft rock pop culture epitomized by musical artists such as Christopher Cross, Michael McDonald, Kenny Loggins, Steely Dan and Toto.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130012100 -0500" stop="20241130025900 -0500">
+    <title lang="en">Music Box: Yacht Rock: A Dockumentary</title>
+    <desc lang="en">Chronicling the emergence and popularity of the west coast, soft rock pop culture epitomized by musical artists such as Christopher Cross, Michael McDonald, Kenny Loggins, Steely Dan and Toto.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130025900 -0500" stop="20241130035100 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130035100 -0500" stop="20241130045600 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130045600 -0500" stop="20241130052800 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130052800 -0500" stop="20241130052800 -0500">
+    <title lang="en">Batman Returns</title>
+    <desc lang="en">The Caped Crusader (Michael Keaton) clashes with Catwoman (Michelle Pfeiffer) and saves gloomy Gotham City from the foul Penguin's (Danny DeVito) plot.</desc>
+    <credits>
+      <actor>Michael Keaton</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Michelle Pfeiffer</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130052800 -0500" stop="20241130073700 -0500">
+    <title lang="en">Batman Returns</title>
+    <desc lang="en">The Caped Crusader (Michael Keaton) clashes with Catwoman (Michelle Pfeiffer) and saves gloomy Gotham City from the foul Penguin's (Danny DeVito) plot.</desc>
+    <credits>
+      <actor>Michael Keaton</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Michelle Pfeiffer</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130073700 -0500" stop="20241130090600 -0500">
+    <title lang="en">The Addams Family</title>
+    <desc lang="en">Gomez (Raul Julia), Morticia (Anjelica Huston) and their ghoulish household are prey to a scam involving long-lost Uncle Fester (Christopher Lloyd).</desc>
+    <credits>
+      <actor>Anjelica Huston</actor>
+      <actor>Raul Julia</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130090600 -0500" stop="20241130093800 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130093800 -0500" stop="20241130112000 -0500">
+    <title lang="en">Role Models</title>
+    <desc lang="en">Forced to join a mentorship program, two irresponsible men (Seann William Scott, Paul Rudd) must help a pair of impressionable boys navigate the troubled waters of youth.</desc>
+    <credits>
+      <actor>Seann William Scott</actor>
+      <actor>Paul Rudd</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130112000 -0500" stop="20241130130400 -0500">
+    <title lang="en">Ghosts of Girlfriends Past</title>
+    <desc lang="en">Spirits of jilted lovers take a photographer (Matthew McConaughey) on an odyssey through his many failed relationships to find out what made him such a cad, and if there is any hope for true love.</desc>
+    <credits>
+      <actor>Matthew McConaughey</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Michael Douglas</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130130400 -0500" stop="20241130144200 -0500">
+    <title lang="en">Music Box: Yacht Rock: A Dockumentary</title>
+    <desc lang="en">Chronicling the emergence and popularity of the west coast, soft rock pop culture epitomized by musical artists such as Christopher Cross, Michael McDonald, Kenny Loggins, Steely Dan and Toto.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130144200 -0500" stop="20241130151400 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130151400 -0500" stop="20241130165500 -0500">
+    <title lang="en">Unstoppable</title>
+    <desc lang="en">When an unmanned locomotive roars out of control, two railroad employees (Denzel Washington, Chris Pine) must find a way to bring it to a halt before it crashes and spills its toxic cargo.</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Chris Pine</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130165500 -0500" stop="20241130174700 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130174700 -0500" stop="20241130185300 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">The Hidden Hand</sub-title>
+    <desc lang="en">On Wallach IX, young Valya Harkonnen makes a promise to the Sisterhood; Thirty years later, Valya faces a threat to her long-awaited plan.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130185300 -0500" stop="20241130200000 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130200000 -0500" stop="20241130222500 -0500">
+    <title lang="en">Man of Steel</title>
+    <desc lang="en">Though struggling with the ramifications of his extraordinary origin and abilities, young Clark Kent (Henry Cavill) must become a hero and save those he loves from a dire threat.</desc>
+    <credits>
+      <actor>Henry Cavill</actor>
+      <actor>Amy Adams</actor>
+      <actor>Michael Shannon</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130222500 -0500" stop="20241130233000 -0500">
+    <title lang="en">Dune: Prophecy</title>
+    <sub-title lang="en">Two Wolves</sub-title>
+    <desc lang="en">While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
+    <credits>
+      <actor>Emily Watson</actor>
+      <actor>Olivia Williams</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241130233000 -0500" stop="20241201002100 -0500">
+    <title lang="en">Get Millie Black</title>
+    <desc lang="en">Back in Jamaica after decades in the U.K., detective Millie Black is assigned a case that points to a prominent Kingston family.</desc>
+    <credits>
+      <actor>Tamara Lawrance</actor>
+      <actor>Joe Dempsie</actor>
+      <actor>Gershwyn Eustache Jnr</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241201002100 -0500" stop="20241201005300 -0500">
+    <title lang="en">The Franchise</title>
+    <sub-title lang="en">Scene 117: The Death of Eye</sub-title>
+    <desc lang="en">After Anita uncovers some troubling news about Tecto, Dan works on a plan, while Dag tries to dodge the Armenian authorities; an on-set incident overshadows Peter's final day of shooting.</desc>
+    <credits>
+      <actor>Himesh Patel</actor>
+      <actor>Aya Cash</actor>
+      <actor>Jessica Hynes</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241201005300 -0500" stop="20241201021400 -0500">
+    <title lang="en">James Acaster: Hecklers Welcome</title>
+    <desc lang="en">James Acaster gives up control of his set and embraces audience participation as he explores his complex relationship with stand-up.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme channel="HBO.-.Eastern.Feed.us" start="20241201021400 -0500" stop="20241201035600 -0500">
+    <title lang="en">The Hangover</title>
+    <desc lang="en">After a wild stag party in Las Vegas, three hazy groomsmen (Bradley Cooper, Ed Helms, Zach Galifianakis) must find their missing friend and get him back to Los Angeles in time for his wedding.</desc>
+    <credits>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
   <channel id="FOX.(WNYW).New.York,.NY.us">
     <display-name lang="en">FOX (WNYW) New York, NY</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
