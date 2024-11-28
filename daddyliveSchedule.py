@@ -64,7 +64,7 @@ def addChannelByTerm(term, section):
                         # print(f"12-hour format: {format_12_hour}")
 
                         UniqueID    = unique_ids.pop()
-                        channelName = f"{channel["channel_name"]} {game["event"]}" + " " + format_12_hour
+                        channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
                         channelID   = f"{channel['channel_id']}"
                         logo        = "https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png"
 
