@@ -17,6 +17,7 @@ NUM_CHANNELS        = 400
 DADDY_JSON_FILE     = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE    = "daily.m3u8"
 EPG_OUTPUT_FILE     = "daily.xml"
+LOGO                = "https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png"
 
 def generate_unique_ids(count, seed=42):
     random.seed(seed)
@@ -50,7 +51,7 @@ def addChannelByTerm(term, section):
                         # Parse the cleaned date string into a datetime object
                         date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
                         start_date = datetime.datetime.strptime(date_time, date_format)
-                        start_date = start_date + datetime.timedelta(hours=17)
+                        start_date = start_date - datetime.timedelta(hours=7)
                         
                         # Convert the datetime object into the two requested formats
                         # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
@@ -66,10 +67,9 @@ def addChannelByTerm(term, section):
                         UniqueID    = unique_ids.pop()
                         channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
                         channelID   = f"{channel['channel_id']}"
-                        logo        = "https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png"
 
                         with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
-                            file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{channelName}" tvg-logo="{logo}" group-title="USA (DADDY LIVE)", {game["event"]}\n')
+                            file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{channelName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {game["event"]}\n')
                             file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
                             file.write('\n')
 
@@ -80,7 +80,7 @@ def addChannelByTerm(term, section):
 
                         xmlChannel.set('id', UniqueID)
                         xmlDisplayName.text = channelName
-                        xmlIcon.text = logo
+                        xmlIcon.text = LOGO
 
                         xmlChannel.append(xmlDisplayName)
                         xmlChannel.append(xmlIcon)
@@ -119,6 +119,13 @@ root = ET.Element('tv')
 
 addChannelByTerm("NHL", "Ice Hockey")
 addChannelByTerm("NFL", "Am. Football")
+
+#Fill out the remaining channels so that you don't have to re-add the channels list into plex
+for id in unique_ids:
+    with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
+        file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="OpenChannel" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", OpenChannel\n')
+        file.write(f"https://xyzdddd.mizhls.ru/lb/premium1/index.m3u8\n")
+        file.write('\n')
 
 tree = ET.ElementTree(root)
 tree.write(EPG_OUTPUT_FILE, encoding='utf-8', xml_declaration=True)
