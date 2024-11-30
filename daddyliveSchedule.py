@@ -54,11 +54,13 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
                             start_date = datetime.datetime.strptime(date_time, date_format)
                             startTime = start_date.strftime("%Y%m%d000000")
-                            print(startTime)
-                            start_date = start_date - datetime.timedelta(hours=7)
                             stop_date = start_date + datetime.timedelta(days=2)
                             stopTime = stop_date.strftime("%Y%m%d000000")
                             
+                            start_date = start_date - datetime.timedelta(hours=7)
+                            
+                            print(startTime + " - " + stopTime)
+
                             # Convert the datetime object into the two requested formats
                             # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
                             format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
