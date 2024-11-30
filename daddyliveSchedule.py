@@ -39,7 +39,7 @@ def loadJSON(filepath):
 def addChannelsByLeagueSport(leagueSportTuple):
     for day, value in dadjson.items():
         try:
-            print("NEW DAY\n\n\n")
+            # print("NEW DAY\n\n\n")
             for leagueSport in leageSportTuple:
                 sport = dadjson[f"{day}"][leagueSport["sport"]]
                 for game in sport:
@@ -59,13 +59,13 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             
                             start_date = start_date - datetime.timedelta(hours=7)
                             
-                            print(startTime + " - " + stopTime)
+                            # print(startTime + " - " + stopTime)
 
                             # Convert the datetime object into the two requested formats
                             # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
                             format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
 
-                            print(format_12_hour)
+                            # print(format_12_hour)
                             
                             # Print the results
                             # print(f"24-hour format: {format_24_hour}")
