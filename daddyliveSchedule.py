@@ -57,19 +57,11 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             stop_date = start_date + datetime.timedelta(days=2)
                             stopTime = stop_date.strftime("%Y%m%d000000")
                             
+                            format_12_hour = start_date.strftime("%m/%d/%y")
                             start_date = start_date - datetime.timedelta(hours=7)
-                            
-                            # print(startTime + " - " + stopTime)
 
-                            # Convert the datetime object into the two requested formats
-                            # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
-                            format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
-
-                            # print(format_12_hour)
-                            
-                            # Print the results
-                            # print(f"24-hour format: {format_24_hour}")
-                            # print(f"12-hour format: {format_12_hour}")
+                            startHour = start_date.strftime("%I:%M %p") + " (MST)"
+                            format_12_hour = format_12_hour + " - " + startHour
 
                             UniqueID    = unique_ids.pop()
                             channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
