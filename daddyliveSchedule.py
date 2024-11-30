@@ -36,73 +36,77 @@ def loadJSON(filepath):
     # print(json_object)
 
     return json_object
-def addChannelByTerm(term, section):
+def addChannelsByLeagueSport(leagueSportTuple):
     for day, value in dadjson.items():
         try:
-            sport = dadjson[f"{day}"][section]
-            for game in sport:
-                if term in game["event"]:
-                    print(game["event"])
-                
-                    for channel in game["channels"]:
-                        #Creating Time Data
-                        date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ")
-                        date_time = date_time.replace("-", game["time"] + " -")
-                        # Parse the cleaned date string into a datetime object
-                        date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
-                        start_date = datetime.datetime.strptime(date_time, date_format)
-                        start_date = start_date - datetime.timedelta(hours=7)
-                        
-                        # Convert the datetime object into the two requested formats
-                        # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
-                        startTime = start_date.strftime("%Y%m%d000000")
-                        format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
+            print("NEW DAY\n\n\n")
+            for leagueSport in leageSportTuple:
+                sport = dadjson[f"{day}"][leagueSport["sport"]]
+                for game in sport:
+                    if leagueSport["league"] in game["event"]:
+                        print(game["event"])
+                    
+                        for channel in game["channels"]:
+                            #Creating Time Data
+                            date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ")
+                            date_time = date_time.replace("-", game["time"] + " -")
+                            # Parse the cleaned date string into a datetime object
+                            date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
+                            start_date = datetime.datetime.strptime(date_time, date_format)
+                            startTime = start_date.strftime("%Y%m%d000000")
+                            print(startTime)
+                            start_date = start_date - datetime.timedelta(hours=7)
+                            
+                            # Convert the datetime object into the two requested formats
+                            # format_24_hour = parsed_date.strftime("%Y%m%d%H%M00")
+                            format_12_hour = start_date.strftime("%m/%d/%y - %I:%M %p") + " (MST)"
 
-                        stop_date = start_date + datetime.timedelta(days=2)
-                        stopTime = stop_date.strftime("%Y%m%d000000")
-                        # Print the results
-                        # print(f"24-hour format: {format_24_hour}")
-                        # print(f"12-hour format: {format_12_hour}")
+                            print(format_12_hour)
+                            stop_date = start_date + datetime.timedelta(days=2)
+                            stopTime = stop_date.strftime("%Y%m%d000000")
+                            # Print the results
+                            # print(f"24-hour format: {format_24_hour}")
+                            # print(f"12-hour format: {format_12_hour}")
 
-                        UniqueID    = unique_ids.pop()
-                        channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
-                        channelID   = f"{channel['channel_id']}"
+                            UniqueID    = unique_ids.pop()
+                            channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
+                            channelID   = f"{channel['channel_id']}"
 
-                        with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
-                            file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{channelName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {game["event"]}\n')
-                            file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
-                            file.write('\n')
+                            with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
+                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{channelName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {game["event"]}\n')
+                                file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
+                                file.write('\n')
 
-                        #Creating M3U8 Data
-                        xmlChannel      = ET.Element('channel')
-                        xmlDisplayName  = ET.Element('display-name')
-                        xmlIcon         = ET.Element('icon')
+                            #Creating M3U8 Data
+                            xmlChannel      = ET.Element('channel')
+                            xmlDisplayName  = ET.Element('display-name')
+                            xmlIcon         = ET.Element('icon')
 
-                        xmlChannel.set('id', UniqueID)
-                        xmlDisplayName.text = channelName
-                        xmlIcon.text = LOGO
+                            xmlChannel.set('id', UniqueID)
+                            xmlDisplayName.text = channelName
+                            xmlIcon.text = LOGO
 
-                        xmlChannel.append(xmlDisplayName)
-                        xmlChannel.append(xmlIcon)
+                            xmlChannel.append(xmlDisplayName)
+                            xmlChannel.append(xmlIcon)
 
-                        root.append(xmlChannel)
+                            root.append(xmlChannel)
 
-                        #Creating EPG Data
-                        programme   = ET.Element('programme')
-                        title       = ET.Element('title')
-                        desc        = ET.Element('desc')
+                            #Creating EPG Data
+                            programme   = ET.Element('programme')
+                            title       = ET.Element('title')
+                            desc        = ET.Element('desc')
 
-                        programme.set('start', startTime + " +0000")
-                        programme.set('stop', stopTime + " +0000")
-                        programme.set('channel', UniqueID)
+                            programme.set('start', startTime + " +0000")
+                            programme.set('stop', stopTime + " +0000")
+                            programme.set('channel', UniqueID)
 
-                        title.text = channelName
-                        desc.text = ""
+                            title.text = channelName
+                            desc.text = ""
 
-                        programme.append(title)
-                        programme.append(desc)
+                            programme.append(title)
+                            programme.append(desc)
 
-                        root.append(programme)
+                            root.append(programme)
         except KeyError as e:
             print(f"KeyError: {e} - One of the keys {day} or {section} does not exist.")
 
@@ -117,13 +121,17 @@ if os.path.isfile(M3U8_OUTPUT_FILE):
 
 root = ET.Element('tv')
 
-addChannelByTerm("NHL", "Ice Hockey")
-addChannelByTerm("NFL", "Am. Football")
+#league sport tuple
+leageSportTuple = []
+leageSportTuple.append({"league":"NHL", "sport":"Ice Hockey"})
+leageSportTuple.append({"league":"NFL", "sport":"Am. Football"})
+
+addChannelsByLeagueSport(leageSportTuple)
 
 #Fill out the remaining channels so that you don't have to re-add the channels list into plex
-for id in unique_ids:
+for index, id in enumerate(unique_ids, start=1):
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
-        file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="OpenChannel" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", OpenChannel\n')
+        file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="OpenChannel{index}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", OpenChannel{index}\n')
         file.write(f"https://xyzdddd.mizhls.ru/lb/premium1/index.m3u8\n")
         file.write('\n')
 
