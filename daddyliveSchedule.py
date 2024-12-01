@@ -79,7 +79,7 @@ def addChannelsByLeagueSport(leagueSportTuple):
 
                             xmlChannel.set('id', UniqueID)
                             xmlDisplayName.text = channelName
-                            xmlIcon.text = LOGO
+                            xmlIcon.set('src', LOGO)
 
                             xmlChannel.append(xmlDisplayName)
                             xmlChannel.append(xmlIcon)
@@ -96,7 +96,8 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             programme.set('channel', UniqueID)
 
                             title.text = channelName
-                            desc.text = ""
+
+                            desc.text = "No Description"
 
                             programme.append(title)
                             programme.append(desc)
