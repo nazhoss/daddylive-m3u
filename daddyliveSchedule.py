@@ -128,7 +128,7 @@ addChannelsByLeagueSport(leageSportTuple)
 for index, id in enumerate(unique_ids, start=1):
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
         file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="OpenChannel{index}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", OpenChannel{index}\n')
-        file.write(f"https://xyzdddd.mizhls.ru/lb/premium1/index.m3u8\n")
+        file.write(f"https://xyzdddd.mizhls.ru/lb/premium{index}/index.m3u8\n")
         file.write('\n')
 
 tree = ET.ElementTree(root)
