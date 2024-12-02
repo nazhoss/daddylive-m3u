@@ -67,8 +67,11 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
                             channelID   = f"{channel['channel_id']}"
 
+                            global channelCount
+                            tvgName = "OpenChannel" + str(channelCount)
+                            channelCount = channelCount + 1
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
-                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{channelName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {game["event"]}\n')
+                                file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {game["event"]}\n')
                                 file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
                                 file.write('\n')
 
@@ -78,7 +81,7 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             xmlIcon         = ET.Element('icon')
 
                             xmlChannel.set('id', UniqueID)
-                            xmlDisplayName.text = channelName
+                            xmlDisplayName.text = tvgName
                             xmlIcon.set('src', LOGO)
 
                             xmlChannel.append(xmlDisplayName)
@@ -104,8 +107,9 @@ def addChannelsByLeagueSport(leagueSportTuple):
 
                             root.append(programme)
         except KeyError as e:
-            print(f"KeyError: {e} - One of the keys {day} or {section} does not exist.")
+            print(f"KeyError: {e} - One of the keys {day} or {leagueSportTuple} does not exist.")
 
+channelCount = 0
 unique_ids = generate_unique_ids(NUM_CHANNELS)
 
 fetcher.fetchHTML(DADDY_JSON_FILE, "https://thedaddy.to/schedule/schedule-generated.json")
