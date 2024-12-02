@@ -129,11 +129,14 @@ leageSportTuple.append({"league":"NFL", "sport":"Am. Football"})
 addChannelsByLeagueSport(leageSportTuple)
 
 #Fill out the remaining channels so that you don't have to re-add the channels list into plex
-for index, id in enumerate(unique_ids, start=1):
+for id in unique_ids:
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
-        file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="OpenChannel{index}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", OpenChannel{index}\n')
-        file.write(f"https://xyzdddd.mizhls.ru/lb/premiuma{index}/index.m3u8\n")
+        channelNumber = str(channelCount).zfill(3)
+        tvgName = "OpenChannel" + channelNumber
+        file.write(f'#EXTINF:-1 tvg-id="{id}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {tvgName}\n')
+        file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelNumber}/index.m3u8\n")
         file.write('\n')
+        channelCount += 1
 
 tree = ET.ElementTree(root)
 tree.write(EPG_OUTPUT_FILE, encoding='utf-8', xml_declaration=True)
