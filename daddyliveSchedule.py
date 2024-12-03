@@ -128,7 +128,7 @@ root = ET.Element('tv')
 #league sport tuple
 leageSportTuple = []
 leageSportTuple.append({"league":"NHL", "sport":"Ice Hockey"})
-leageSportTuple.append({"league":"NFL", "sport":"Am. Football"})
+# leageSportTuple.append({"league":"NFL", "sport":"Am. Football"})
 
 addChannelsByLeagueSport(leageSportTuple)
 
