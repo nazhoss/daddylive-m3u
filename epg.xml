@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="USA Network HDTV (East).us"><display-name>USA Network HDTV (East).us</display-name></channel>
-<channel id="Showtime (East).us"><display-name>Showtime (East).us</display-name></channel>
-<programme start="20241201030000 +0000" stop="20241201051000 +0000" channel="Showtime (East).us"><title>The Dead Dont Hurt (2023)</title><Sub-title /><desc>In the 1860s western frontier, the fiercely independent Vivienne Le Coudy joins her lover Holger Olsen in Elk Flats, Nevada. But the Civil War tears them apart, leaving Vivienne to fight corrupt Mayor Schiller and his ruthless partner. When Holger returns, they must confront their changed selves amidst a landscape of love, betrayal, and the struggle for justice.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201051000 +0000" stop="20241201070000 +0000" channel="Showtime (East).us"><title>True Grit (2010)</title><Sub-title /><desc>An alcoholic US Marshal and a 14-year-old girl track down her fathers killer with the help of a Texas Ranger. As the three brave dangerous American Indian territory, they discover their prey has fallen in with a more-experienced criminal.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201070000 +0000" stop="20241201090500 +0000" channel="Showtime (East).us"><title>Scream VI (2023)</title><Sub-title /><desc>Bored of the quaint town of Woodsboro, the notorious serial killer Ghostface leaves his small-town stomping grounds behind, pursuing more ambitious conquests in New York City. Determined to overthrow his reign of terror once and for all, a cohort of familiar faces returns to seek justice for the bloodshed. The sixth installment in the horror franchise.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201090500 +0000" stop="20241201111500 +0000" channel="Showtime (East).us"><title>The Infiltrator (2016)</title><Sub-title /><desc>Federal agent Robert Mazur goes undercover as a money-laundering businessman in an attempt to bring down Pablo Escobars Medellín Cartel in the 1980s. Based on a true story.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201111500 +0000" stop="20241201134500 +0000" channel="Showtime (East).us"><title>Forrest Gump (1994)</title><Sub-title /><desc>The extraordinary tale of a simple man who unwittingly becomes involved in some of the key moments of the 20th century.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201134500 +0000" stop="20241201154500 +0000" channel="Showtime (East).us"><title>Mission: Impossible (1996)</title><Sub-title /><desc>A crack team of spies try to determine who sabotaged a mission to find crucial computer information.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201154500 +0000" stop="20241201180000 +0000" channel="Showtime (East).us"><title>Jack Reacher (2012)</title><Sub-title /><desc>Lone-wolf investigator Jack Reacher pursues a sniper and exposes a conspiracy with the help of a female detective.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201180000 +0000" stop="20241201203000 +0000" channel="Showtime (East).us"><title>Born on the Fourth of July (1989)</title><Sub-title /><desc>Oliver Stones docudrama about paralyzed Vietnam vet Ron Kovic, who tries to reconcile memories of his idealistic youth with his post-war disillusionment.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201203000 +0000" stop="20241201232500 +0000" channel="Showtime (East).us"><title>Blade Runner 2049 (2017)</title><Sub-title /><desc>In 2049 LA, a cop known as K hunts down android labourers who have gone rogue. But when he uncovers a shocking conspiracy involving the robots, K searches for the one person who might have answers: a law-enforcement agent who once had his job.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201232500 +0000" stop="20241202020000 +0000" channel="Showtime (East).us"><title>Inglourious Basterds (2009)</title><Sub-title /><desc>An American military officer leads a special squad of soldiers who perform quick strikes against the Nazis in enemy territory. They team up with a French theatre owner whose parents were killed by the Third Reich in a plot to execute Hitler and his right-hand men at a screening at the theatre.</desc><episode-num system="xmltv_ns" /></programme>
+<tv><channel id="Showtime (East).us"><display-name>Showtime (East).us</display-name></channel>
+<channel id="USA Network HDTV (East).us"><display-name>USA Network HDTV (East).us</display-name></channel>
 <programme start="20241202020000 +0000" stop="20241202030100 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>The Bends</Sub-title><desc>Covert CIA agent Martian is called back to London Station. An incident in Belarus puts Bosko and Henry on a collision course with Langley. Danny learns a lesson. Someone unexpectedly reappears in Martians life. Series premiere.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
 <programme start="20241202030100 +0000" stop="20241202040000 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>Wooden Duck</Sub-title><desc>Dr. Blake arrives from Langley and is put to a test by Martian and Henry. A spooked source threatens to put an operation at risk. Dannys cover is put in play. Martian, overtaken by events, begins to question Samis motives.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
 <programme start="20241202040000 +0000" stop="20241202050100 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>The Bends</Sub-title><desc>Covert CIA agent Martian is called back to London Station. An incident in Belarus puts Bosko and Henry on a collision course with Langley. Danny learns a lesson. Someone unexpectedly reappears in Martians life. Series premiere.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
@@ -52,25 +42,19 @@
 <programme start="20241204190000 +0000" stop="20241204211500 +0000" channel="Showtime (East).us"><title>The Infiltrator (2016)</title><Sub-title /><desc>Federal agent Robert Mazur goes undercover as a money-laundering businessman in an attempt to bring down Pablo Escobars Medellín Cartel in the 1980s. Based on a true story.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241204211500 +0000" stop="20241205000000 +0000" channel="Showtime (East).us"><title>Blade Runner 2049 (2017)</title><Sub-title /><desc>In 2049 LA, a cop known as K hunts down android labourers who have gone rogue. But when he uncovers a shocking conspiracy involving the robots, K searches for the one person who might have answers: a law-enforcement agent who once had his job.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241205000000 +0000" stop="20241205030000 +0000" channel="Showtime (East).us"><title>Saving Private Ryan (1998)</title><Sub-title /><desc>A US Army captain leads a mission to rescue a GI trapped behind enemy lines in France on D-Day after all three of the soldiers brothers are killed in action. As the search commences, the close-knit squad sets out through areas still thick with Nazis.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201013000 +0000" stop="20241201043000 +0000" channel="USA Network HDTV (East).us"><title>Man of Steel (2013)</title><Sub-title /><desc>Clark Kent assumes the identity of Superman and defends Earth from the villainous General Zod.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201043000 +0000" stop="20241201070000 +0000" channel="USA Network HDTV (East).us"><title>Olympus Has Fallen (2013)</title><Sub-title /><desc>An ex-Secret Service agent fights back against terrorists who have taken over the White House and kidnapped the president. Trapped by hostile forces, he must prevent the incident from spiralling into all-out war.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201070000 +0000" stop="20241201080000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Conversion</Sub-title><desc>A young woman is raped by a member of her church group, and Barba builds a case arguing that the First Amendment doesnt entitle a person to break the law.</desc><episode-num system="xmltv_ns">17.18.</episode-num></programme>
-<programme start="20241201080000 +0000" stop="20241201090000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>American Dream</Sub-title><desc>A hate crime is committed against a Muslim family, resulting in the death of their daughter. Things get complicated when a crucial witness in the case is deported, forcing Barba to drop the charges against a suspect.</desc><episode-num system="xmltv_ns">17.19.</episode-num></programme>
-<programme start="20241201090000 +0000" stop="20241201100000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Sanctuary</Sub-title><desc>In the 18th-season finale, two families seek justice for their loved ones in the wake of a suspects unexpected release. Before long, public protests on the matter escalate to violence, leading Benson to go to desperate lengths to make an arrest.</desc><episode-num system="xmltv_ns">17.20.</episode-num></programme>
-<programme start="20241201100000 +0000" stop="20241201110000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Theyd Already Disappeared</Sub-title><desc>When a teenage sex worker disappears, Rollins and Velasco find a key clue in a pile of neglected missing persons reports.</desc><episode-num system="xmltv_ns">22.6.</episode-num></programme>
-<programme start="20241201110000 +0000" stop="20241201113000 +0000" channel="USA Network HDTV (East).us"><title>Scare Tactics</title><Sub-title>Killer Couture</Sub-title><desc>A DNA test has otherworldly results, secondhand fashion to die for, a foul wench feeds the flames.</desc><episode-num system="xmltv_ns">0.8.</episode-num></programme>
-<programme start="20241201113000 +0000" stop="20241201123000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Chat Room</Sub-title><desc>A teenagers claim that she was assaulted by a man who befriended her on the internet leads to a case involving paedophilia.</desc><episode-num system="xmltv_ns">0.17.</episode-num></programme>
-<programme start="20241201123000 +0000" stop="20241201133000 +0000" channel="USA Network HDTV (East).us"><title>Premier League Mornings</title><Sub-title>12-01-2024</Sub-title><desc>News, highlights and analysis from English Premier League soccer.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201133000 +0000" stop="20241201153000 +0000" channel="USA Network HDTV (East).us"><title>Premier League Soccer</title><Sub-title>Chelsea vs. Aston Villa</Sub-title><desc>Chelsea vs. Aston Villa. From Stamford Bridge.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201153000 +0000" stop="20241201160000 +0000" channel="USA Network HDTV (East).us"><title>Premier League Mornings</title><Sub-title>12-01-2024 -2</Sub-title><desc>News, highlights and analysis from English Premier League soccer.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201160000 +0000" stop="20241201180000 +0000" channel="USA Network HDTV (East).us"><title>Premier League Soccer</title><Sub-title>Liverpool vs. Manchester City</Sub-title><desc>Liverpool vs. Manchester City. From Anfield.</desc><episode-num system="xmltv_ns" /></programme>
-<programme start="20241201180000 +0000" stop="20241201190000 +0000" channel="USA Network HDTV (East).us"><title>Premier League Goal Zone</title><Sub-title>12-01-2024</Sub-title><desc>An in-depth look at recent English Premier League soccer action.</desc><episode-num system="xmltv_ns">10.51.</episode-num></programme>
-<programme start="20241201190000 +0000" stop="20241201200000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Brotherhood</Sub-title><desc>A university fraternity leader is killed and the deceaseds father, a lawyer, represents the student who stands trial.</desc><episode-num system="xmltv_ns">4.11.</episode-num></programme>
-<programme start="20241201200000 +0000" stop="20241201210000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Game</Sub-title><desc>While investigating a brutal beating and murder, Stabler learns that crime-scene photos match a new video game. The defence attorney later blames the killing on the game.</desc><episode-num system="xmltv_ns">5.13.</episode-num></programme>
-<programme start="20241201210000 +0000" stop="20241201220000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Hooked</Sub-title><desc>When an HIV-positive teenager is found murdered, suspicion falls on a doctor, a relative and a producer.</desc><episode-num system="xmltv_ns">5.14.</episode-num></programme>
-<programme start="20241201220000 +0000" stop="20241201230000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Web</Sub-title><desc>A mother is devastated by the revelation that her 8-year-old son has been sexually abused years after her ex-husband was sent to prison for molesting her older child, whose DNA now implicates him in his brothers case.</desc><episode-num system="xmltv_ns">6.20.</episode-num></programme>
-<programme start="20241201230000 +0000" stop="20241202000000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Avatar</Sub-title><desc>Clues in the case of a missing woman are found in an online virtual-reality game, where she played an underage prostitute who had recently sent out a warning about one of her in-game "clients".</desc><episode-num system="xmltv_ns">8.1.</episode-num></programme>
-<programme start="20241202000000 +0000" stop="20241202010000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Confession</Sub-title><desc>A teenager confesses that he has paedophilic desires for his young stepbrother and admits to visiting a type of self-help website for paedophiles, leading detectives to investigate the site and question its creator.</desc><episode-num system="xmltv_ns">9.1.</episode-num></programme>
+<programme start="20241205030000 +0000" stop="20241205050000 +0000" channel="Showtime (East).us"><title>Full Metal Jacket (1987)</title><Sub-title /><desc>Stanley Kubricks saga follows a group of Marines from boot camp to combat in Vietnam during the 1968 Tet Offensive.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205050000 +0000" stop="20241205060100 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>The Bends</Sub-title><desc>Covert CIA agent Martian is called back to London Station. An incident in Belarus puts Bosko and Henry on a collision course with Langley. Danny learns a lesson. Someone unexpectedly reappears in Martians life. Series premiere.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20241205060100 +0000" stop="20241205070000 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>Wooden Duck</Sub-title><desc>Dr. Blake arrives from Langley and is put to a test by Martian and Henry. A spooked source threatens to put an operation at risk. Dannys cover is put in play. Martian, overtaken by events, begins to question Samis motives.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20241205070000 +0000" stop="20241205094500 +0000" channel="Showtime (East).us"><title>Blade Runner 2049 (2017)</title><Sub-title /><desc>In 2049 LA, a cop known as K hunts down android labourers who have gone rogue. But when he uncovers a shocking conspiracy involving the robots, K searches for the one person who might have answers: a law-enforcement agent who once had his job.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205094500 +0000" stop="20241205113000 +0000" channel="Showtime (East).us"><title>Margaux (2022)</title><Sub-title /><desc>Eager for a weekend getaway of parties and relaxation, a group of twentysomethings rents a smart home vacation rental. Yet the homes sophisticated artificial intelligence programming system soon takes control, forcing the friends to fight their way out or face their end.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205113000 +0000" stop="20241205131500 +0000" channel="Showtime (East).us"><title>This Is Where I Leave You (2014)</title><Sub-title /><desc>An adaptation of Jonathan Troppers novel surrounding a dysfunctional family reunion following their fathers funeral.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205131500 +0000" stop="20241205150500 +0000" channel="Showtime (East).us"><title>Days of Thunder (1990)</title><Sub-title /><desc>Tom Cruise guns the engine in this action drama about a stock-car racer.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205150500 +0000" stop="20241205171500 +0000" channel="Showtime (East).us"><title>Her (2013)</title><Sub-title /><desc>A lonely writer falls for his computers operating system, which has the voice of a woman and the ability to grow and learn. Their relationship quickly turns more intimate, but in time their differences begin to outweigh their similarities. Meanwhile, he struggles with a difficult divorce from his childhood sweetheart.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205171500 +0000" stop="20241205190000 +0000" channel="Showtime (East).us"><title>Rocky Balboa (2006)</title><Sub-title /><desc>Sylvester Stallone wrote, directed and stars in this sixth go-round in the ring cycle, in which the never-say-die Philadelphia palooka comes out of retirement to fight reigning champ Mason "The Line" Dixon.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205190000 +0000" stop="20241205210000 +0000" channel="Showtime (East).us"><title>Dead for a Dollar (2022)</title><Sub-title /><desc>The western centers on bounty hunter Max Borlund and his fateful confrontation with lifelong nemesis Joe Cribbens. Borlund ventures into Mexico to pursue the kidnapped wife of a wealthy man. But on his journey, he reunites with Cribbens years after he sent him to jail.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205210000 +0000" stop="20241206000000 +0000" channel="Showtime (East).us"><title>Braveheart (1995)</title><Sub-title /><desc>A fictionalised portrait of 13th-century Scottish rebel William Wallace, who led insurgents against oppressive English rule.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206000000 +0000" stop="20241206030000 +0000" channel="Showtime (East).us"><title>The Hateful Eight (2015)</title><Sub-title /><desc>A bounty hunter and his captured fugitive seek refuge from a blizzard in a mountain cabin along with six other distrustful travellers.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206030000 +0000" stop="20241206040100 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>The Bends</Sub-title><desc>Covert CIA agent Martian is called back to London Station. An incident in Belarus puts Bosko and Henry on a collision course with Langley. Danny learns a lesson. Someone unexpectedly reappears in Martians life. Series premiere.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
 <programme start="20241202010000 +0000" stop="20241202020000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Spectacle</Sub-title><desc>After a sexual assault is broadcast on a universitys intranet, Stabler and Fin look for the people involved. During the investigation, the attackers attention-seeking motives come to light.</desc><episode-num system="xmltv_ns">11.15.</episode-num></programme>
 <programme start="20241202020000 +0000" stop="20241202030000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Russian Brides</Sub-title><desc>A mail-order Russian bride is found murdered, and her fiancé reveals that she had been kidnapped for ransom. During the investigation, Cragen goes undercover as a man seeking a bride, and detectives find a link to the Russian mob.</desc><episode-num system="xmltv_ns">12.6.</episode-num></programme>
 <programme start="20241202030000 +0000" stop="20241202040000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Friending Emily</Sub-title><desc>A girl vanishes after following her big sister to a party, and her abductor covers his tracks online by using his impressive computer skills. Meanwhile, Rollins gets sidetracked from the case by an unexpected visit from her own sister.</desc><episode-num system="xmltv_ns">13.5.</episode-num></programme>
@@ -149,17 +133,153 @@
 <programme start="20241205010000 +0000" stop="20241205020000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Mother</Sub-title><desc>After a psychiatrist has been raped in a crack house, shes very uncooperative with the investigation.</desc><episode-num system="xmltv_ns">4.2.</episode-num></programme>
 <programme start="20241205020000 +0000" stop="20241205030000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Loss</Sub-title><desc>While constructing a murder case, Assistant District Attorney Alexandra Cabot becomes the target of a Colombian drug cartel.</desc><episode-num system="xmltv_ns">4.3.</episode-num></programme>
 <programme start="20241205030000 +0000" stop="20241205040000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Coerced</Sub-title><desc>A homeless schizophrenic kidnaps a 5-year-old boy.</desc><episode-num system="xmltv_ns">4.5.</episode-num></programme>
-<channel id="Showtime.Showcase.HD.-.East.us">
+<programme start="20241205040000 +0000" stop="20241205050000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Abomination</Sub-title><desc>A psychiatrist and his son are implicated in the murder of a gay model.</desc><episode-num system="xmltv_ns">4.7.</episode-num></programme>
+<programme start="20241205050000 +0000" stop="20241205060000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Shaken</Sub-title><desc>A toddler who collapsed in a park had been severely shaken; under suspicion are his babysitter, his single mother and her boyfriend.</desc><episode-num system="xmltv_ns">4.9.</episode-num></programme>
+<programme start="20241205060000 +0000" stop="20241205070000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Escape</Sub-title><desc>A prisoner escapes and a deputy US marshal teams up with Benson to try to find him.</desc><episode-num system="xmltv_ns">4.10.</episode-num></programme>
+<programme start="20241205070000 +0000" stop="20241205080000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Vulnerable</Sub-title><desc>Benson and Stabler try to determine who mistreated an Alzheimers victim.</desc><episode-num system="xmltv_ns">3.2.</episode-num></programme>
+<programme start="20241205080000 +0000" stop="20241205090000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Lust</Sub-title><desc>The detectives investigate the murder of a doctor whose husband is a retired lawyer.</desc><episode-num system="xmltv_ns">3.3.</episode-num></programme>
+<programme start="20241205090000 +0000" stop="20241205100000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Disappearing Acts</Sub-title><desc>After Stabler and Benson are called in on a rape case, their victim is taken away by federal agents.</desc><episode-num system="xmltv_ns">3.4.</episode-num></programme>
+<programme start="20241205100000 +0000" stop="20241205110000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Angels</Sub-title><desc>The discovery of a boys body leads to a paedophile ring.</desc><episode-num system="xmltv_ns">3.5.</episode-num></programme>
+<programme start="20241205110000 +0000" stop="20241205113000 +0000" channel="USA Network HDTV (East).us"><title>911 Crisis Center</title><Sub-title>Help Is On The Way</Sub-title><desc>The shift comes together to support their pregnant teammate, Kaitlyn Schroeder, when she takes a call reporting two kids shot in the face, and a caller whose childbirth doesnt go exactly to plan.</desc><episode-num system="xmltv_ns">0.11.</episode-num></programme>
+<programme start="20241205113000 +0000" stop="20241205123000 +0000" channel="USA Network HDTV (East).us"><title>NCIS: Los Angeles</title><Sub-title>Personal</Sub-title><desc>Deeks is shot when a convenience store is robbed and the investigation centres on whether he was the target or an innocent bystander.</desc><episode-num system="xmltv_ns">1.16.</episode-num></programme>
+<programme start="20241205123000 +0000" stop="20241205133000 +0000" channel="USA Network HDTV (East).us"><title>NCIS: Los Angeles</title><Sub-title>Harms Way</Sub-title><desc>Sam and Callen go to Yemen to hunt a terrorist leader and rescue the abducted son of a Saudi prince.</desc><episode-num system="xmltv_ns">1.17.</episode-num></programme>
+<programme start="20241205133000 +0000" stop="20241205143000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Juvenile</Sub-title><desc>Two youths each blame the other in the murder case of a cancer patient who grew marijuana.</desc><episode-num system="xmltv_ns">3.8.</episode-num></programme>
+<programme start="20241205143000 +0000" stop="20241205153000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Mercy</Sub-title><desc>The discovery of an infants remains leads to a case that deals with a fatal genetic disorder and a parents moral crisis.</desc><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20241205153000 +0000" stop="20241205163000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Pandora</Sub-title><desc>Stabler is sent to Prague to look for a missing teenager whose pictures are showing up on child-porn websites.</desc><episode-num system="xmltv_ns">3.14.</episode-num></programme>
+<programme start="20241205163000 +0000" stop="20241205173000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Escape</Sub-title><desc>A prisoner escapes and a deputy US marshal teams up with Benson to try to find him.</desc><episode-num system="xmltv_ns">4.10.</episode-num></programme>
+<programme start="20241205173000 +0000" stop="20241205183000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Families</Sub-title><desc>After a teenagers body is found, its discovered that she was pregnant and tests indicate a case of incest.</desc><episode-num system="xmltv_ns">4.14.</episode-num></programme>
+<programme start="20241205183000 +0000" stop="20241205193000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Mean</Sub-title><desc>After a teenage girls body is found in the boot of a car, Benson and Stabler discover that the deceased had been harassing a classmate.</desc><episode-num system="xmltv_ns">4.16.</episode-num></programme>
+<programme start="20241205193000 +0000" stop="20241205201500 +0000" channel="USA Network HDTV (East).us"><title>Premier League Live</title><Sub-title /><desc>English Premier League soccer news, highlights and analysis.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205201500 +0000" stop="20241205221500 +0000" channel="USA Network HDTV (East).us"><title>Premier League Soccer</title><Sub-title>AFC Bournemouth vs. Tottenham Hotspur FC</Sub-title><desc>Bournemouth vs. Tottenham. From Vitality Stadium.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241205221500 +0000" stop="20241205223000 +0000" channel="USA Network HDTV (East).us"><title>Premier League Goal Zone</title><Sub-title>12-05-2024</Sub-title><desc>An in-depth look at recent English Premier League soccer action.</desc><episode-num system="xmltv_ns">10.54.</episode-num></programme>
+<programme start="20241205223000 +0000" stop="20241206003000 +0000" channel="USA Network HDTV (East).us"><title>Semi-Pro (2008)</title><Sub-title /><desc>Will Ferrell is hilarious in this slam-dunk spoof about an inept ABA basketball team that is in danger of folding when the league announces plans to merge with the NBA in 1976. Directed by Kent Alterman.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206003000 +0000" stop="20241206023000 +0000" channel="USA Network HDTV (East).us"><title>Step Brothers (2008)</title><Sub-title /><desc>Two middle-aged slackers become members of the same family when ones mother marries the others father, and sparks soon start to fly between the contentious new step-siblings.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206023000 +0000" stop="20241206043000 +0000" channel="USA Network HDTV (East).us"><title>Step Brothers (2008)</title><Sub-title /><desc>Two middle-aged slackers become members of the same family when ones mother marries the others father, and sparks soon start to fly between the contentious new step-siblings.</desc><episode-num system="xmltv_ns" /></programme>
+<channel id="Discovery.Family.Channel.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Family Channel</display-name>
+  </channel>
+  <channel id="HBO.2.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+  </channel>
+  <channel id="Nickelodeon.USA.-.Pacific.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Nickelodeon USA - Pacific Feed</display-name>
+  </channel>
+  <channel id="TNT.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">TNT - Eastern Feed</display-name>
+  </channel>
+  <channel id="Showtime.Showcase.HD.-.East.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Showtime Showcase HD - East</display-name>
+  </channel>
+  <channel id="Disney.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney - Eastern Feed</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Extreme - Eastern</display-name>
+  </channel>
+  <channel id="Discovery.Life.Channel.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Life Channel</display-name>
+  </channel>
+  <channel id="Nick.Jr..-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Nick Jr. - East</display-name>
+  </channel>
+  <channel id="Discovery.Channel.(US).-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Channel (US) - Eastern Feed</display-name>
+  </channel>
+  <channel id="Disney.XD.USA.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
+  </channel>
+  <channel id="Showtime.Women.HD.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Women HD - Eastern</display-name>
+  </channel>
+  <channel id="Altitude.Sports.-.Denver.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Altitude Sports - Denver</display-name>
+  </channel>
+  <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+  </channel>
+  <channel id="Animal.Planet.US.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Animal Planet US - East</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Comedy HD - East</display-name>
+  </channel>
+  <channel id="HBO.Latino.(HBO.7).-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
+  </channel>
+  <channel id="Syfy.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
+  </channel>
+  <channel id="Showtime.Next.HD.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Next HD - Eastern</display-name>
   </channel>
   <channel id="Showtime.2.-.Eastern.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Showtime 2 - Eastern</display-name>
+  </channel>
+  <channel id="HBO.Family.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Family - Eastern Feed</display-name>
   </channel>
   <channel id="Disney.Junior.USA.-.East.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
@@ -173,131 +293,17 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">HBO - Eastern Feed</display-name>
   </channel>
-  <channel id="Animal.Planet.US.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Animal Planet US - East</display-name>
-  </channel>
-  <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
-  </channel>
-  <channel id="Disney.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney - Eastern Feed</display-name>
-  </channel>
-  <channel id="Nickelodeon.USA.-.Pacific.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Nickelodeon USA - Pacific Feed</display-name>
-  </channel>
-  <channel id="Nick.Jr..-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Nick Jr. - East</display-name>
-  </channel>
-  <channel id="Syfy.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Syfy - Eastern Feed</display-name>
-  </channel>
-  <channel id="Discovery.Life.Channel.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Life Channel</display-name>
-  </channel>
-  <channel id="Showtime.Women.HD.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Women HD - Eastern</display-name>
-  </channel>
-  <channel id="TNT.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TNT - Eastern Feed</display-name>
-  </channel>
-  <channel id="Altitude.Sports.-.Denver.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s44263_h9_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Altitude Sports - Denver</display-name>
-  </channel>
-  <channel id="Showtime.Next.HD.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Next HD - Eastern</display-name>
-  </channel>
-  <channel id="HBO.2.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
-  </channel>
-  <channel id="HBO.Latino.(HBO.7).-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
-  </channel>
-  <channel id="HBO.Family.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Family - Eastern Feed</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Comedy HD - East</display-name>
-  </channel>
   <channel id="Starz.-.Eastern.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Starz - Eastern</display-name>
   </channel>
-  <channel id="Discovery.Family.Channel.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Family Channel</display-name>
-  </channel>
-  <channel id="Showtime.Extreme.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Extreme - Eastern</display-name>
-  </channel>
   <channel id="HBO.Zone.HD.-.East.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">HBO Zone HD - East</display-name>
-  </channel>
-  <channel id="Discovery.Channel.(US).-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Channel (US) - Eastern Feed</display-name>
-  </channel>
-  <channel id="Disney.XD.USA.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
   </channel>
   <programme channel="Showtime.2.-.Eastern.us" start="20241203044500 -0500" stop="20241203065500 -0500">
     <title lang="en">Mission: Impossible III</title>
