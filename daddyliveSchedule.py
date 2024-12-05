@@ -19,6 +19,9 @@ M3U8_OUTPUT_FILE    = "daily.m3u8"
 EPG_OUTPUT_FILE     = "daily.xml"
 LOGO                = "https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png"
 
+mStartTime = 0
+mStopTime = 0
+
 def generate_unique_ids(count, seed=42):
     random.seed(seed)
     ids = []
@@ -36,6 +39,41 @@ def loadJSON(filepath):
     # print(json_object)
 
     return json_object
+
+def createSingleChannelEPGData(UniqueID, tvgName):
+     #Creating M3U8 Data
+    xmlChannel      = ET.Element('channel')
+    xmlDisplayName  = ET.Element('display-name')
+    xmlIcon         = ET.Element('icon')
+
+    xmlChannel.set('id', UniqueID)
+    xmlDisplayName.text = tvgName
+    xmlIcon.set('src', LOGO)
+
+    xmlChannel.append(xmlDisplayName)
+    xmlChannel.append(xmlIcon)
+
+    return xmlChannel
+
+def createSingleEPGData(startTime, stopTime, UniqueID, channelName, description):
+    #Creating EPG Data
+    programme   = ET.Element('programme')
+    title       = ET.Element('title')
+    desc        = ET.Element('desc')
+
+    programme.set('start', startTime + " +0000")
+    programme.set('stop', stopTime + " +0000")
+    programme.set('channel', UniqueID)
+
+    title.text = channelName
+
+    desc.text = description
+
+    programme.append(title)
+    programme.append(desc)
+
+    return programme
+
 def addChannelsByLeagueSport(leagueSportTuple):
     for day, value in dadjson.items():
         try:
@@ -53,9 +91,11 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             # Parse the cleaned date string into a datetime object
                             date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
                             start_date = datetime.datetime.strptime(date_time, date_format)
-                            startTime = start_date.strftime("%Y%m%d000000")
+                            global mStartTime
+                            mStartTime = start_date.strftime("%Y%m%d000000")
                             stop_date = start_date + datetime.timedelta(days=2)
-                            stopTime = stop_date.strftime("%Y%m%d000000")
+                            global mStopTime
+                            mStopTime = stop_date.strftime("%Y%m%d000000")
                             
                             format_12_hour = start_date.strftime("%m/%d/%y")
                             start_date = start_date - datetime.timedelta(hours=7)
@@ -81,35 +121,10 @@ def addChannelsByLeagueSport(leagueSportTuple):
                                 file.write('\n')
 
                             #Creating M3U8 Data
-                            xmlChannel      = ET.Element('channel')
-                            xmlDisplayName  = ET.Element('display-name')
-                            xmlIcon         = ET.Element('icon')
-
-                            xmlChannel.set('id', UniqueID)
-                            xmlDisplayName.text = tvgName
-                            xmlIcon.set('src', LOGO)
-
-                            xmlChannel.append(xmlDisplayName)
-                            xmlChannel.append(xmlIcon)
-
+                            xmlChannel = createSingleChannelEPGData(UniqueID, tvgName)
                             root.append(xmlChannel)
 
-                            #Creating EPG Data
-                            programme   = ET.Element('programme')
-                            title       = ET.Element('title')
-                            desc        = ET.Element('desc')
-
-                            programme.set('start', startTime + " +0000")
-                            programme.set('stop', stopTime + " +0000")
-                            programme.set('channel', UniqueID)
-
-                            title.text = channelName
-
-                            desc.text = "No Description"
-
-                            programme.append(title)
-                            programme.append(desc)
-
+                            programme = createSingleEPGData(mStartTime, mStopTime, UniqueID, channelName, "No Description")
                             root.append(programme)
         except KeyError as e:
             print(f"KeyError: {e} - One of the keys {day} or {leagueSportTuple} does not exist.")
@@ -142,6 +157,12 @@ for id in unique_ids:
         file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelNumber}/index.m3u8\n")
         file.write('\n')
         channelCount += 1
+
+    xmlChannel = createSingleChannelEPGData(id, tvgName)
+    root.append(xmlChannel)
+
+    programme = createSingleEPGData(mStartTime, mStopTime, id, "No Programm Available", "No Description")
+    root.append(programme)
 
 tree = ET.ElementTree(root)
 tree.write(EPG_OUTPUT_FILE, encoding='utf-8', xml_declaration=True)
