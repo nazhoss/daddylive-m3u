@@ -68,12 +68,13 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             channelID   = f"{channel['channel_id']}"
 
                             global channelCount
-                            # tvgName = "OpenChannel" + str(channelCount).zfill(3)
-                            # tvLabel = tvgName
-                            # channelCount = channelCount + 1
+                            tvgName = "OpenChannel" + str(channelCount).zfill(3)
+                            tvLabel = tvgName
+                            channelCount = channelCount + 1
 
-                            tvgName = channelName
-                            tvLabel = channel["channel_name"]
+                            # tvgName = channelName
+                            # tvLabel = channel["channel_name"]
+
                             with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
                                 file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="USA (DADDY LIVE)", {tvLabel}\n')
                                 file.write(f"https://xyzdddd.mizhls.ru/lb/premium{channelID}/index.m3u8\n")
@@ -128,7 +129,7 @@ root = ET.Element('tv')
 #league sport tuple
 leageSportTuple = []
 leageSportTuple.append({"league":"NHL", "sport":"Ice Hockey"})
-# leageSportTuple.append({"league":"NFL", "sport":"Am. Football"})
+leageSportTuple.append({"league":"NFL", "sport":"Am. Football"})
 
 addChannelsByLeagueSport(leageSportTuple)
 
