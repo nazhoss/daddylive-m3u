@@ -88,6 +88,114 @@ https://xyzdddd.mizhls.ru/lb/premium407/index.m3u8
 #EXTINF:-1 tvg-id="292bd156-db94-6570-1ac7-0ec0ab8ddeb4" tvg-name="NHL : Dallas Stars vs Los Angeles Kings 12/04/24 - 08:00 PM (MST) Sportsnet 360" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Sportsnet 360
 https://xyzdddd.mizhls.ru/lb/premium409/index.m3u8
 
+#EXTINF:-1 tvg-id="5230dfbd-5553-b2fe-6889-803e5913f9d3" tvg-name="NHL : Winnipeg Jets (Away) vs Buffalo Sabres (Home) 12/05/24 - 05:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium10/index.m3u8
+
+#EXTINF:-1 tvg-id="785299f4-175b-a98d-f814-01027de1bdfe" tvg-name="NHL : Winnipeg Jets (Away) vs Buffalo Sabres (Home) 12/05/24 - 05:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium55/index.m3u8
+
+#EXTINF:-1 tvg-id="d0725b5c-a281-4044-6f96-288295d82980" tvg-name="NHL : Winnipeg Jets (Away) vs Buffalo Sabres (Home) 12/05/24 - 05:00 PM (MST) TSN3" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", TSN3
+https://xyzdddd.mizhls.ru/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-id="ff37d19c-2e76-128b-4735-44f9ea83bf00" tvg-name="NHL : Winnipeg Jets (Away) vs Buffalo Sabres (Home) 12/05/24 - 05:00 PM (MST) Vodafone Sport" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Vodafone Sport
+https://xyzdddd.mizhls.ru/lb/premium260/index.m3u8
+
+#EXTINF:-1 tvg-id="7135f221-a6c9-537f-84da-d06a7872bdeb" tvg-name="NHL : Winnipeg Jets (Away) vs Buffalo Sabres (Home) 12/05/24 - 05:00 PM (MST) TV3 Sport Denmark HD" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", TV3 Sport Denmark HD
+https://xyzdddd.mizhls.ru/lb/premium809/index.m3u8
+
+#EXTINF:-1 tvg-id="2cd94cbb-c19a-d58c-c35b-1c8c0a4c9f7f" tvg-name="NHL : Nashville Predators (Away) vs Montréal Canadiens (Home) 12/05/24 - 05:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium11/index.m3u8
+
+#EXTINF:-1 tvg-id="9384ec2b-44fe-acae-d248-a9a7ac1aa554" tvg-name="NHL : Nashville Predators (Away) vs Montréal Canadiens (Home) 12/05/24 - 05:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium59/index.m3u8
+
+#EXTINF:-1 tvg-id="c3c75611-ffe3-fa49-054f-92fff366bad4" tvg-name="NHL : Nashville Predators (Away) vs Montréal Canadiens (Home) 12/05/24 - 05:00 PM (MST) TSN2" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", TSN2
+https://xyzdddd.mizhls.ru/lb/premium112/index.m3u8
+
+#EXTINF:-1 tvg-id="964db03f-9340-3fad-dc4a-d56bd6016237" tvg-name="NHL : Nashville Predators (Away) vs Montréal Canadiens (Home) 12/05/24 - 05:00 PM (MST) RDS CA" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", RDS CA
+https://xyzdddd.mizhls.ru/lb/premium839/index.m3u8
+
+#EXTINF:-1 tvg-id="ac9ed156-f63f-ce41-3a9a-ca5e176132ed" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium12/index.m3u8
+
+#EXTINF:-1 tvg-id="069f14f1-4018-1c6e-9a8c-fa3c5283aac7" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium68/index.m3u8
+
+#EXTINF:-1 tvg-id="bc0a6a5d-6e99-6e3e-e3b1-37fc0a3450fc" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) TSN5" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", TSN5
+https://xyzdddd.mizhls.ru/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-id="9918ee46-1497-d658-7010-f7197e695d0d" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) Viaplay Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Viaplay Sports 2 UK
+https://xyzdddd.mizhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-id="8a3c3b5e-801e-f1da-45b1-ed25f1533ae8" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) Sky Sport Mix DE" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Sky Sport Mix DE
+https://xyzdddd.mizhls.ru/lb/premium557/index.m3u8
+
+#EXTINF:-1 tvg-id="670acc5c-b321-bf21-4dd8-eb85b04d3376" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Sky Sport Top Event DE
+https://xyzdddd.mizhls.ru/lb/premium556/index.m3u8
+
+#EXTINF:-1 tvg-id="77fc9703-1fd5-a423-706c-5c5649e2623d" tvg-name="NHL : Detroit Red Wings (Away) vs Ottawa Senators (Home) 12/05/24 - 05:00 PM (MST) 5 Stars Israel" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", 5 Stars Israel
+https://xyzdddd.mizhls.ru/lb/premium147/index.m3u8
+
+#EXTINF:-1 tvg-id="ebd34616-91b7-8d8e-d301-6989bfbbb17f" tvg-name="NHL : San Jose Sharks (Away) vs Tampa Bay Lightning (Home) 12/05/24 - 05:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium13/index.m3u8
+
+#EXTINF:-1 tvg-id="9854ce4e-4ebf-a5c3-cae9-b4a72a79ea68" tvg-name="NHL : San Jose Sharks (Away) vs Tampa Bay Lightning (Home) 12/05/24 - 05:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium69/index.m3u8
+
+#EXTINF:-1 tvg-id="0f44704f-1247-ea4e-2469-98e8d39e198b" tvg-name="NHL : San Jose Sharks (Away) vs Tampa Bay Lightning (Home) 12/05/24 - 05:00 PM (MST) Bally Sports Sun" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Bally Sports Sun
+https://xyzdddd.mizhls.ru/lb/premium905/index.m3u8
+
+#EXTINF:-1 tvg-id="44007d5a-e88d-a719-2624-2b40a5cb63a2" tvg-name="NHL : Florida Panthers (Away) vs Philadelphia Flyers (Home) 12/05/24 - 05:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium14/index.m3u8
+
+#EXTINF:-1 tvg-id="398d1ca6-8b68-70b5-1d61-fac36cd5e859" tvg-name="NHL : Florida Panthers (Away) vs Philadelphia Flyers (Home) 12/05/24 - 05:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium76/index.m3u8
+
+#EXTINF:-1 tvg-id="32a447b2-ef04-e57d-cdcc-c33aa9434aa0" tvg-name="NHL : Florida Panthers (Away) vs Philadelphia Flyers (Home) 12/05/24 - 05:00 PM (MST) NBCS Philadelphia" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NBCS Philadelphia
+https://xyzdddd.mizhls.ru/lb/premium777/index.m3u8
+
+#EXTINF:-1 tvg-id="96fc734d-a003-cd28-ca8f-3653c9af18f8" tvg-name="NHL : Florida Panthers (Away) vs Philadelphia Flyers (Home) 12/05/24 - 05:00 PM (MST) V Sport Premium" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", V Sport Premium
+https://xyzdddd.mizhls.ru/lb/premium108/index.m3u8
+
+#EXTINF:-1 tvg-id="43b9da13-ec85-6f37-3bc1-a987aff8754d" tvg-name="NHL : Colorado Avalanche (Away) vs Carolina Hurricanes (Home) 12/05/24 - 05:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium15/index.m3u8
+
+#EXTINF:-1 tvg-id="1238d630-743b-65a2-dc0f-2fcfb3f6fe0d" tvg-name="NHL : Colorado Avalanche (Away) vs Carolina Hurricanes (Home) 12/05/24 - 05:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium77/index.m3u8
+
+#EXTINF:-1 tvg-id="48603b32-b4fb-0eb9-49c1-3de73b4206c5" tvg-name="NHL : Colorado Avalanche (Away) vs Carolina Hurricanes (Home) 12/05/24 - 05:00 PM (MST) Altitude Sports" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Altitude Sports
+https://xyzdddd.mizhls.ru/lb/premium923/index.m3u8
+
+#EXTINF:-1 tvg-id="085b15fb-4a8f-f810-784c-2f29980402a2" tvg-name="NHL : Colorado Avalanche (Away) vs Carolina Hurricanes (Home) 12/05/24 - 05:00 PM (MST) V Sport Vinter" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", V Sport Vinter
+https://xyzdddd.mizhls.ru/lb/premium109/index.m3u8
+
+#EXTINF:-1 tvg-id="b07aa066-7354-35ea-6894-9b8d00af5b3a" tvg-name="NHL : Seattle Kraken (Away) vs New York Islanders (Home) 12/05/24 - 05:30 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium16/index.m3u8
+
+#EXTINF:-1 tvg-id="2812859a-1337-739e-8d4f-5d272c7f0b79" tvg-name="NHL : Seattle Kraken (Away) vs New York Islanders (Home) 12/05/24 - 05:30 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium86/index.m3u8
+
+#EXTINF:-1 tvg-id="3d67cde9-2834-e4c0-14c8-b3b4a911d192" tvg-name="NHL : St. Louis Blues (Away) vs Calgary Flames (Home) 12/05/24 - 07:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium17/index.m3u8
+
+#EXTINF:-1 tvg-id="43bfd931-3605-bf54-a021-c0ca3531968d" tvg-name="NHL : St. Louis Blues (Away) vs Calgary Flames (Home) 12/05/24 - 07:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium105/index.m3u8
+
+#EXTINF:-1 tvg-id="c342bd2b-f295-456e-1967-5f06bd767e35" tvg-name="NHL : St. Louis Blues (Away) vs Calgary Flames (Home) 12/05/24 - 07:00 PM (MST) Viaplay Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Viaplay Sports 1 UK
+https://xyzdddd.mizhls.ru/lb/premium451/index.m3u8
+
+#EXTINF:-1 tvg-id="f5c9b047-9c10-c572-0f6b-40d09efba58b" tvg-name="NHL : St. Louis Blues (Away) vs Calgary Flames (Home) 12/05/24 - 07:00 PM (MST) Max Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Max Sport 2 Bulgaria
+https://xyzdddd.mizhls.ru/lb/premium473/index.m3u8
+
+#EXTINF:-1 tvg-id="9191b363-4e2d-6645-6dc7-cac7fd72b050" tvg-name="NHL : St. Louis Blues (Away) vs Calgary Flames (Home) 12/05/24 - 07:00 PM (MST) Sport 5 Live Israel" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", Sport 5 Live Israel
+https://xyzdddd.mizhls.ru/lb/premium146/index.m3u8
+
+#EXTINF:-1 tvg-id="96a9954f-dc33-e1f9-4c1f-55ab715629ee" tvg-name="NHL : Columbus Blue Jackets (Away) vs Edmonton Oilers (Home) 12/05/24 - 07:00 PM (MST) NHL Home Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Home Feed
+https://xyzdddd.mizhls.ru/lb/premium18/index.m3u8
+
+#EXTINF:-1 tvg-id="e893be3d-7354-ea6f-6160-745985c7504b" tvg-name="NHL : Columbus Blue Jackets (Away) vs Edmonton Oilers (Home) 12/05/24 - 07:00 PM (MST) NHL Away Feed" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", NHL Away Feed
+https://xyzdddd.mizhls.ru/lb/premium106/index.m3u8
+
 #EXTINF:-1 tvg-id="bdd640fb-0667-1ad1-1c80-317fa3b1799d" tvg-name="OpenChannel000" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel000
 https://xyzdddd.mizhls.ru/lb/premium000/index.m3u8
 
@@ -1089,112 +1197,4 @@ https://xyzdddd.mizhls.ru/lb/premium332/index.m3u8
 
 #EXTINF:-1 tvg-id="c693da11-39c6-a1ca-9e50-aa42ca6dfda1" tvg-name="OpenChannel333" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel333
 https://xyzdddd.mizhls.ru/lb/premium333/index.m3u8
-
-#EXTINF:-1 tvg-id="e893be3d-7354-ea6f-6160-745985c7504b" tvg-name="OpenChannel334" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel334
-https://xyzdddd.mizhls.ru/lb/premium334/index.m3u8
-
-#EXTINF:-1 tvg-id="96a9954f-dc33-e1f9-4c1f-55ab715629ee" tvg-name="OpenChannel335" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel335
-https://xyzdddd.mizhls.ru/lb/premium335/index.m3u8
-
-#EXTINF:-1 tvg-id="9191b363-4e2d-6645-6dc7-cac7fd72b050" tvg-name="OpenChannel336" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel336
-https://xyzdddd.mizhls.ru/lb/premium336/index.m3u8
-
-#EXTINF:-1 tvg-id="f5c9b047-9c10-c572-0f6b-40d09efba58b" tvg-name="OpenChannel337" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel337
-https://xyzdddd.mizhls.ru/lb/premium337/index.m3u8
-
-#EXTINF:-1 tvg-id="c342bd2b-f295-456e-1967-5f06bd767e35" tvg-name="OpenChannel338" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel338
-https://xyzdddd.mizhls.ru/lb/premium338/index.m3u8
-
-#EXTINF:-1 tvg-id="43bfd931-3605-bf54-a021-c0ca3531968d" tvg-name="OpenChannel339" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel339
-https://xyzdddd.mizhls.ru/lb/premium339/index.m3u8
-
-#EXTINF:-1 tvg-id="3d67cde9-2834-e4c0-14c8-b3b4a911d192" tvg-name="OpenChannel340" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel340
-https://xyzdddd.mizhls.ru/lb/premium340/index.m3u8
-
-#EXTINF:-1 tvg-id="2812859a-1337-739e-8d4f-5d272c7f0b79" tvg-name="OpenChannel341" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel341
-https://xyzdddd.mizhls.ru/lb/premium341/index.m3u8
-
-#EXTINF:-1 tvg-id="b07aa066-7354-35ea-6894-9b8d00af5b3a" tvg-name="OpenChannel342" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel342
-https://xyzdddd.mizhls.ru/lb/premium342/index.m3u8
-
-#EXTINF:-1 tvg-id="085b15fb-4a8f-f810-784c-2f29980402a2" tvg-name="OpenChannel343" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel343
-https://xyzdddd.mizhls.ru/lb/premium343/index.m3u8
-
-#EXTINF:-1 tvg-id="48603b32-b4fb-0eb9-49c1-3de73b4206c5" tvg-name="OpenChannel344" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel344
-https://xyzdddd.mizhls.ru/lb/premium344/index.m3u8
-
-#EXTINF:-1 tvg-id="1238d630-743b-65a2-dc0f-2fcfb3f6fe0d" tvg-name="OpenChannel345" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel345
-https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
-
-#EXTINF:-1 tvg-id="43b9da13-ec85-6f37-3bc1-a987aff8754d" tvg-name="OpenChannel346" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel346
-https://xyzdddd.mizhls.ru/lb/premium346/index.m3u8
-
-#EXTINF:-1 tvg-id="96fc734d-a003-cd28-ca8f-3653c9af18f8" tvg-name="OpenChannel347" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel347
-https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
-
-#EXTINF:-1 tvg-id="32a447b2-ef04-e57d-cdcc-c33aa9434aa0" tvg-name="OpenChannel348" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel348
-https://xyzdddd.mizhls.ru/lb/premium348/index.m3u8
-
-#EXTINF:-1 tvg-id="398d1ca6-8b68-70b5-1d61-fac36cd5e859" tvg-name="OpenChannel349" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel349
-https://xyzdddd.mizhls.ru/lb/premium349/index.m3u8
-
-#EXTINF:-1 tvg-id="44007d5a-e88d-a719-2624-2b40a5cb63a2" tvg-name="OpenChannel350" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel350
-https://xyzdddd.mizhls.ru/lb/premium350/index.m3u8
-
-#EXTINF:-1 tvg-id="0f44704f-1247-ea4e-2469-98e8d39e198b" tvg-name="OpenChannel351" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel351
-https://xyzdddd.mizhls.ru/lb/premium351/index.m3u8
-
-#EXTINF:-1 tvg-id="9854ce4e-4ebf-a5c3-cae9-b4a72a79ea68" tvg-name="OpenChannel352" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel352
-https://xyzdddd.mizhls.ru/lb/premium352/index.m3u8
-
-#EXTINF:-1 tvg-id="ebd34616-91b7-8d8e-d301-6989bfbbb17f" tvg-name="OpenChannel353" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel353
-https://xyzdddd.mizhls.ru/lb/premium353/index.m3u8
-
-#EXTINF:-1 tvg-id="77fc9703-1fd5-a423-706c-5c5649e2623d" tvg-name="OpenChannel354" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel354
-https://xyzdddd.mizhls.ru/lb/premium354/index.m3u8
-
-#EXTINF:-1 tvg-id="670acc5c-b321-bf21-4dd8-eb85b04d3376" tvg-name="OpenChannel355" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel355
-https://xyzdddd.mizhls.ru/lb/premium355/index.m3u8
-
-#EXTINF:-1 tvg-id="8a3c3b5e-801e-f1da-45b1-ed25f1533ae8" tvg-name="OpenChannel356" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel356
-https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8
-
-#EXTINF:-1 tvg-id="9918ee46-1497-d658-7010-f7197e695d0d" tvg-name="OpenChannel357" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel357
-https://xyzdddd.mizhls.ru/lb/premium357/index.m3u8
-
-#EXTINF:-1 tvg-id="bc0a6a5d-6e99-6e3e-e3b1-37fc0a3450fc" tvg-name="OpenChannel358" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel358
-https://xyzdddd.mizhls.ru/lb/premium358/index.m3u8
-
-#EXTINF:-1 tvg-id="069f14f1-4018-1c6e-9a8c-fa3c5283aac7" tvg-name="OpenChannel359" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel359
-https://xyzdddd.mizhls.ru/lb/premium359/index.m3u8
-
-#EXTINF:-1 tvg-id="ac9ed156-f63f-ce41-3a9a-ca5e176132ed" tvg-name="OpenChannel360" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel360
-https://xyzdddd.mizhls.ru/lb/premium360/index.m3u8
-
-#EXTINF:-1 tvg-id="964db03f-9340-3fad-dc4a-d56bd6016237" tvg-name="OpenChannel361" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel361
-https://xyzdddd.mizhls.ru/lb/premium361/index.m3u8
-
-#EXTINF:-1 tvg-id="c3c75611-ffe3-fa49-054f-92fff366bad4" tvg-name="OpenChannel362" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel362
-https://xyzdddd.mizhls.ru/lb/premium362/index.m3u8
-
-#EXTINF:-1 tvg-id="9384ec2b-44fe-acae-d248-a9a7ac1aa554" tvg-name="OpenChannel363" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel363
-https://xyzdddd.mizhls.ru/lb/premium363/index.m3u8
-
-#EXTINF:-1 tvg-id="2cd94cbb-c19a-d58c-c35b-1c8c0a4c9f7f" tvg-name="OpenChannel364" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel364
-https://xyzdddd.mizhls.ru/lb/premium364/index.m3u8
-
-#EXTINF:-1 tvg-id="7135f221-a6c9-537f-84da-d06a7872bdeb" tvg-name="OpenChannel365" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel365
-https://xyzdddd.mizhls.ru/lb/premium365/index.m3u8
-
-#EXTINF:-1 tvg-id="ff37d19c-2e76-128b-4735-44f9ea83bf00" tvg-name="OpenChannel366" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel366
-https://xyzdddd.mizhls.ru/lb/premium366/index.m3u8
-
-#EXTINF:-1 tvg-id="d0725b5c-a281-4044-6f96-288295d82980" tvg-name="OpenChannel367" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel367
-https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8
-
-#EXTINF:-1 tvg-id="785299f4-175b-a98d-f814-01027de1bdfe" tvg-name="OpenChannel368" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel368
-https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8
-
-#EXTINF:-1 tvg-id="5230dfbd-5553-b2fe-6889-803e5913f9d3" tvg-name="OpenChannel369" tvg-logo="https://raw.githubusercontent.com/JHarding86/daddylive-m3u/refs/heads/main/hardingtv.png" group-title="USA (DADDY LIVE)", OpenChannel369
-https://xyzdddd.mizhls.ru/lb/premium369/index.m3u8
 

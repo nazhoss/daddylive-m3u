@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="USA Network HDTV (East).us"><display-name>USA Network HDTV (East).us</display-name></channel>
-<channel id="Showtime (East).us"><display-name>Showtime (East).us</display-name></channel>
+<tv><channel id="Showtime (East).us"><display-name>Showtime (East).us</display-name></channel>
+<channel id="USA Network HDTV (East).us"><display-name>USA Network HDTV (East).us</display-name></channel>
 <programme start="20241203010100 +0000" stop="20241203020000 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>Wooden Duck</Sub-title><desc>Dr. Blake arrives from Langley and is put to a test by Martian and Henry. A spooked source threatens to put an operation at risk. Dannys cover is put in play. Martian, overtaken by events, begins to question Samis motives.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
 <programme start="20241203020000 +0000" stop="20241203030000 +0000" channel="Showtime (East).us"><title>Lioness</title><Sub-title>The Devil Has Aces</Sub-title><desc>Despite Joes weakened state, the team is forced back to Iraq to make a point.</desc><episode-num system="xmltv_ns">1.6.</episode-num></programme>
 <programme start="20241203030000 +0000" stop="20241203034500 +0000" channel="Showtime (East).us"><title>Killing Eve</title><Sub-title>Take Me to the Hole!</Sub-title><desc>A female assassin is taken into custody in Russia, and Eve and Carolyn head out to Moscow to negotiate access. She could hold the key to the organization that runs Villanelle. Meanwhile, Villanelle is smuggled into the same Russian jail.</desc><episode-num system="xmltv_ns">0.5.</episode-num></programme>
@@ -47,6 +47,12 @@
 <programme start="20241206122000 +0000" stop="20241206143500 +0000" channel="Showtime (East).us"><title>Foxcatcher (2014)</title><Sub-title /><desc>Docudrama about millionaire John du Pont, who fatally shot Olympic gold-medal wrestler Dave Schultz and proceeded to lock himself in his mansion for two days as the police attempted to negotiate with him.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241206143500 +0000" stop="20241206163000 +0000" channel="Showtime (East).us"><title>Contagion (2011)</title><Sub-title /><desc>In this ensemble thriller about a virus that quickly becomes a global pandemic, a husband copes with the sudden death of his wife, while a doctor puts herself at risk to find a cure and an activist blogger stokes societys paranoia.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241206163000 +0000" stop="20241206183000 +0000" channel="Showtime (East).us"><title>The Italian Job (2003)</title><Sub-title /><desc>A team of high-class thieves set out to avenge their mentors death with the help of his daughter. The plan consists of them stealing a fortune in gold, having it pilfered from them and then trying to get it back.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206183000 +0000" stop="20241206200000 +0000" channel="Showtime (East).us"><title>The Girl in the Pool (2024)</title><Sub-title /><desc>Thomas has the ideal life with a good job, a house, and a loving family. All this is threatened when his mistress is found dead in his swimming pool on the same day his family throws a surprise birthday party in the same backyard. As he scrambles to maintain his life as it has been, Thomas soon discovers that he might not be the only one hiding something.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206200000 +0000" stop="20241206225000 +0000" channel="Showtime (East).us"><title>There Will Be Blood (2007)</title><Sub-title /><desc>An opportunistic, self-made oil tycoon transforms into a corrupt businessman in this turn-of-the-20th-century story about money and greed.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206225000 +0000" stop="20241207010000 +0000" channel="Showtime (East).us"><title>The Dead Dont Hurt (2023)</title><Sub-title /><desc>In the 1860s western frontier, the fiercely independent Vivienne Le Coudy joins her lover Holger Olsen in Elk Flats, Nevada. But the Civil War tears them apart, leaving Vivienne to fight corrupt Mayor Schiller and his ruthless partner. When Holger returns, they must confront their changed selves amidst a landscape of love, betrayal, and the struggle for justice.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241207010000 +0000" stop="20241207020100 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>The Bends</Sub-title><desc>Covert CIA agent Martian is called back to London Station. An incident in Belarus puts Bosko and Henry on a collision course with Langley. Danny learns a lesson. Someone unexpectedly reappears in Martians life. Series premiere.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20241207020100 +0000" stop="20241207030000 +0000" channel="Showtime (East).us"><title>The Agency</title><Sub-title>Wooden Duck</Sub-title><desc>Dr. Blake arrives from Langley and is put to a test by Martian and Henry. A spooked source threatens to put an operation at risk. Dannys cover is put in play. Martian, overtaken by events, begins to question Samis motives.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20241207030000 +0000" stop="20241207043000 +0000" channel="Showtime (East).us"><title>The Honey Trap: A True Story of Love, Lies, and the FBI (2024)</title><Sub-title /><desc>Documentary chronicling the story of Denis Cuspert, aka Deso Dogg, and his journey from infamous German rapper to ISIS recruiter. Layering unexpected subjects, director Chris Moukarbel explores the circular relationship between propaganda, recruitment and the soft power of entertainment culture interwoven with an affair between Cuspert and the FBI translator assigned to investigate him.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241203010000 +0000" stop="20241203030000 +0000" channel="USA Network HDTV (East).us"><title>WWE Monday Night Raw</title><Sub-title>12-02-2024</Sub-title><desc>The superstars of World Wrestling Entertainment unleash their mat mayhem in Everett, Wash.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241203030000 +0000" stop="20241203034500 +0000" channel="USA Network HDTV (East).us"><title>Based on a True Story</title><Sub-title>Love You, Buzzfeed</Sub-title><desc>A charity auction at Rubys mansion leaves new and old wounds exposed.</desc><episode-num system="xmltv_ns">0.5.</episode-num></programme>
 <programme start="20241203034500 +0000" stop="20241203041700 +0000" channel="USA Network HDTV (East).us"><title>Scare Tactics</title><Sub-title>Hospital Hell!</Sub-title><desc>A mom faces a demon, no ones down with evil clowns and WWE Superstars go for a "Thrill Ride."</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
@@ -123,35 +129,33 @@
 <programme start="20241205223000 +0000" stop="20241206003000 +0000" channel="USA Network HDTV (East).us"><title>Semi-Pro (2008)</title><Sub-title /><desc>Will Ferrell is hilarious in this slam-dunk spoof about an inept ABA basketball team that is in danger of folding when the league announces plans to merge with the NBA in 1976. Directed by Kent Alterman.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241206003000 +0000" stop="20241206023000 +0000" channel="USA Network HDTV (East).us"><title>Step Brothers (2008)</title><Sub-title /><desc>Two middle-aged slackers become members of the same family when ones mother marries the others father, and sparks soon start to fly between the contentious new step-siblings.</desc><episode-num system="xmltv_ns" /></programme>
 <programme start="20241206023000 +0000" stop="20241206043000 +0000" channel="USA Network HDTV (East).us"><title>Step Brothers (2008)</title><Sub-title /><desc>Two middle-aged slackers become members of the same family when ones mother marries the others father, and sparks soon start to fly between the contentious new step-siblings.</desc><episode-num system="xmltv_ns" /></programme>
-<channel id="Animal.Planet.US.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+<programme start="20241206043000 +0000" stop="20241206063000 +0000" channel="USA Network HDTV (East).us"><title>Semi-Pro (2008)</title><Sub-title /><desc>Will Ferrell is hilarious in this slam-dunk spoof about an inept ABA basketball team that is in danger of folding when the league announces plans to merge with the NBA in 1976. Directed by Kent Alterman.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206063000 +0000" stop="20241206070000 +0000" channel="USA Network HDTV (East).us"><title>Scare Tactics</title><Sub-title>Killer Couture</Sub-title><desc>A DNA test has otherworldly results, secondhand fashion to die for, a foul wench feeds the flames.</desc><episode-num system="xmltv_ns">0.8.</episode-num></programme>
+<programme start="20241206070000 +0000" stop="20241206080000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Juvenile</Sub-title><desc>Two youths each blame the other in the murder case of a cancer patient who grew marijuana.</desc><episode-num system="xmltv_ns">3.8.</episode-num></programme>
+<programme start="20241206080000 +0000" stop="20241206090000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Mercy</Sub-title><desc>The discovery of an infants remains leads to a case that deals with a fatal genetic disorder and a parents moral crisis.</desc><episode-num system="xmltv_ns">3.13.</episode-num></programme>
+<programme start="20241206090000 +0000" stop="20241206100000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Pandora</Sub-title><desc>Stabler is sent to Prague to look for a missing teenager whose pictures are showing up on child-porn websites.</desc><episode-num system="xmltv_ns">3.14.</episode-num></programme>
+<programme start="20241206100000 +0000" stop="20241206110000 +0000" channel="USA Network HDTV (East).us"><title>Law and Order: Special Victims Unit</title><Sub-title>Mean</Sub-title><desc>After a teenage girls body is found in the boot of a car, Benson and Stabler discover that the deceased had been harassing a classmate.</desc><episode-num system="xmltv_ns">4.16.</episode-num></programme>
+<programme start="20241206110000 +0000" stop="20241206120000 +0000" channel="USA Network HDTV (East).us"><title>NCIS: Los Angeles</title><Sub-title>Enemy Within</Sub-title><desc>A naval intelligence officer responsible for tracking a Venezuelan politician vanishes, and the agents believe the politicians life could be in danger.</desc><episode-num system="xmltv_ns">1.18.</episode-num></programme>
+<programme start="20241206120000 +0000" stop="20241206130000 +0000" channel="USA Network HDTV (East).us"><title>NCIS: Los Angeles</title><Sub-title>The Job</Sub-title><desc>A botched Marine-base theft has Kensi going undercover as a thief to determine what the criminals were trying to steal.</desc><episode-num system="xmltv_ns">1.19.</episode-num></programme>
+<programme start="20241206130000 +0000" stop="20241206140000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>All the Proof</Sub-title><desc>Halloween is in full effect for Foster and Brett, who are summoned to a home where a prank has quickly turned serious. Gorsch continues his reign of terror on Firehouse 51.</desc><episode-num system="xmltv_ns">6.5.</episode-num></programme>
+<programme start="20241206140000 +0000" stop="20241206150000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>What Will Define You</Sub-title><desc>Severide faces some major adversity and Kidd is on a mission to help in any way she can. Following a car accident rescue involving a teenage girl and her young sister, a suspicious Brett has an unsettling feeling there is more to the story than what appears on the surface.</desc><episode-num system="xmltv_ns">6.6.</episode-num></programme>
+<programme start="20241206150000 +0000" stop="20241206160000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>The Solution to Everything</Sub-title><desc>Firehouse 51 is called in to battle a dangerous structure fire that places everyone in peril. Severide makes a big personal realization. Casey lends another helping hand to Naomi, the investigative reporter.</desc><episode-num system="xmltv_ns">6.7.</episode-num></programme>
+<programme start="20241206160000 +0000" stop="20241206170000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>Always a Catch</Sub-title><desc>A massive car pile up on the freeway impacts someone dear to the firehouse family. Brett and Foster encounter a harrowing call, while Kidd and Severide find their relationship being tested.</desc><episode-num system="xmltv_ns">6.8.</episode-num></programme>
+<programme start="20241206170000 +0000" stop="20241206180000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>Inside These Walls</Sub-title><desc>A dangerous situation leaves Casey and Naomi in peril. Foster and Brett are in charge of planning a field trip visit to the station while Severide and Kidd go through tough times.</desc><episode-num system="xmltv_ns">6.9.</episode-num></programme>
+<programme start="20241206180000 +0000" stop="20241206190000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>You Choose</Sub-title><desc>Severides side project of fixing the boat for a wealthy acquaintance turns complicated and personal. Meanwhile, his relationship with Kidd is at a crossroads. Brett helps Casey search for a new apartment and Firehouse 51 decides to enter Tuesday in a dog competition.</desc><episode-num system="xmltv_ns">6.10.</episode-num></programme>
+<programme start="20241206190000 +0000" stop="20241206200000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>Make This Right</Sub-title><desc>The firehouse is called to a motorcycle crash, but Casey and Severide sense that the details dont add up and work to determine exactly what transpired. A rift develops between Mouch and Otis. Brett, Foster and Kidd work to secretly fix a dent in the ambulance bumper they believe they unknowingly caused.</desc><episode-num system="xmltv_ns">6.11.</episode-num></programme>
+<programme start="20241206200000 +0000" stop="20241206210000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>The Plunge</Sub-title><desc>Cruz leads the charge in getting the firehouse to gear up for the Polar Plunge. Herrmann has a hard time bouncing back after dealing with a tough call. Fosters personal relationships begin to interfere with her job.</desc><episode-num system="xmltv_ns">6.12.</episode-num></programme>
+<programme start="20241206210000 +0000" stop="20241206220000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>It Wasnt About Hockey</Sub-title><desc>Brett, Foster and Kidd take a road trip to Indiana for a getaway and encounter a bus accident involving a boys hockey team that will leave them scrambling and relying on their instincts to save those hurt in the accident. The rest of Firehouse 51 competes in the annual Chili Cook Off.</desc><episode-num system="xmltv_ns">6.13.</episode-num></programme>
+<programme start="20241206220000 +0000" stop="20241206230000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>When I Saw</Sub-title><desc>In the first part of a crossover with "Chicago P.D.," a spate of robberies comes to light after a firehouse lockbox key goes missing.</desc><episode-num system="xmltv_ns" /></programme>
+<programme start="20241206230000 +0000" stop="20241207000000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>Fault in Him</Sub-title><desc>During an emergency call, an unsuspecting Lt. Casey suddenly finds his life in peril. Grissom warns the firehouse that they will need to gear up for a performance evaluation. Otis discovers he won a raffle prize at a recent fundraiser and Brett is met with challenges in her personal life.</desc><episode-num system="xmltv_ns">6.15.</episode-num></programme>
+<programme start="20241207000000 +0000" stop="20241207010000 +0000" channel="USA Network HDTV (East).us"><title>Chicago Fire</title><Sub-title>Move a Wall</Sub-title><desc>Tensions flare between Casey and Herrmann when the firehouse responds to an apartment complex fire. After discovering something extremely suspicious during the call, Kidd and Severide do some investigating and get CPD on the case. Brett struggles to deal with her emotions while Herrmanns wife, Cindy, hopes to get her interior design business on track by taking a stab at redoing the common room.</desc><episode-num system="xmltv_ns">6.16.</episode-num></programme>
+<programme start="20241207010000 +0000" stop="20241207030000 +0000" channel="USA Network HDTV (East).us"><title>WWE SmackDown</title><Sub-title>12-06-2024</Sub-title><desc>The superstars of World Wrestling Entertainment unleash their mat mayhem in Minneapolis.</desc><episode-num system="xmltv_ns">25.47.</episode-num></programme>
+<programme start="20241207030000 +0000" stop="20241207033100 +0000" channel="USA Network HDTV (East).us"><title>Scare Tactics</title><Sub-title>Art Of Darkness</Sub-title><desc>A nightmare muse haunts an artist, an evil spirit stretches a yogi, a paranormal proposal.</desc><episode-num system="xmltv_ns">0.9.</episode-num></programme>
+<channel id="HBO.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Animal Planet US - East</display-name>
-  </channel>
-  <channel id="Disney.XD.USA.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
-  </channel>
-  <channel id="Showtime.Showcase.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Showcase HD - East</display-name>
-  </channel>
-  <channel id="HBO.Zone.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Zone HD - East</display-name>
-  </channel>
-  <channel id="Syfy.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Syfy - Eastern Feed</display-name>
+    <display-name lang="en">HBO - Eastern Feed</display-name>
   </channel>
   <channel id="Disney.-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
@@ -159,17 +163,59 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Disney - Eastern Feed</display-name>
   </channel>
-  <channel id="Showtime.Extreme.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+  <channel id="Showtime.Next.HD.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Extreme - Eastern</display-name>
+    <display-name lang="en">Showtime Next HD - Eastern</display-name>
   </channel>
-  <channel id="HBO.Latino.(HBO.7).-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+  <channel id="Showtime.Showcase.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
+    <display-name lang="en">Showtime Showcase HD - East</display-name>
+  </channel>
+  <channel id="Showtime.2.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime 2 - Eastern</display-name>
+  </channel>
+  <channel id="Discovery.Life.Channel.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Life Channel</display-name>
+  </channel>
+  <channel id="Disney.Junior.USA.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney Junior USA - East</display-name>
+  </channel>
+  <channel id="HBO.Family.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Family - Eastern Feed</display-name>
+  </channel>
+  <channel id="Animal.Planet.US.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16331_h9_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Animal Planet US - East</display-name>
+  </channel>
+  <channel id="Nick.Jr..-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Nick Jr. - East</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Comedy HD - East</display-name>
   </channel>
   <channel id="TNT.-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
@@ -177,17 +223,41 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">TNT - Eastern Feed</display-name>
   </channel>
-  <channel id="HBO.2.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+  <channel id="Syfy.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+    <display-name lang="en">Syfy - Eastern Feed</display-name>
   </channel>
-  <channel id="HBO.Family.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png" />
+  <channel id="Disney.XD.USA.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Family - Eastern Feed</display-name>
+    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
+  </channel>
+  <channel id="Discovery.Family.Channel.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Discovery Family Channel</display-name>
+  </channel>
+  <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+  </channel>
+  <channel id="Showtime.Women.HD.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Women HD - Eastern</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Showtime Extreme - Eastern</display-name>
   </channel>
   <channel id="Starz.-.Eastern.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
@@ -201,11 +271,17 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Altitude Sports - Denver</display-name>
   </channel>
-  <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
+  <channel id="HBO.2.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+  </channel>
+  <channel id="HBO.Latino.(HBO.7).-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s24553_h9_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Latino (HBO 7) - Eastern</display-name>
   </channel>
   <channel id="Discovery.Channel.(US).-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11150_h15_af.png" />
@@ -213,65 +289,17 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Discovery Channel (US) - Eastern Feed</display-name>
   </channel>
-  <channel id="HBO.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO - Eastern Feed</display-name>
-  </channel>
   <channel id="Nickelodeon.USA.-.Pacific.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Nickelodeon USA - Pacific Feed</display-name>
   </channel>
-  <channel id="Showtime.Next.HD.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68342_h15_aa.png" />
+  <channel id="HBO.Zone.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Next HD - Eastern</display-name>
-  </channel>
-  <channel id="Showtime.Women.HD.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68338_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime Women HD - Eastern</display-name>
-  </channel>
-  <channel id="Showtime.2.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Showtime 2 - Eastern</display-name>
-  </channel>
-  <channel id="Nick.Jr..-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s19211_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Nick Jr. - East</display-name>
-  </channel>
-  <channel id="Discovery.Life.Channel.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Life Channel</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Comedy HD - East</display-name>
-  </channel>
-  <channel id="Discovery.Family.Channel.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Discovery Family Channel</display-name>
-  </channel>
-  <channel id="Disney.Junior.USA.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s74796_h15_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney Junior USA - East</display-name>
+    <display-name lang="en">HBO Zone HD - East</display-name>
   </channel>
   <programme channel="Showtime.2.-.Eastern.us" start="20241204054000 -0500" stop="20241204072500 -0500">
     <title lang="en">Rocky Balboa</title>
