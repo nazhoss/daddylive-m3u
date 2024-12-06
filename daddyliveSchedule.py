@@ -103,7 +103,7 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             startHour = start_date.strftime("%I:%M %p") + " (MST)"
                             format_12_hour = format_12_hour + " - " + startHour
 
-                            UniqueID    = unique_ids.pop()
+                            UniqueID    = unique_ids.pop(0)
                             channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
                             channelID   = f"{channel['channel_id']}"
 
