@@ -58,6 +58,9 @@ https://xyzdddd.mizhls.ru/lb/premium797/index.m3u8
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA (DADDY LIVE)", Starz
 https://xyzdddd.mizhls.ru/lb/premium335/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="Cinemax USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA (DADDY LIVE)", Cinemax USA
+https://xyzdddd.mizhls.ru/lb/premium374/index.m3u8
+
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="SYFY USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="USA (DADDY LIVE)", SYFY USA
 https://xyzdddd.mizhls.ru/lb/premium373/index.m3u8
 
@@ -79,3 +82,17 @@ https://xyzdddd.mizhls.ru/lb/premium313/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="USA (DADDY LIVE)", Discovery Family
 https://xyzdddd.mizhls.ru/lb/premium657/index.m3u8
 
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="USA (DADDY LIVE)", NHL Network USA
+https://xyzdddd.mizhls.ru/lb/premium663/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="USA (DADDY LIVE)", NFL Network
+https://xyzdddd.mizhls.ru/lb/premium405/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="USA (DADDY LIVE)", ESPN USA
+https://xyzdddd.mizhls.ru/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="USA (DADDY LIVE)", ESPN2 USA
+https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPN U USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="USA (DADDY LIVE)", ESPN USA
+https://xyzdddd.mizhls.ru/lb/premium316/index.m3u8

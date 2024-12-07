@@ -25,3 +25,9 @@ Nickelodeon.USA.-.Pacific.Feed.us
 Discovery.Family.Channel.us
 Discovery.Life.Channel.us
 Discovery.Channel.(US).-.Eastern.Feed.us
+NHL.Network.USA.us
+ESPN.us
+ESPN2.us
+ESPN.U.us
+Cinemax.-.Eastern.Feed.us
+NFL.Network.us

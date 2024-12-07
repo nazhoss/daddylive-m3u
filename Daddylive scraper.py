@@ -166,7 +166,7 @@ search_terms = [
     # "TNT"]
     # "Lifetime",
     # "CBS",
-    "Discovery"]
+    # "Discovery"]
     # "NHL",
     # "gamecenter".
     # "Fox"]
@@ -189,6 +189,11 @@ search_terms = [
     # "Starz",
     # "syfy"]
     # "Bally"
+    # "NHL"]
+    # "ESPN"]
+    # "cinemax"]
+    # "fox"]
+    "nfl network"]
 # ]
 
 
@@ -222,7 +227,7 @@ for channel in matches:
     if(channelID != -1 and channelID != None):
         tvicon = print_possible_ids(matches, channel[1])
         if tvicon == None or tvicon == -1:
-            tvicon = {'path':''}
+            tvicon = {'id':{'path':''}}
 
         with open("out.m3u8", 'a', encoding='utf-8') as file:  # Use 'a' mode for appending
             initialPath = payload.get('initial_path')
