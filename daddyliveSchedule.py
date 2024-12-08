@@ -86,7 +86,7 @@ def addChannelsByLeagueSport(leagueSportTuple):
                     
                         for channel in game["channels"]:
                             #Creating Time Data
-                            date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ")
+                            date_time = day.replace("th ", " ").replace("rd ", " ").replace("st ", " ").replace("nd ", " ").replace("Dec Dec", "Dec")
                             date_time = date_time.replace("-", game["time"] + " -")
                             # Parse the cleaned date string into a datetime object
                             date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
