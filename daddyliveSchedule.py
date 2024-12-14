@@ -104,7 +104,12 @@ def addChannelsByLeagueSport(leagueSportTuple):
                             format_12_hour = format_12_hour + " - " + startHour
 
                             UniqueID    = unique_ids.pop(0)
-                            channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
+                            try:
+                                channelName = game["event"] + " " + format_12_hour + " " + channel["channel_name"]
+                            except TypeError:
+                                print("Ill formatted JSON, skipping this channel for this game.")
+                                continue
+                            
                             channelID   = f"{channel['channel_id']}"
 
                             global channelCount
