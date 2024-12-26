@@ -29,6 +29,7 @@ jobs:
         run: |
           python epg-grabber/getEpgs.py
           python daddyliveSchedule.py
+          python Daddylive.py
 
       - name: Force commit and push the changes (no history)
         run: |
